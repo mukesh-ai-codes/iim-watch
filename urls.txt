@@ -1,0 +1,58 @@
+# IPMAT / IIM UG official-update watch list
+# Format:  Name | URL      (lines starting with # are ignored)
+
+# --- IPMAT Indore + colleges using its score ---
+IIM Indore (home) | https://www.iimidr.ac.in/
+IIM Indore IPM admissions | https://iimidr.ac.in/programmes/academic-programmes/five-year-integrated-programme-in-management-ipm/ipm-admissions-details/
+IIM Ranchi IPM | https://iimranchi.ac.in/p/ipm
+IIM Ranchi (home) | https://iimranchi.ac.in/
+IIM Shillong IPM | https://www.iimshillong.ac.in/ipm/admission-process
+IIM Shillong portal | https://apps.iimshillong.ac.in/admission/
+IIM Shillong (home) | https://www.iimshillong.ac.in/
+IIM Amritsar IPM (BSQFE) | https://iimamritsar.ac.in/academics/ipm/about-program
+IIM Sirmaur BMS | https://iimsirmaur.ac.in/bachelors-management-studies-bms
+IIM Sirmaur admissions | https://admissions.iimsirmaur.ac.in/
+IIFT Kakinada IPM (home) | https://www.iift.ac.in/
+IIM Sambalpur BS MPP | https://iimsambalpur.ac.in/bachelor-of-science-b-s-in-management-and-public-policy/
+IIM Sambalpur (home) | https://iimsambalpur.ac.in/
+
+# --- IPMAT Rohtak ---
+IIM Rohtak (home) | https://www.iimrohtak.ac.in/
+
+# --- JIPMAT ---
+NTA JIPMAT | https://exams.nta.nic.in/jipmat/
+NTA (home) | https://nta.ac.in/
+IIM Bodh Gaya IPM | https://iimbg.ac.in/programs/ipm
+IIM Jammu IPM policy | https://iimj.ac.in/programs/ipm/ipm-admission-policy.php
+IIM Jammu (home) | https://www.iimj.ac.in/
+
+# --- IIM Bangalore ---
+IIMB UG (UGAT/BSc) | https://ug.iimb.ac.in/
+IIMB UG FAQ | https://ug.iimb.ac.in/faq/
+IIMB BBA DBE admissions | https://dbe.iimb.ac.in/admissions
+IIMB BBA DBE news | https://dbe.iimb.ac.in/category/news-and-announcements/
+IIM Bangalore (home) | https://www.iimb.ac.in/
+
+# --- Other IIM UG ---
+IIM Kozhikode BMS | https://www.iimk.ac.in/admission_announcements
+IIM Mumbai BS overview | https://iimmumbai.ac.in/ug-programme-overview
+IIM Mumbai admissions | https://iimmumbai.ac.in/admissions/
+IIM Lucknow (home) | https://www.iiml.ac.in/
+IIM Udaipur news | https://news.iimu.ac.in/
+
+# --- NPAT / SET / Christ ---
+NMIMS NPAT | https://npat.nmims.edu/
+NMIMS (home) | https://www.nmims.edu/
+Symbiosis SET | https://www.set-test.org/
+Christ University | https://christuniversity.in/
+
+# --- Other IPMAT-score colleges (homepages; exact pages to be pinned) ---
+Nirma University | https://nirmauni.ac.in/
+NALSAR | https://www.nalsar.ac.in/
+TAPMI | https://www.tapmi.edu.in/
+IFMR Krea | https://krea.edu.in/
+NICMAR University | https://www.nicmar.ac.in/
+Alliance University | https://www.alliance.edu.in/
+JAGSoM | https://www.jagsom.edu.in/
+NIIT University | https://www.niituniversity.in/
+NFSU | https://www.nfsu.ac.in/
