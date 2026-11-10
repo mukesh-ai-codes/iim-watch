@@ -53,7 +53,7 @@
  },
  "https://christuniversity.in/": {
   "fails": 0,
-  "hash": "4545e64c517add084081a83037dc791ff941d155c1b4041dfadf7bbb620e3299",
+  "hash": "1f967add3afc30d0eccb3e94d0305440979926c5a55da52383cfc5f5f120dd31",
   "links": {
    "http://192.168.100.100:8090": "Internet Login",
    "http://alumni.christuniversity.in/": "Alumni",
@@ -157,6 +157,7 @@
    "https://christuniversity.in/nep-at-christ-(deemed-to-be-university)": "NEP at CHRIST (Deemed to be University)",
    "https://christuniversity.in/news": "VIEW ALL ARCHIVES",
    "https://christuniversity.in/news/Q29uZ3JhdHVsYXRpb25zIHRvIE91ciBTdHVkZW50cyBvbiBDb21wbGV0aW5nIEFsbCAxMyBBQ0NBIEV4YW1pbmF0aW9ucw==": "Read Full Story",
+   "https://christuniversity.in/news/QSBodWdlIGNvbmdyYXR1bGF0aW9ucyB0byBhbGwgb3VyIHdpbm5lcnMgd2hvIHJlcHJlc2VudGVkIENocmlzdCBVbml2ZXJzaXR5IGF0IFNhcmdhbSAtIE5ldyBIb3Jpem9uIENvbGxlZ2Ugb2YgRW5naW5lZXJpbmcgYW5kIEF1dHVtbiBNdXNl": "Read Full Story",
    "https://christuniversity.in/newsletters": "Newsletters",
    "https://christuniversity.in/notices": "Notices and Circulars",
    "https://christuniversity.in/online-payment-portal": "Certificates / Events - Online Payment Portal",
@@ -1615,13 +1616,13 @@
   "name": "IIM Sambalpur (home)"
  },
  "https://iimsambalpur.ac.in/bachelor-of-science-b-s-in-management-and-public-policy/": {
-  "fails": 2,
+  "fails": 3,
   "hash": null,
   "links": {},
   "name": "IIM Sambalpur BS MPP"
  },
  "https://iimsirmaur.ac.in/bachelors-management-studies-bms": {
-  "fails": 2,
+  "fails": 3,
   "hash": null,
   "links": {},
   "name": "IIM Sirmaur BMS"
@@ -2064,7 +2065,7 @@
   "name": "IIM Udaipur news"
  },
  "https://nirmauni.ac.in/": {
-  "fails": 2,
+  "fails": 3,
   "hash": null,
   "links": {},
   "name": "Nirma University"
@@ -3027,7 +3028,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "cf4e11a9fc2804b697f6814bdd86feae05bfe4bd051b53298eac07f0123eeef6",
+  "hash": "16a6dadfde6393f18874479964408cf29706858eb19a24ceaf5a9debad9a56f5",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -3355,7 +3356,7 @@
  },
  "https://www.iimb.ac.in/": {
   "fails": 0,
-  "hash": "e9d031ed7adf1ca3982df9e491aeaf34b1f5da3c773034f759fbf9f0634bfb17",
+  "hash": "06a1f1e91c5ca95b26887091edad931c68ed366dd428dc55c2a91b1ef59629d1",
   "links": {
    "https://blog.iimb.ac.in/": "Blog",
    "https://dbe.iimb.ac.in/": "BBA in Digital Business and Entrepreneurship (BBA DBE)",
@@ -3506,7 +3507,7 @@
    "https://www.iimb.ac.in/mgnf": "Mahatma Gandhi National Fellowship",
    "https://www.iimb.ac.in/mijsc/": "Mizuho India Japan Study Centre",
    "https://www.iimb.ac.in/nirf-india-rankings": "NIRF",
-   "https://www.iimb.ac.in/node/10481": "20 th Nov CCGS to host International Corporate Governance & Sustainability Conference 2026 Read More",
+   "https://www.iimb.ac.in/node/10481": "20 th Nov International Corporate Governance & Sustainability Conference 2026 on 20 & 21 November Read More",
    "https://www.iimb.ac.in/node/13522": "Carbon Footprint Report",
    "https://www.iimb.ac.in/node/14808": "Journal Article: 'Traversing India’s Expedition of Digital Public Goods: Entrepreneurial Learnings for State-led Transformation' Prof. Shankhadeep Banerjee",
    "https://www.iimb.ac.in/node/14826": "Journal Article: 'Unpacking the Speed of MNE Internationalization: Theoretical Insights and Future Directions' Prof. Sandeep Yadav",
