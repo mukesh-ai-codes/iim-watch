@@ -1621,13 +1621,13 @@
   "name": "IIM Sambalpur (home)"
  },
  "https://iimsambalpur.ac.in/bachelor-of-science-b-s-in-management-and-public-policy/": {
-  "fails": 7,
+  "fails": 8,
   "hash": null,
   "links": {},
   "name": "IIM Sambalpur BS MPP"
  },
  "https://iimsirmaur.ac.in/bachelors-management-studies-bms": {
-  "fails": 7,
+  "fails": 8,
   "hash": null,
   "links": {},
   "name": "IIM Sirmaur BMS"
@@ -2076,7 +2076,7 @@
   "name": "IIM Udaipur news"
  },
  "https://nirmauni.ac.in/": {
-  "fails": 7,
+  "fails": 8,
   "hash": null,
   "links": {},
   "name": "Nirma University"
@@ -3039,7 +3039,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "4178064ca50d66d83722b7f67b18759b39ac5e76d76f75eda72a5497e5702347",
+  "hash": "045e8295fc96dd1d6eeec62f95806d1b741b78d57499f9f9ac173e5f40271429",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
