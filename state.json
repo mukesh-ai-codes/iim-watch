@@ -1626,13 +1626,13 @@
   "name": "IIM Sambalpur (home)"
  },
  "https://iimsambalpur.ac.in/bachelor-of-science-b-s-in-management-and-public-policy/": {
-  "fails": 10,
+  "fails": 11,
   "hash": null,
   "links": {},
   "name": "IIM Sambalpur BS MPP"
  },
  "https://iimsirmaur.ac.in/bachelors-management-studies-bms": {
-  "fails": 10,
+  "fails": 11,
   "hash": null,
   "links": {},
   "name": "IIM Sirmaur BMS"
@@ -2082,7 +2082,7 @@
   "name": "IIM Udaipur news"
  },
  "https://nirmauni.ac.in/": {
-  "fails": 10,
+  "fails": 11,
   "hash": null,
   "links": {},
   "name": "Nirma University"
@@ -3046,7 +3046,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "19eb549e389b65fb578e209b71c50c6b7dec9b1de37c3d6cfd7750906b8e0115",
+  "hash": "967a80aa0d2175cf1f48bac4c0e07b8129e65c29c63651b6f44f93d2684e8122",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -5363,7 +5363,7 @@
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "3652d8180118351c83ff44968386501e76b478d8e25fb544e8bf4dd445957867",
+  "hash": "a9b96e5b633251cbba1002dd21f5f161d32c27c903174f5231ae127af4c5d886",
   "links": {
    "http://www.nad.gov.in/": "National Academic Depository (NAD)",
    "https://advertising.nmims.edu/": "Branding & Advertising",
@@ -5770,6 +5770,8 @@
    "https://mmc.gunungmaskab.go.id/2026/11/12/teknologi-heatmap-untuk-memetakan-posisi-wild-dalam-wild-bandito-membaca-sebaran-simbol-melalui-analisis-data-permainan": "Teknologi Heatmap untuk Memetakan Posisi Wild dalam Wild Bandito, Membaca Sebaran Simbol melalui Analisis Data Permainan",
    "https://mmc.gunungmaskab.go.id/2026/11/12/teknologi-pendingin-hp-gaming-untuk-gates-of-olympus-performa-stabil-saat-turbo-spin-dan-misteri-petir-beruntun": "Teknologi Pendingin HP Gaming untuk Gates of Olympus, Performa Stabil saat Turbo Spin dan Misteri Petir Beruntun",
    "https://mmc.gunungmaskab.go.id/2026/11/12/wild-ape-di-hp-dengan-aplikasi-perekam-layar-aktif-cara-mengenali-beban-latar-belakang-sebelum-menyalahkan-animasi/": "Wild Ape di HP dengan Aplikasi Perekam Layar Aktif, Cara Mengenali Beban Latar Belakang sebelum Menyalahkan Animasi",
+   "https://mmc.gunungmaskab.go.id/2026/11/13/mengapa-pola-scatter-gates-of-olympus-pragmatic-play-sering-dianggap-bisa-diprediksi-ini-penjelasan-rng-di-baliknya/": "Mengapa Pola Scatter Gates of Olympus Pragmatic Play Sering Dianggap Bisa Diprediksi? Ini Penjelasan RNG di Baliknya",
+   "https://mmc.gunungmaskab.go.id/2026/11/13/shio-naga-dan-ular-dalam-budaya-tiongkok-mengapa-fortune-dragon-dan-fortune-snake-pg-soft-memiliki-simbol-keberuntungan-berbeda/": "Shio Naga dan Ular dalam Budaya Tiongkok, Mengapa Fortune Dragon dan Fortune Snake PG Soft Memiliki Simbol Keberuntungan Berbeda?",
    "https://mobilelegends.id": "LaneID: Build Hero, Tier List & Tips Mobile Legends",
    "https://mommya-z.com": "Mommy A–Z: Panduan Kehamilan, Menyusui & Parenting",
    "https://monitory.id": "Monitory: Review Monitor, PC & Gadget Terbaru",
