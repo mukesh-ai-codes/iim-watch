@@ -1360,6 +1360,7 @@
    "https://www.facebook.com/IIMRanchi": "Facebook",
    "https://www.instagram.com/iim_ranchi/": "Instagram",
    "https://www.linkedin.com/school/indian-institute-of-management-ranchi/": "Linkedin",
+   "https://www.nulearn.in/courses/accelerator-programme-in-data-driven-business-analytics-generative-ai": "accelerator-programme-in-data-driven-business-analytics-generative-ai",
    "https://www.nulearn.in/courses/post-graduate-certification-in-advanced-general-management-iim-ranchi": "post-graduate-certification-in-advanced-general-management-iim-ranchi",
    "https://www.nulearn.in/courses/post-graduate-certification-in-advanced-hrm-and-strategic-analytics": "post-graduate-certification-in-advanced-hrm-and-strategic-analytics",
    "https://www.nulearn.in/courses/post-graduate-certification-in-leadership-and-change-management": "post-graduate-certification-in-leadership-and-change-management",
@@ -1491,6 +1492,7 @@
    "https://www.facebook.com/IIMRanchi": "Facebook",
    "https://www.instagram.com/iim_ranchi/": "Instagram",
    "https://www.linkedin.com/school/indian-institute-of-management-ranchi/": "Linkedin",
+   "https://www.nulearn.in/courses/accelerator-programme-in-data-driven-business-analytics-generative-ai": "accelerator-programme-in-data-driven-business-analytics-generative-ai",
    "https://www.nulearn.in/courses/post-graduate-certification-in-advanced-general-management-iim-ranchi": "post-graduate-certification-in-advanced-general-management-iim-ranchi",
    "https://www.nulearn.in/courses/post-graduate-certification-in-advanced-hrm-and-strategic-analytics": "post-graduate-certification-in-advanced-hrm-and-strategic-analytics",
    "https://www.nulearn.in/courses/post-graduate-certification-in-leadership-and-change-management": "post-graduate-certification-in-leadership-and-change-management",
@@ -1626,13 +1628,13 @@
   "name": "IIM Sambalpur (home)"
  },
  "https://iimsambalpur.ac.in/bachelor-of-science-b-s-in-management-and-public-policy/": {
-  "fails": 11,
+  "fails": 12,
   "hash": null,
   "links": {},
   "name": "IIM Sambalpur BS MPP"
  },
  "https://iimsirmaur.ac.in/bachelors-management-studies-bms": {
-  "fails": 11,
+  "fails": 12,
   "hash": null,
   "links": {},
   "name": "IIM Sirmaur BMS"
@@ -2082,7 +2084,7 @@
   "name": "IIM Udaipur news"
  },
  "https://nirmauni.ac.in/": {
-  "fails": 11,
+  "fails": 12,
   "hash": null,
   "links": {},
   "name": "Nirma University"
@@ -2119,7 +2121,7 @@
  },
  "https://nta.ac.in/": {
   "fails": 0,
-  "hash": "1da4fcee2671e445a4aabeeb02ceb92e7b29f2179ac5c295339a572875b43d48",
+  "hash": "93f350ae61f9ec02f76d5d062610822e99e30ac7f5438a048eb3887c1a0e4d07",
   "links": {
    "http://cbtc.nta.ac.in/observer": "Registration for observers of NTA is open. All eligible observer are requested to register themselves.",
    "http://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/202610161905649093.pdf": "Public Notice Corrigendum to the Information Bulletin of UGC-NET December 2026 Examination",
@@ -2132,6 +2134,7 @@
    "https://cuet.nta.nic.in/": "Common University Entrance Test-UG (CUET-UG)",
    "https://data.gov.in": "https://data.gov.in | The Objective of Open Government Data Platform India",
    "https://education.gov.in": "education.gov.in",
+   "https://eoi.nta.gov.in/": "Exam Centres Empanelment",
    "https://examinationservices.nic.in/RecSys26Part2/root/login.aspx?enc=Ei4cajBkK1gZSfgr53ImFdyjti2m8EDkNwdDoyf3gQN44sKc4A2OTdr3CwBmKcrN": "Apply for Subject Matter Experts",
    "https://examinationservices.nic.in/RecSys26Part2/root/login.aspx?enc=Ei4cajBkK1gZSfgr53ImFdyjti2m8EDkNwdDoyf3gQPNdKQkm%2F2Z06V2MrU0Aj37": "Apply for Translation Reviewers",
    "https://exams.nta.nic.in/AIAPGET/": "All India AYUSH Post Graduate Entrance Test (AIAPGET)",
@@ -3019,6 +3022,7 @@
    "https://nta.ac.in/medicalexam": "Medical National Eligibility Cum Entrance Test - (UG)",
    "https://nta.ac.in/object": "Objectives",
    "https://nta.ac.in/rti": "Right to Information",
+   "https://observermanagement.nta.gov.in/": "Observer Empanelment",
    "https://play.google.com/store/apps/dev?id=7746914636480815659": "Play Store",
    "https://twitter.com/NTA_exams": "Twitter",
    "https://ugcnet.nta.nic.in": "UGC National Eligibility Test (UGC-NET)",
@@ -3046,7 +3050,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "967a80aa0d2175cf1f48bac4c0e07b8129e65c29c63651b6f44f93d2684e8122",
+  "hash": "15f53a481dcd96aef4f63f02a1b52a941c3949d734ae2cc1193666405d3c6864",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -3210,6 +3214,7 @@
    "https://www.alliance.edu.in/wp-content/uploads/2025/12/Rectangle-6169-1.png": "Rectangle-6169-1.png",
    "https://www.alliance.edu.in/wp-content/uploads/2025/12/Rectangle-6172-1.png": "Rectangle-6172-1.png",
    "https://www.alliance.edu.in/wp-content/uploads/2026/03/ombudsman.pdf": "Ombudsman",
+   "https://www.alliance.edu.in/wp-content/uploads/2026/04/Academic-Council-Notification-AC-19.01.2026.pdf": "Academic Council",
    "https://www.alliance.edu.in/wp-content/uploads/2026/04/Academic-Council-Notification-AC-28.08.2024-1.pdf": "Academic Council",
    "https://www.alliance.edu.in/wp-content/uploads/2026/04/BOG-Notification-31.05.2024.pdf": "Board of Governors",
    "https://www.alliance.edu.in/wp-content/uploads/2026/04/BOM-Notifications-27.4.2023.pdf": "Board of Management",
@@ -3221,6 +3226,7 @@
    "https://www.alliance.edu.in/wp-content/uploads/2026/04/Frame-11526.svg": "Frame-11526.svg",
    "https://www.alliance.edu.in/wp-content/uploads/2026/04/Frame-11533.svg": "Frame-11533.svg",
    "https://www.alliance.edu.in/wp-content/uploads/2026/04/RC-Notification-02.04.2025.pdf": "Research Council",
+   "https://www.alliance.edu.in/wp-content/uploads/2026/04/RC-Notification-28.03.2026.pdf": "Research Council",
    "https://www.alliance.edu.in/wp-content/uploads/2026/06/Rectangle-6166.png": "Rectangle-6166.png",
    "https://www.alliance.edu.in/wp-content/uploads/2026/06/Rectangle-6171.png": "Rectangle-6171.png",
    "https://www.alliance.edu.in/wp-content/uploads/2026/06/Rectangle-6789.png": "Rectangle-6789.png",
@@ -3379,7 +3385,7 @@
  },
  "https://www.iimb.ac.in/": {
   "fails": 0,
-  "hash": "0c6293836f426de626b01d06286fc8dd0196f367ee4b94ba3ba46035d0229885",
+  "hash": "24fe94f1f2e9ee8ba1ca0fb47dd9ec9b9a6a81e0ada4e2a755ad734f8e655f3f",
   "links": {
    "https://blog.iimb.ac.in/": "Blog",
    "https://dbe.iimb.ac.in/": "BBA in Digital Business and Entrepreneurship (BBA DBE)",
@@ -3800,6 +3806,7 @@
    "https://drive.google.com/file/d/1AKpeoK-6ANZPraAV5c07IiTZnncX_MnN/view": "IIM Jammu Concludes Second Batch of Operational Management Programme for Armed Forces Personnel under Directorate General Resettlement (DGR) Ministry of Defence",
    "https://drive.google.com/file/d/1AOEzCEYfSE7sq1zAK_jEo3TPM0LctDQs/view?usp=sharing": "Exclusive Insights | Prof. B.S. Sahay, Director, IIM Jammu, shares his vision and perspectives in an exclusive interview published in Amar Ujala-27th March 2026",
    "https://drive.google.com/file/d/1BCeSY-O03bwymaXTXbzfI68tAU_nMHEn/view": "IIM Jammu in association with Mera Yuva (MY) Bharat Jammu and Kashmir Hosts Khelo India Samvaad with Hon'ble PM Shri Narendra Modi Ji on National Sports Day 2026",
+   "https://drive.google.com/file/d/1BI2tIKT1lIyPG-lPenpfGO_crIyVwE3H/view?usp=sharing": "view?usp=sharing",
    "https://drive.google.com/file/d/1BNhkw7l0TF7g1FWv_TUneCfpsjtP4HA4/view": "IIM Jammu Concludes Senior Leadership Development Programme for officials of Canara Bank",
    "https://drive.google.com/file/d/1BtPr0fqP5XnzObgnv9IEPw4PlhfjgHCP/view?usp=sharing": "“एआई भविष्य के लिए आवश्यक है, लेकिन समझदारी से उपयोग करना अत्यंत जरूरी है-Amar Ujala-28th Feb 2026-reg.",
    "https://drive.google.com/file/d/1CMdzzJsM99Vcqbo43hQMBiuQe7ZjU5z7/view": "IIM Jammu Organizes Management Development Program on Generative AI Fundamentals for Leaders",
@@ -5363,7 +5370,7 @@
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "a9b96e5b633251cbba1002dd21f5f161d32c27c903174f5231ae127af4c5d886",
+  "hash": "4da379987a5f3122694d79d255b270ff39d7aa8da830346ca9a391cf970171f1",
   "links": {
    "http://www.nad.gov.in/": "National Academic Depository (NAD)",
    "https://advertising.nmims.edu/": "Branding & Advertising",
@@ -5770,8 +5777,23 @@
    "https://mmc.gunungmaskab.go.id/2026/11/12/teknologi-heatmap-untuk-memetakan-posisi-wild-dalam-wild-bandito-membaca-sebaran-simbol-melalui-analisis-data-permainan": "Teknologi Heatmap untuk Memetakan Posisi Wild dalam Wild Bandito, Membaca Sebaran Simbol melalui Analisis Data Permainan",
    "https://mmc.gunungmaskab.go.id/2026/11/12/teknologi-pendingin-hp-gaming-untuk-gates-of-olympus-performa-stabil-saat-turbo-spin-dan-misteri-petir-beruntun": "Teknologi Pendingin HP Gaming untuk Gates of Olympus, Performa Stabil saat Turbo Spin dan Misteri Petir Beruntun",
    "https://mmc.gunungmaskab.go.id/2026/11/12/wild-ape-di-hp-dengan-aplikasi-perekam-layar-aktif-cara-mengenali-beban-latar-belakang-sebelum-menyalahkan-animasi/": "Wild Ape di HP dengan Aplikasi Perekam Layar Aktif, Cara Mengenali Beban Latar Belakang sebelum Menyalahkan Animasi",
+   "https://mmc.gunungmaskab.go.id/2026/11/13/ai-membandingkan-pola-sebelum-dan-sesudah-bonus-starlight-princess-dua-kelompok-data-yang-tidak-boleh-dicampur": "AI Membandingkan Pola Sebelum dan Sesudah Bonus Starlight Princess, Dua Kelompok Data yang Tidak Boleh Dicampur",
+   "https://mmc.gunungmaskab.go.id/2026/11/13/ai-menguji-klaim-pola-tiga-lompatan-pada-wild-bounty-showdown-membandingkan-jarak-antarkejadian-dengan-data-acak": "AI Menguji Klaim Pola Tiga Lompatan pada Wild Bounty Showdown, Membandingkan Jarak Antarkejadian dengan Data Acak",
+   "https://mmc.gunungmaskab.go.id/2026/11/13/dua-rekaman-gates-of-olympus-memperlihatkan-petir-berurutan-memahami-perbedaan-kesamaan-adegan-dan-kesamaan-peluang": "Dua Rekaman Gates of Olympus Memperlihatkan Petir Berurutan, Memahami Perbedaan Kesamaan Adegan dan Kesamaan Peluang",
+   "https://mmc.gunungmaskab.go.id/2026/11/13/hp-dengan-ram-8-gb-atau-12-gb-untuk-merekam-starlight-princess-mengukur-pengaruh-multitasking-pada-video-permainan": "HP dengan RAM 8 GB atau 12 GB untuk Merekam Starlight Princess, Mengukur Pengaruh Multitasking pada Video Permainan",
+   "https://mmc.gunungmaskab.go.id/2026/11/13/jam-18-08-pada-rekaman-mahjong-ways-menguji-apakah-waktu-yang-tertera-berasal-dari-sesi-atau-penyuntingan-video": "Jam 18.08 pada Rekaman Mahjong Ways, Menguji Apakah Waktu yang Tertera Berasal dari Sesi atau Penyuntingan Video",
+   "https://mmc.gunungmaskab.go.id/2026/11/13/ketika-ai-salah-mengira-ornamen-sebagai-scatter-mahjong-ways-2-kesalahan-kecil-yang-mengacaukan-catatan-pola": "Ketika AI Salah Mengira Ornamen sebagai Scatter Mahjong Ways 2, Kesalahan Kecil yang Mengacaukan Catatan Pola",
    "https://mmc.gunungmaskab.go.id/2026/11/13/mengapa-pola-scatter-gates-of-olympus-pragmatic-play-sering-dianggap-bisa-diprediksi-ini-penjelasan-rng-di-baliknya/": "Mengapa Pola Scatter Gates of Olympus Pragmatic Play Sering Dianggap Bisa Diprediksi? Ini Penjelasan RNG di Baliknya",
+   "https://mmc.gunungmaskab.go.id/2026/11/13/misteri-wild-mahjong-ways-di-sisi-kiri-dan-kanan-menilai-apakah-letak-simbol-mengubah-cara-kombinasi-dibaca": "Misteri Wild Mahjong Ways di Sisi Kiri dan Kanan, Menilai Apakah Letak Simbol Mengubah Cara Kombinasi Dibaca",
+   "https://mmc.gunungmaskab.go.id/2026/11/13/prosesor-hp-kelas-menengah-saat-menjalankan-mahjong-ways-mengapa-performa-stabil-tidak-sama-dengan-hasil-kemenangan": "Prosesor HP Kelas Menengah saat Menjalankan Mahjong Ways, Mengapa Performa Stabil Tidak Sama dengan Hasil Kemenangan",
+   "https://mmc.gunungmaskab.go.id/2026/11/13/scatter-beruntun-di-mahjong-ways-2-tampak-membentuk-ritme-cara-membandingkan-jeda-putaran-tanpa-menebak-hasil": "Scatter Beruntun di Mahjong Ways 2 Tampak Membentuk Ritme, Cara Membandingkan Jeda Putaran Tanpa Menebak Hasil",
+   "https://mmc.gunungmaskab.go.id/2026/11/13/scatter-gates-of-olympus-muncul-di-awal-dan-akhir-sesi-membaca-mengapa-jarak-waktu-tidak-sama-dengan-peluang": "Scatter Gates of Olympus Muncul di Awal dan Akhir Sesi, Membaca Mengapa Jarak Waktu Tidak Sama dengan Peluang",
+   "https://mmc.gunungmaskab.go.id/2026/11/13/shio-harimau-dan-motif-garis-emas-mahjong-ways-menelusuri-dua-simbol-keberanian-dalam-cerita-keberuntungan": "Shio Harimau dan Motif Garis Emas Mahjong Ways, Menelusuri Dua Simbol Keberanian dalam Cerita Keberuntungan",
+   "https://mmc.gunungmaskab.go.id/2026/11/13/shio-kelinci-dan-angka-empat-dalam-perbincangan-pg-soft-memisahkan-tafsir-budaya-dari-perhitungan-permainan": "Shio Kelinci dan Angka Empat dalam Perbincangan PG Soft, Memisahkan Tafsir Budaya dari Perhitungan Permainan",
+   "https://mmc.gunungmaskab.go.id/2026/11/13/shio-naga-dan-motif-awan-pembawa-hujan-membaca-simbol-alam-dalam-perbincangan-mahjong-ways": "Shio Naga dan Motif Awan Pembawa Hujan, Membaca Simbol Alam dalam Perbincangan Mahjong Ways",
    "https://mmc.gunungmaskab.go.id/2026/11/13/shio-naga-dan-ular-dalam-budaya-tiongkok-mengapa-fortune-dragon-dan-fortune-snake-pg-soft-memiliki-simbol-keberuntungan-berbeda/": "Shio Naga dan Ular dalam Budaya Tiongkok, Mengapa Fortune Dragon dan Fortune Snake PG Soft Memiliki Simbol Keberuntungan Berbeda?",
+   "https://mmc.gunungmaskab.go.id/2026/11/13/wild-bounty-showdown-dan-pola-respin-yang-terputus-pentingnya-mencatat-perubahan-simbol-pada-setiap-tahap": "Wild Bounty Showdown dan Pola Respin yang Terputus, Pentingnya Mencatat Perubahan Simbol pada Setiap Tahap",
+   "https://mmc.gunungmaskab.go.id/2026/11/13/wild-mahjong-ways-tercatat-pada-jam-03-33-mengapa-angka-kembar-membuat-satu-putaran-terasa-lebih-istimewa": "Wild Mahjong Ways Tercatat pada Jam 03.33, Mengapa Angka Kembar Membuat Satu Putaran Terasa Lebih Istimewa",
    "https://mobilelegends.id": "LaneID: Build Hero, Tier List & Tips Mobile Legends",
    "https://mommya-z.com": "Mommy A–Z: Panduan Kehamilan, Menyusui & Parenting",
    "https://monitory.id": "Monitory: Review Monitor, PC & Gadget Terbaru",
