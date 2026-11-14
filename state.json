@@ -53,7 +53,7 @@
  },
  "https://christuniversity.in/": {
   "fails": 0,
-  "hash": "0c6fb10092e36e3c85356673abfa00a57cc873f3a805ae6bf8063a899216582b",
+  "hash": "f92ab4ba7a36e8818778c2a2249f896eb31fbb1b52a65cc27e7ea33de404358b",
   "links": {
    "http://192.168.100.100:8090": "Internet Login",
    "http://alumni.christuniversity.in/": "Alumni",
@@ -137,13 +137,17 @@
    "https://christuniversity.in/events/37214": "Nov 11 2026 The Arpandemic Quiz 11 Nov 04:00 PM - 06:00 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37215": "Nov 11 2026 Experiential Learning Lab Menu - French Cuisine 11 Nov 12:30 PM - 02:00 AM Bangalore Central Campus",
    "https://christuniversity.in/events/37216": "Nov 14 2026 Online Workshop on Analysis of Large Datasets Using R 14 Nov - 15 Nov 06:00 PM - 08:35 PM Bangalore Central Campus",
+   "https://christuniversity.in/events/37217": "Nov 16 2026 Impact in Action: Expert Insights on SDGs 16 Nov 10:30 AM - 12:07 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37222": "Nov 12 2026 Public Viva-Voce Examination - Angeliya C U 12 Nov 11:00 AM - 02:00 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37223": "Nov 12 2026 Public Viva-Voce Examination - Joanna Priyadarshini Udaykumar 12 Nov 10:00 AM - 02:00 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37224": "Nov 16 2026 Intercollegiate E-Poster Competition on Antimicrobial Resistance 16 Nov 09:00 AM - 05:00 PM Bangalore Central Campus",
+   "https://christuniversity.in/events/37230": "Nov 16 2026 GOAL 2026 - Celebrating Partnerships 16 Nov - 18 Nov 09:00 AM - 05:00 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37231": "Nov 12 2026 Neighbourhood Cosmmolgy Meeting 4 12 Nov 03:28 PM - 03:28 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37235": "Nov 15 2026 INKSPIRE - Reading Club 15 Nov 10:30 AM - 01:00 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37259": "Nov 14 2026 Workshop on Intellectual Property Rights - A Researchers Roadmap to Patent Discovery and Protection 14 Nov 09:30 AM - 11:30 AM Bangalore Central Campus",
    "https://christuniversity.in/events/37260": "Nov 13 2026 Policy Conflux - 2-Day National Public Policy Conference 13 Nov - 23 Nov 03:38 PM - 05:00 PM Bangalore Central Campus",
+   "https://christuniversity.in/events/37283": "Nov 16 2026 A Case Study Competition - Cut the Watts 16 Nov 09:00 AM - 05:00 PM Bangalore Central Campus",
+   "https://christuniversity.in/events/37284": "Nov 16 2026 Inauguration of 11th ICSD Asia-Pacific Biennial Conference 2026 16 Nov 10:00 AM - 05:00 PM Bangalore Central Campus",
    "https://christuniversity.in/examination": "Examination Information & Resources",
    "https://christuniversity.in/fcra": "FCRA",
    "https://christuniversity.in/founder": "Founder",
@@ -168,6 +172,7 @@
    "https://christuniversity.in/nad": "Digilocker Services",
    "https://christuniversity.in/nep-at-christ-(deemed-to-be-university)": "NEP at CHRIST (Deemed to be University)",
    "https://christuniversity.in/news": "VIEW ALL ARCHIVES",
+   "https://christuniversity.in/news/Q0hSSVNUIChEZWVtZWQgdG8gYmUgVW5pdmVyc2l0eSkgUmFua2VkIDUwOSBpbiBRUyBBc2lhIFVuaXZlcnNpdHkgUmFua2luZ3MgMjAyNw==": "Read Full Story",
    "https://christuniversity.in/news/Q29uZ3JhdHVsYXRpb25zIHRvIE91ciBTdHVkZW50cyBvbiBDb21wbGV0aW5nIEFsbCAxMyBBQ0NBIEV4YW1pbmF0aW9ucw==": "Read Full Story",
    "https://christuniversity.in/news/QSBodWdlIGNvbmdyYXR1bGF0aW9ucyB0byBhbGwgb3VyIHdpbm5lcnMgd2hvIHJlcHJlc2VudGVkIENocmlzdCBVbml2ZXJzaXR5IGF0IFNhcmdhbSAtIE5ldyBIb3Jpem9uIENvbGxlZ2Ugb2YgRW5naW5lZXJpbmcgYW5kIEF1dHVtbiBNdXNl": "Read Full Story",
    "https://christuniversity.in/newsletters": "Newsletters",
@@ -1632,13 +1637,13 @@
   "name": "IIM Sambalpur (home)"
  },
  "https://iimsambalpur.ac.in/bachelor-of-science-b-s-in-management-and-public-policy/": {
-  "fails": 17,
+  "fails": 18,
   "hash": null,
   "links": {},
   "name": "IIM Sambalpur BS MPP"
  },
  "https://iimsirmaur.ac.in/bachelors-management-studies-bms": {
-  "fails": 17,
+  "fails": 18,
   "hash": null,
   "links": {},
   "name": "IIM Sirmaur BMS"
@@ -2094,7 +2099,7 @@
   "name": "IIM Udaipur news"
  },
  "https://nirmauni.ac.in/": {
-  "fails": 17,
+  "fails": 18,
   "hash": null,
   "links": {},
   "name": "Nirma University"
@@ -2131,7 +2136,7 @@
  },
  "https://nta.ac.in/": {
   "fails": 0,
-  "hash": "8ce0e87cfe59007bd9a83090c23116cd82b96048e0ba5ff218640b726c7f283a",
+  "hash": "f8280d105d5b611c178c57411ce6573c57799741404210544f8763f0f046d9df",
   "links": {
    "http://cbtc.nta.ac.in/observer": "Registration for observers of NTA is open. All eligible observer are requested to register themselves.",
    "http://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/202610161905649093.pdf": "Public Notice Corrigendum to the Information Bulletin of UGC-NET December 2026 Examination",
@@ -3062,7 +3067,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "5942451159b505cbaabc532da9f8eba72a8dc5c26feae70127b4cccd89c0a728",
+  "hash": "4ae503f0ba86045f4e3d1f4e53c6ad18d1f5def44f6c4e8b6c4f987836edf6a2",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -5386,7 +5391,7 @@
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "7a2ddfebfa72181a8e0f8709d8fc47a94b9ac27fe1e8c7231a6f400cfe355600",
+  "hash": "5b7e21702d261f50861a59a4d098f78ae115a20029005e3826a14dddc57ec056",
   "links": {
    "http://www.nad.gov.in/": "National Academic Depository (NAD)",
    "https://advertising.nmims.edu/": "Branding & Advertising",
@@ -6118,6 +6123,16 @@
    "https://share-na2.hsforms.com/1WPX5q9hpQhqSZoqXcyxoEQ4ut2y": "1WPX5q9hpQhqSZoqXcyxoEQ4ut2y",
    "https://shirpur.nmims.edu/": "Shirpur",
    "https://simppemasfkunisba.id": "Ilmu Sehat: Portal Berita & Edukasi Kesehatan",
+   "https://smeda.org/PROJECTS/ERKF/MEDIA/buy-spin-vs-spin-manual-di-gates-of-olympus-super-scatter-mengapa-harga-akses-bonus-bukan-ukuran-peluang-untung.html": "Buy Spin vs Spin Manual di Gates of Olympus Super Scatter, Mengapa Harga Akses Bonus Bukan Ukuran Peluang Untung",
+   "https://smeda.org/PROJECTS/ERKF/MEDIA/julukan-pecah-selayar-pada-gates-of-olympus-super-scatter-mengapa-hadiah-khusus-dan-pengali-tidak-boleh-dicampur.html": "Julukan Pecah Selayar pada Gates of Olympus Super Scatter, Mengapa Hadiah Khusus dan Pengali Tidak Boleh Dicampur",
+   "https://smeda.org/PROJECTS/ERKF/MEDIA/mahjong-ways-dan-istilah-buy-spin-pada-poster-mengapa-fitur-yang-diiklankan-harus-dicocokkan-dengan-menu-resmi.html": "Mahjong Ways dan Istilah Buy Spin pada Poster, Mengapa Fitur yang Diiklankan Harus Dicocokkan dengan Menu Resmi",
+   "https://smeda.org/PROJECTS/ERKF/MEDIA/mahjong-wins-3-black-scatter-dan-mitos-scatter-bayangan-membedakan-simbol-asli-dari-ilustrasi-buatan-komunitas.html": "Mahjong Wins 3 - Black Scatter dan Mitos Scatter Bayangan, Membedakan Simbol Asli dari Ilustrasi Buatan Komunitas",
+   "https://smeda.org/PROJECTS/ERKF/MEDIA/pola-silang-simbol-sheriff-pada-wild-west-gold-mengapa-bentuk-menarik-belum-tentu-memicu-free-spin.html": "Pola Silang Simbol Sheriff pada Wild West Gold, Mengapa Bentuk Menarik Belum Tentu Memicu Free Spin",
+   "https://smeda.org/PROJECTS/ERKF/MEDIA/pragmatic-play-vs-pg-soft-lewat-sweet-bonanza-dan-mahjong-ways-mengapa-cara-membentuk-kombinasi-terlihat-berbeda.html": "Pragmatic Play vs PG Soft lewat Sweet Bonanza dan Mahjong Ways, Mengapa Cara Membentuk Kombinasi Terlihat Berbeda",
+   "https://smeda.org/PROJECTS/ERKF/MEDIA/saat-spin-manual-mahjong-ways-2-diselingi-getaran-hp-mengapa-sensasi-sentuhan-tidak-menandakan-munculnya-scatter.html": "Saat Spin Manual Mahjong Ways 2 Diselingi Getaran HP, Mengapa Sensasi Sentuhan Tidak Menandakan Munculnya Scatter",
+   "https://smeda.org/PROJECTS/ERKF/MEDIA/shio-monyet-dan-ubin-mahjong-ways-2-mengapa-kisah-kelincahan-dianggap-sinyal-datangnya-free-spin.html": "Shio Monyet dan Ubin Mahjong Ways 2, Mengapa Kisah Kelincahan Dianggap Sinyal Datangnya Free Spin",
+   "https://smeda.org/PROJECTS/ERKF/MEDIA/shio-tikus-dianggap-cermat-membaca-pola-sweet-bonanza-mengenal-bias-yang-sering-muncul-dalam-cerita-pemain.html": "Shio Tikus Dianggap Cermat Membaca Pola Sweet Bonanza, Mengenal Bias yang Sering Muncul dalam Cerita Pemain",
+   "https://smeda.org/PROJECTS/ERKF/MEDIA/waktu-makan-malam-disebut-jam-favorit-wild-west-gold-memisahkan-kebiasaan-pemain-dari-frekuensi-scatter.html": "Waktu Makan Malam Disebut Jam Favorit Wild West Gold, Memisahkan Kebiasaan Pemain dari Frekuensi Scatter",
    "https://spandan.nmims.edu/": "News & Events",
    "https://spandan.nmims.edu/2026/11/02/nmims-inter-campus-sports-championship-2026-27/": "SVKM’s NMIMS Shirpur Hosts NMIMS Inter-Campus Sports Championship 2026–27, Bringing Together Eight Campuses",
    "https://studyinindia.gov.in": "StudyinIndia Portal",
