@@ -392,7 +392,7 @@
   "name": "NTA JIPMAT"
  },
  "https://iimamritsar.ac.in/academics/ipm/about-program": {
-  "fails": 0,
+  "fails": 1,
   "hash": "2fa40df0d0825d1e4bdc1ce76ffda98624dbd6bc474b2df70ba32fac87b3aa69",
   "links": {
    "http://intranet.iimamritsar.ac.in/": "Intranet",
@@ -1637,13 +1637,13 @@
   "name": "IIM Sambalpur (home)"
  },
  "https://iimsambalpur.ac.in/bachelor-of-science-b-s-in-management-and-public-policy/": {
-  "fails": 19,
+  "fails": 20,
   "hash": null,
   "links": {},
   "name": "IIM Sambalpur BS MPP"
  },
  "https://iimsirmaur.ac.in/bachelors-management-studies-bms": {
-  "fails": 19,
+  "fails": 20,
   "hash": null,
   "links": {},
   "name": "IIM Sirmaur BMS"
@@ -2099,7 +2099,7 @@
   "name": "IIM Udaipur news"
  },
  "https://nirmauni.ac.in/": {
-  "fails": 19,
+  "fails": 20,
   "hash": null,
   "links": {},
   "name": "Nirma University"
@@ -3067,7 +3067,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "53d3ffcc30bb0d8ff9dbee3d2526278d8ce88c051a73b0b0db1242ea330517d6",
+  "hash": "81c1f11ecd939ad3a0bacfc08c30ea88b5295c61c72e013f431b1271e34aebbe",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -3402,7 +3402,7 @@
  },
  "https://www.iimb.ac.in/": {
   "fails": 0,
-  "hash": "84021a2148b577da1ff6cd850362450e87d8867b0513beb9c0caca30d35d9f6b",
+  "hash": "3a2889295d3aa956dade609bfb0e37bd6ab794a5192d281e4c0f4b1bb80d629a",
   "links": {
    "https://blog.iimb.ac.in/": "Blog",
    "https://dbe.iimb.ac.in/": "BBA in Digital Business and Entrepreneurship (BBA DBE)",
@@ -3459,7 +3459,7 @@
    "https://www.iimb.ac.in/copyright-policy": "Copyright Policy",
    "https://www.iimb.ac.in/decision-sciences": "Decision Sciences",
    "https://www.iimb.ac.in/disclaimer": "Disclaimer",
-   "https://www.iimb.ac.in/drishti-2026": "The promise, power and price of innovation: Day one of Drishti 2026",
+   "https://www.iimb.ac.in/drishti-2026": "Defining choices for the next decade: Industry heavyweights take stock at Drishti 2026",
    "https://www.iimb.ac.in/economics-area": "Economics",
    "https://www.iimb.ac.in/entrepreneurship": "Entrepreneurship",
    "https://www.iimb.ac.in/faculty": "Faculty List A to Z",
@@ -5391,7 +5391,7 @@
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "5b7e21702d261f50861a59a4d098f78ae115a20029005e3826a14dddc57ec056",
+  "hash": "f63b14e221a1ebadddcb0d825619cb6be4f53dd16468b72baf55bc78bd1c4ebb",
   "links": {
    "http://www.nad.gov.in/": "National Academic Depository (NAD)",
    "https://advertising.nmims.edu/": "Branding & Advertising",
@@ -5958,6 +5958,15 @@
    "https://mmc.gunungmaskab.go.id/2026/11/14/ukiran-kelelawar-dalam-tradisi-tiongkok-hubungan-bunyi-kata-fu-dengan-lambang-hoki-yang-dikaitkan-pada-mahjong-ways": "Ukiran Kelelawar dalam Tradisi Tiongkok, Hubungan Bunyi Kata Fu dengan Lambang Hoki yang Dikaitkan pada Mahjong Ways",
    "https://mmc.gunungmaskab.go.id/2026/11/14/wild-bounty-showdown-memperlihatkan-scatter-berdekatan-mengapa-momen-hampir-bonus-begitu-membekas/": "Wild Bounty Showdown Memperlihatkan Scatter Berdekatan, Mengapa Momen Hampir Bonus Begitu Membekas",
    "https://mmc.gunungmaskab.go.id/2026/11/14/yuanbao-sebagai-lambang-kekayaan-dalam-tradisi-tiongkok-memahami-perbedaan-emas-kuno-dan-simbol-keberuntungan-pg-soft": "Yuanbao sebagai Lambang Kekayaan dalam Tradisi Tiongkok, Memahami Perbedaan Emas Kuno dan Simbol Keberuntungan PG Soft",
+   "https://mmc.gunungmaskab.go.id/2026/11/15/kesalahan-memasukkan-nominal-qris-pada-promosi-mahjong-ways-mengapa-status-gagal-harus-dicek-sebelum-membayar-lagi/": "Kesalahan Memasukkan Nominal QRIS pada Promosi Mahjong Ways, Mengapa Status Gagal Harus Dicek sebelum Membayar Lagi",
+   "https://mmc.gunungmaskab.go.id/2026/11/15/pragmatic-play-vs-pg-soft-dalam-duel-game-koboi-mengapa-free-spin-wild-west-gold-dan-wild-bounty-showdown-berbeda/": "Pragmatic Play vs PG Soft dalam Duel Game Koboi, Mengapa Free Spin Wild West Gold dan Wild Bounty Showdown Berbeda",
+   "https://mmc.gunungmaskab.go.id/2026/11/15/pragmatic-play-vs-pg-soft-dalam-menampilkan-pengali-mengapa-gates-of-olympus-dan-mahjong-ways-memiliki-gaya-berbeda/": "Pragmatic Play vs PG Soft dalam Menampilkan Pengali, Mengapa Gates of Olympus dan Mahjong Ways Memiliki Gaya Berbeda",
+   "https://mmc.gunungmaskab.go.id/2026/11/15/riwayat-auto-spin-dan-tombol-turbo-mahjong-ways-2-sering-tertukar-cara-membedakan-dua-pengaturan-pg-soft/": "Riwayat Auto Spin dan Tombol Turbo Mahjong Ways 2 Sering Tertukar, Cara Membedakan Dua Pengaturan PG Soft",
+   "https://mmc.gunungmaskab.go.id/2026/11/15/satu-super-scatter-pada-gates-of-olympus-super-scatter-mengapa-hadiah-khusus-baru-dihitung-saat-bonus-terpicu/": "Satu Super Scatter pada Gates of Olympus Super Scatter, Mengapa Hadiah Khusus Baru Dihitung saat Bonus Terpicu",
+   "https://mmc.gunungmaskab.go.id/2026/11/15/shio-anjing-dan-jam-bermain-mahjong-ways-mengapa-rutinitas-malam-sering-dianggap-pola-yang-terbukti/": "Shio Anjing dan Jam Bermain Mahjong Ways, Mengapa Rutinitas Malam Sering Dianggap Pola yang Terbukti",
+   "https://mmc.gunungmaskab.go.id/2026/11/15/shio-kuda-dan-wild-west-gold-bertemu-dalam-ilustrasi-koboi-mengapa-simbol-budaya-tidak-mengubah-rng/": "Shio Kuda dan Wild West Gold Bertemu dalam Ilustrasi Koboi, Mengapa Simbol Budaya Tidak Mengubah RNG",
+   "https://mmc.gunungmaskab.go.id/2026/11/15/shio-naga-dalam-poster-mahjong-5-dragons-mengapa-lima-sosok-naga-tidak-mewakili-lima-waktu-hoki/": "Shio Naga dalam Poster Mahjong 5 Dragons, Mengapa Lima Sosok Naga Tidak Mewakili Lima Waktu Hoki",
+   "https://mmc.gunungmaskab.go.id/2026/11/15/tiga-ubin-emas-mahjong-ways-seolah-mengarah-ke-scatter-mengapa-urutan-visual-menipu-ingatan-pemain/": "Tiga Ubin Emas Mahjong Ways Seolah Mengarah ke Scatter, Mengapa Urutan Visual Menipu Ingatan Pemain",
    "https://mobilelegends.id": "LaneID: Build Hero, Tier List & Tips Mobile Legends",
    "https://mommya-z.com": "Mommy A–Z: Panduan Kehamilan, Menyusui & Parenting",
    "https://monitory.id": "Monitory: Review Monitor, PC & Gadget Terbaru",
