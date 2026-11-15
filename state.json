@@ -53,7 +53,7 @@
  },
  "https://christuniversity.in/": {
   "fails": 0,
-  "hash": "f92ab4ba7a36e8818778c2a2249f896eb31fbb1b52a65cc27e7ea33de404358b",
+  "hash": "0e37dfcecb260c64912e9f335cc05dcafbc4802e43417c2139bd8ba6a17acb1b",
   "links": {
    "http://192.168.100.100:8090": "Internet Login",
    "http://alumni.christuniversity.in/": "Alumni",
@@ -138,6 +138,7 @@
    "https://christuniversity.in/events/37215": "Nov 11 2026 Experiential Learning Lab Menu - French Cuisine 11 Nov 12:30 PM - 02:00 AM Bangalore Central Campus",
    "https://christuniversity.in/events/37216": "Nov 14 2026 Online Workshop on Analysis of Large Datasets Using R 14 Nov - 15 Nov 06:00 PM - 08:35 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37217": "Nov 16 2026 Impact in Action: Expert Insights on SDGs 16 Nov 10:30 AM - 12:07 PM Bangalore Central Campus",
+   "https://christuniversity.in/events/37218": "Nov 17 2026 National Level Invitational Intercollegiate Volleyball Tournament for Men 2026 17 Nov - 19 Nov 09:00 AM - 05:00 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37222": "Nov 12 2026 Public Viva-Voce Examination - Angeliya C U 12 Nov 11:00 AM - 02:00 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37223": "Nov 12 2026 Public Viva-Voce Examination - Joanna Priyadarshini Udaykumar 12 Nov 10:00 AM - 02:00 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37224": "Nov 16 2026 Intercollegiate E-Poster Competition on Antimicrobial Resistance 16 Nov 09:00 AM - 05:00 PM Bangalore Central Campus",
@@ -146,6 +147,7 @@
    "https://christuniversity.in/events/37235": "Nov 15 2026 INKSPIRE - Reading Club 15 Nov 10:30 AM - 01:00 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37259": "Nov 14 2026 Workshop on Intellectual Property Rights - A Researchers Roadmap to Patent Discovery and Protection 14 Nov 09:30 AM - 11:30 AM Bangalore Central Campus",
    "https://christuniversity.in/events/37260": "Nov 13 2026 Policy Conflux - 2-Day National Public Policy Conference 13 Nov - 23 Nov 03:38 PM - 05:00 PM Bangalore Central Campus",
+   "https://christuniversity.in/events/37263": "Nov 16 2026 Interactive Seminar on Managing Stress and Mindfulness 16 Nov 10:30 PM - 05:00 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37283": "Nov 16 2026 A Case Study Competition - Cut the Watts 16 Nov 09:00 AM - 05:00 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37284": "Nov 16 2026 Inauguration of 11th ICSD Asia-Pacific Biennial Conference 2026 16 Nov 10:00 AM - 05:00 PM Bangalore Central Campus",
    "https://christuniversity.in/examination": "Examination Information & Resources",
@@ -1637,13 +1639,13 @@
   "name": "IIM Sambalpur (home)"
  },
  "https://iimsambalpur.ac.in/bachelor-of-science-b-s-in-management-and-public-policy/": {
-  "fails": 22,
+  "fails": 23,
   "hash": null,
   "links": {},
   "name": "IIM Sambalpur BS MPP"
  },
  "https://iimsirmaur.ac.in/bachelors-management-studies-bms": {
-  "fails": 22,
+  "fails": 23,
   "hash": null,
   "links": {},
   "name": "IIM Sirmaur BMS"
@@ -2099,7 +2101,7 @@
   "name": "IIM Udaipur news"
  },
  "https://nirmauni.ac.in/": {
-  "fails": 1,
+  "fails": 2,
   "hash": "e8dccfaa99c672b222716573c950ad2a4b15fb2a2ae73a9659c122f8087aaf78",
   "links": {
    "http://architecture.nirmauni.ac.in/": "Architecture",
@@ -3147,7 +3149,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "0418d0ec91d89b71cc29999422bd0b507f9bed8e2fdc180e8a81718f86e8c4ed",
+  "hash": "967a80aa0d2175cf1f48bac4c0e07b8129e65c29c63651b6f44f93d2684e8122",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
