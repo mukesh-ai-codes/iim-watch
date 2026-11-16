@@ -1639,13 +1639,13 @@
   "name": "IIM Sambalpur (home)"
  },
  "https://iimsambalpur.ac.in/bachelor-of-science-b-s-in-management-and-public-policy/": {
-  "fails": 23,
+  "fails": 24,
   "hash": null,
   "links": {},
   "name": "IIM Sambalpur BS MPP"
  },
  "https://iimsirmaur.ac.in/bachelors-management-studies-bms": {
-  "fails": 23,
+  "fails": 24,
   "hash": null,
   "links": {},
   "name": "IIM Sirmaur BMS"
@@ -2101,7 +2101,7 @@
   "name": "IIM Udaipur news"
  },
  "https://nirmauni.ac.in/": {
-  "fails": 2,
+  "fails": 3,
   "hash": "e8dccfaa99c672b222716573c950ad2a4b15fb2a2ae73a9659c122f8087aaf78",
   "links": {
    "http://architecture.nirmauni.ac.in/": "Architecture",
@@ -3149,7 +3149,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "967a80aa0d2175cf1f48bac4c0e07b8129e65c29c63651b6f44f93d2684e8122",
+  "hash": "15f53a481dcd96aef4f63f02a1b52a941c3949d734ae2cc1193666405d3c6864",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -5019,7 +5019,7 @@
  },
  "https://www.nfsu.ac.in/": {
   "fails": 0,
-  "hash": "7d6b5b514165ffbd27bc3d5d8fd546efa5adbf4ea5735ad114b7c9196c4af79e",
+  "hash": "809ff384ad75955135a01d894c6fe2d062237d521f2ae48a8992c37c77229618",
   "links": {
    "https://alumni.nfsu.ac.in/": "Alumni Read More",
    "https://beta.nfsu.ac.in/Uploads/Academic Calender 2022 - 2023.pdf": "Academic Calendar",
