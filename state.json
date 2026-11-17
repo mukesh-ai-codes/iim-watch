@@ -284,7 +284,7 @@
  },
  "https://dbe.iimb.ac.in/admissions": {
   "fails": 0,
-  "hash": "ab1560fe2de14719e441e63192968fcf221553363345611b3887c374e6a9b73e",
+  "hash": "d8e1b2be069a31f27837fa8aed4c1d1e02153402fff84f4af577236a0e637e2f",
   "links": {
    "https://admissions.dbe.iimb.ac.in/login": "Applicant Login",
    "https://dbe.iimb.ac.in/": "Home",
@@ -313,7 +313,7 @@
  },
  "https://dbe.iimb.ac.in/category/news-and-announcements/": {
   "fails": 0,
-  "hash": "ab1560fe2de14719e441e63192968fcf221553363345611b3887c374e6a9b73e",
+  "hash": "ccd614bf43456af323890e3fb8f13b9dd2e800ea3c2989d66babe353aef3e9ad",
   "links": {
    "https://admissions.dbe.iimb.ac.in/login": "Applicant Login",
    "https://dbe.iimb.ac.in/": "Home",
@@ -1257,7 +1257,7 @@
  },
  "https://iimranchi.ac.in/": {
   "fails": 0,
-  "hash": "ab1560fe2de14719e441e63192968fcf221553363345611b3887c374e6a9b73e",
+  "hash": "29d888c772c6ff67417700a83729584a723bd104b12513b8b6838dfeb06655f2",
   "links": {
    "https://alumni.iimranchi.ac.in/": "Alumni Portal",
    "https://bhaveshshaha.com": "Developed by Bhavesh Shaha (IIM Ranchi IPM'24)",
@@ -1371,6 +1371,7 @@
    "https://iimranchi.ac.in/tender/2026/10/26238/": "Notice Inviting Tender for Engagement of an Event Management Firm/Agency for ‘Strategic Management Forum Conference 2026’",
    "https://iimranchi.ac.in/tender/2026/10/26250/": "Short Term Notice Inviting Tender (NIT) for Procurement of Microsoft M 365 A3 Licenses for One Year",
    "https://iimranchi.ac.in/tender/2026/10/26253/": "Tender for Hiring of Agency for Information Technology Facility Management Services at IIM Ranchi.",
+   "https://iimranchi.ac.in/tender/2026/11/26589/": "Providing Integrated Services of Catering, Housekeeping, Manpower & Hospitality Management Services at IIM Ranchi",
    "https://iimranchi.ac.in/website-policies-disclosures/": "Website Policies & Disclosure",
    "https://iimranchi.ac.in/ycp": "ycp",
    "https://iimranchi.ac.in/ycp/": "Young Changemakers Programme",
@@ -1393,7 +1394,7 @@
  },
  "https://iimranchi.ac.in/p/ipm": {
   "fails": 0,
-  "hash": "ab1560fe2de14719e441e63192968fcf221553363345611b3887c374e6a9b73e",
+  "hash": "29d888c772c6ff67417700a83729584a723bd104b12513b8b6838dfeb06655f2",
   "links": {
    "https://alumni.iimranchi.ac.in/": "Alumni Portal",
    "https://bhaveshshaha.com": "Developed by Bhavesh Shaha (IIM Ranchi IPM'24)",
@@ -1507,6 +1508,7 @@
    "https://iimranchi.ac.in/tender/2026/10/26238/": "Notice Inviting Tender for Engagement of an Event Management Firm/Agency for ‘Strategic Management Forum Conference 2026’",
    "https://iimranchi.ac.in/tender/2026/10/26250/": "Short Term Notice Inviting Tender (NIT) for Procurement of Microsoft M 365 A3 Licenses for One Year",
    "https://iimranchi.ac.in/tender/2026/10/26253/": "Tender for Hiring of Agency for Information Technology Facility Management Services at IIM Ranchi.",
+   "https://iimranchi.ac.in/tender/2026/11/26589/": "Providing Integrated Services of Catering, Housekeeping, Manpower & Hospitality Management Services at IIM Ranchi",
    "https://iimranchi.ac.in/website-policies-disclosures/": "Website Policies & Disclosure",
    "https://iimranchi.ac.in/ycp": "ycp",
    "https://iimranchi.ac.in/ycp/": "Young Changemakers Programme",
@@ -1654,13 +1656,13 @@
   "name": "IIM Sambalpur (home)"
  },
  "https://iimsambalpur.ac.in/bachelor-of-science-b-s-in-management-and-public-policy/": {
-  "fails": 26,
+  "fails": 27,
   "hash": null,
   "links": {},
   "name": "IIM Sambalpur BS MPP"
  },
  "https://iimsirmaur.ac.in/bachelors-management-studies-bms": {
-  "fails": 26,
+  "fails": 27,
   "hash": null,
   "links": {},
   "name": "IIM Sirmaur BMS"
@@ -2116,7 +2118,7 @@
   "name": "IIM Udaipur news"
  },
  "https://nirmauni.ac.in/": {
-  "fails": 0,
+  "fails": 1,
   "hash": "2800296b90c153ee7f99261e325d0f22b1898b1cfe33d3fbb7bf5039b0d328a0",
   "links": {
    "http://architecture.nirmauni.ac.in/": "Architecture",
@@ -3164,7 +3166,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "2eec357b7c76bab23512f72a5afccd67f7294a70494ff1ab7eecd13b8aca9c72",
+  "hash": "5cfb4766754887fc8d4a43d5faa26b4aa77e954633aa1d0e7ca22a344cbacc0f",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -3361,7 +3363,7 @@
  },
  "https://www.iift.ac.in/": {
   "fails": 0,
-  "hash": "c5d0d50dbd1da7bdf96a84c8f2190f8f08c6c022a17c72e623b76826765a2ced",
+  "hash": "e1a374b55e8c7d09290ce8fb6f91ff49c21a4764be13ff6b896f4718142c1f88",
   "links": {
    "http://epay.iift.ac.in/myspace/": "Myspace",
    "https://applyadmission.net/iift2027/": "Apply Online",
@@ -5492,7 +5494,7 @@
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "b698c4d3a2f169f1fd3711058ee5abfb903c7ae53faea569067b93db31a956af",
+  "hash": "40d71f24f77cf855c10ffd8777b5011ad8202f3d2c51d1047b208a9440678c8d",
   "links": {
    "http://www.nad.gov.in/": "National Academic Depository (NAD)",
    "https://advertising.nmims.edu/": "Branding & Advertising",
@@ -6133,6 +6135,7 @@
    "https://mmc.gunungmaskab.go.id/2026/11/16/ai-memberi-skor-keyakinan-saat-mengenali-simbol-wild-mahjong-ways-mengenal-perbedaan-akurasi-pembacaan-dan-peluang-hadiah": "AI Memberi Skor Keyakinan saat Mengenali Simbol Wild Mahjong Ways, Mengenal Perbedaan Akurasi Pembacaan dan Peluang Hadiah",
    "https://mmc.gunungmaskab.go.id/2026/11/16/ai-menandai-hasil-tidak-lazim-pada-wild-bounty-showdown-mengenal-perbedaan-anomali-data-dan-dugaan-fitur-tersembunyi": "AI Menandai Hasil Tidak Lazim pada Wild Bounty Showdown, Mengenal Perbedaan Anomali Data dan Dugaan Fitur Tersembunyi",
    "https://mmc.gunungmaskab.go.id/2026/11/16/angka-nomor-antrean-dikaitkan-dengan-pola-keberuntungan-mahjong-ways-fenomena-angka-sehari-hari-yang-dianggap-membawa-hoki": "Angka Nomor Antrean Dikaitkan dengan Pola Keberuntungan Mahjong Ways, Fenomena Angka Sehari-hari yang Dianggap Membawa Hoki",
+   "https://mmc.gunungmaskab.go.id/2026/11/16/cache-browser-dan-mahjong-ways-membedakan-file-sementara-dari-data-login-yang-sebaiknya-tidak-asal-dihapus/": "Cache Browser dan Mahjong Ways, Membedakan File Sementara dari Data Login yang Sebaiknya Tidak Asal Dihapus",
    "https://mmc.gunungmaskab.go.id/2026/11/16/chatbot-ai-memberi-dua-jawaban-berbeda-tentang-mahjong-ways-mengenal-pengaruh-susunan-pertanyaan-terhadap-analisis-permainan": "Chatbot AI Memberi Dua Jawaban Berbeda tentang Mahjong Ways, Mengenal Pengaruh Susunan Pertanyaan terhadap Analisis Permainan",
    "https://mmc.gunungmaskab.go.id/2026/11/16/chatbot-ai-merangkum-komentar-starlight-princess-tanpa-membaca-seluruh-balasan-mengapa-konteks-perdebatan-bisa-berubah": "Chatbot AI Merangkum Komentar Starlight Princess Tanpa Membaca Seluruh Balasan, Mengapa Konteks Perdebatan Bisa Berubah",
    "https://mmc.gunungmaskab.go.id/2026/11/16/dua-catatan-scatter-starlight-princess-memiliki-tingkat-kemiripan-tinggi-menggunakan-indeks-kesamaan-untuk-membaca-pola-permainan": "Dua Catatan Scatter Starlight Princess Memiliki Tingkat Kemiripan Tinggi, Menggunakan Indeks Kesamaan untuk Membaca Pola Permainan",
@@ -6144,6 +6147,7 @@
    "https://mmc.gunungmaskab.go.id/2026/11/16/fitur-auracast-pada-smartphone-generasi-baru-mengenal-cara-berbagi-audio-konten-starlight-princess-ke-beberapa-perangkat": "Fitur Auracast pada Smartphone Generasi Baru, Mengenal Cara Berbagi Audio Konten Starlight Princess ke Beberapa Perangkat",
    "https://mmc.gunungmaskab.go.id/2026/11/16/fitur-keamanan-wpa3-pada-hotspot-smartphone-pentingnya-melindungi-koneksi-bersama-saat-mengakses-wild-bounty-showdown": "Fitur Keamanan WPA3 pada Hotspot Smartphone, Pentingnya Melindungi Koneksi Bersama saat Mengakses Wild Bounty Showdown",
    "https://mmc.gunungmaskab.go.id/2026/11/16/fitur-optimasi-penyimpanan-pada-hp-android-mengenal-perbedaan-menghapus-cache-dan-menghapus-data-ketika-mengakses-mahjong-ways": "Fitur Optimasi Penyimpanan pada HP Android, Mengenal Perbedaan Menghapus Cache dan Menghapus Data ketika Mengakses Mahjong Ways",
+   "https://mmc.gunungmaskab.go.id/2026/11/16/fitur-pencegah-sentuhan-tidak-sengaja-pada-hp-mengapa-tombol-mahjong-ways-kadang-sulit-ditekan-di-tepi-layar/": "Fitur Pencegah Sentuhan Tidak Sengaja pada HP, Mengapa Tombol Mahjong Ways Kadang Sulit Ditekan di Tepi Layar",
    "https://mmc.gunungmaskab.go.id/2026/11/16/fitur-pengisian-daya-adaptif-pada-hp-modern-mengenal-cara-smartphone-mengatur-waktu-pengisian-ketika-mahjong-ways-diakses-menjelang-tidur": "Fitur Pengisian Daya Adaptif pada HP Modern, Mengenal Cara Smartphone Mengatur Waktu Pengisian ketika Mahjong Ways Diakses Menjelang Tidur",
    "https://mmc.gunungmaskab.go.id/2026/11/16/fitur-pengunci-orientasi-video-pada-hp-android-memahami-perbedaan-sensor-gerak-dan-pengaturan-aplikasi-saat-menonton-gates-of-olympus": "Fitur Pengunci Orientasi Video pada HP Android, Memahami Perbedaan Sensor Gerak dan Pengaturan Aplikasi saat Menonton Gates of Olympus",
    "https://mmc.gunungmaskab.go.id/2026/11/16/fitur-perekaman-video-hevc-pada-smartphone-memahami-perbedaan-ukuran-berkas-dan-kualitas-rekaman-wild-bounty-showdown": "Fitur Perekaman Video HEVC pada Smartphone, Memahami Perbedaan Ukuran Berkas dan Kualitas Rekaman Wild Bounty Showdown",
@@ -6154,6 +6158,7 @@
    "https://mmc.gunungmaskab.go.id/2026/11/16/fitur-wifi-direct-pada-smartphone-mengenal-cara-mengirim-rekaman-wild-bounty-showdown-antarperangkat-tanpa-jaringan-internet-rumah": "Fitur WiFi Direct pada Smartphone, Mengenal Cara Mengirim Rekaman Wild Bounty Showdown Antarperangkat tanpa Jaringan Internet Rumah",
    "https://mmc.gunungmaskab.go.id/2026/11/16/gates-of-olympus-1000-dan-charger-nirkabel-pixel-11-pro-memahami-perbedaan-efisiensi-dengan-kabel-usb-c/": "Gates of Olympus 1000 dan Charger Nirkabel Pixel 11 Pro, Memahami Perbedaan Efisiensi dengan Kabel USB-C",
    "https://mmc.gunungmaskab.go.id/2026/11/16/gates-of-olympus-1000-pada-samsung-galaxy-s26-bagaimana-vision-booster-menjaga-keterbacaan-warna-di-bawah-cahaya-matahari/": "Gates of Olympus 1000 pada Samsung Galaxy S26, Bagaimana Vision Booster Menjaga Keterbacaan Warna di Bawah Cahaya Matahari",
+   "https://mmc.gunungmaskab.go.id/2026/11/16/gates-of-olympus-1000-saat-mode-penghemat-data-aktif-memahami-batas-penghematan-kuota-pada-browser-hp/": "Gates of Olympus 1000 saat Mode Penghemat Data Aktif, Memahami Batas Penghematan Kuota pada Browser HP",
    "https://mmc.gunungmaskab.go.id/2026/11/16/gpu-smartphone-memproses-ribuan-piksel-setiap-detik-memahami-penyebab-animasi-mahjong-ways-terlihat-patah-patah/": "GPU Smartphone Memproses Ribuan Piksel Setiap Detik, Memahami Penyebab Animasi Mahjong Ways Terlihat Patah-Patah",
    "https://mmc.gunungmaskab.go.id/2026/11/16/ikon-kecil-dalam-tabel-pembayaran-starlight-princess-mengenal-perbedaan-penanda-fitur-dan-ornamen-yang-sering-terlewat": "Ikon Kecil dalam Tabel Pembayaran Starlight Princess, Mengenal Perbedaan Penanda Fitur dan Ornamen yang Sering Terlewat",
    "https://mmc.gunungmaskab.go.id/2026/11/16/ikon-koboi-pada-materi-wild-bounty-showdown-membedakan-simbol-cerita-dengan-simbol-yang-masuk-perhitungan-permainan": "Ikon Koboi pada Materi Wild Bounty Showdown, Membedakan Simbol Cerita dengan Simbol yang Masuk Perhitungan Permainan",
@@ -6162,6 +6167,12 @@
    "https://mmc.gunungmaskab.go.id/2026/11/16/kalender-shio-dan-kebiasaan-mengingat-tahun-kelahiran-starlight-princess-dalam-pembahasan-identitas-pribadi-di-komunitas-digital": "Kalender Shio dan Kebiasaan Mengingat Tahun Kelahiran, Starlight Princess dalam Pembahasan Identitas Pribadi di Komunitas Digital",
    "https://mmc.gunungmaskab.go.id/2026/11/16/kamera-telefoto-pada-hp-modern-untuk-memotret-detail-konten-gates-of-olympus-mengenal-perbedaan-zoom-optik-dan-digital": "Kamera Telefoto pada HP Modern untuk Memotret Detail Konten Gates of Olympus, Mengenal Perbedaan Zoom Optik dan Digital",
    "https://mmc.gunungmaskab.go.id/2026/11/16/layar-dalam-iphone-duo-untuk-mahjong-ways-2-menilai-jarak-pandang-dan-kenyamanan-jari-saat-ponsel-dibuka/": "Layar Dalam iPhone Duo untuk Mahjong Ways 2, Menilai Jarak Pandang dan Kenyamanan Jari saat Ponsel Dibuka",
+   "https://mmc.gunungmaskab.go.id/2026/11/16/layar-oled-dan-starlight-princess-1000-mengapa-warna-latar-gelap-terlihat-berbeda-pada-tiap-pengaturan-hp/": "Layar OLED dan Starlight Princess 1000, Mengapa Warna Latar Gelap Terlihat Berbeda pada Tiap Pengaturan HP",
+   "https://mmc.gunungmaskab.go.id/2026/11/16/lembaran-grafit-pada-sistem-pendinginan-hp-mengapa-bagian-belakang-tetap-hangat-saat-membuka-mahjong-ways/": "Lembaran Grafit pada Sistem Pendinginan HP, Mengapa Bagian Belakang Tetap Hangat saat Membuka Mahjong Ways",
+   "https://mmc.gunungmaskab.go.id/2026/11/16/mahjong-ways-2-di-tablet-berlayar-lebar-mengamati-susunan-ubin-tanpa-terjebak-efek-pembesaran/": "Mahjong Ways 2 di Tablet Berlayar Lebar, Mengamati Susunan Ubin tanpa Terjebak Efek Pembesaran",
+   "https://mmc.gunungmaskab.go.id/2026/11/16/mahjong-ways-2-di-tengah-perpindahan-5g-ke-wi-fi-menelusuri-penyebab-halaman-memuat-ulang/": "Mahjong Ways 2 di Tengah Perpindahan 5G ke Wi-Fi, Menelusuri Penyebab Halaman Memuat Ulang",
+   "https://mmc.gunungmaskab.go.id/2026/11/16/mahjong-ways-2-saat-hp-memakai-sarung-jari-gaming-mengenal-perbedaan-gesekan-dan-respons-sentuhan/": "Mahjong Ways 2 saat HP Memakai Sarung Jari Gaming, Mengenal Perbedaan Gesekan dan Respons Sentuhan",
+   "https://mmc.gunungmaskab.go.id/2026/11/16/mahjong-ways-dan-motif-shio-naga-mengapa-ukiran-emas-lebih-mudah-diingat-daripada-susunan-ubin-lain/": "Mahjong Ways dan Motif Shio Naga, Mengapa Ukiran Emas Lebih Mudah Diingat daripada Susunan Ubin Lain",
    "https://mmc.gunungmaskab.go.id/2026/11/16/mahjong-ways-di-galaxy-s26-dengan-mode-gelap-aktif-mengapa-antarmuka-browser-belum-tentu-ikut-berubah/": "Mahjong Ways di Galaxy S26 dengan Mode Gelap Aktif, Mengapa Antarmuka Browser Belum Tentu Ikut Berubah",
    "https://mmc.gunungmaskab.go.id/2026/11/16/mahjong-ways-di-iphone-18-pro-max-mengapa-material-casing-turut-menentukan-rasa-panas-saat-layar-terus-aktif/": "Mahjong Ways di iPhone 18 Pro Max, Mengapa Material Casing Turut Menentukan Rasa Panas saat Layar Terus Aktif",
    "https://mmc.gunungmaskab.go.id/2026/11/16/mahjong-ways-di-iphone-duo-dengan-dua-ukuran-layar-menjaga-posisi-teks-saat-berpindah-tampilan/": "Mahjong Ways di iPhone Duo dengan Dua Ukuran Layar, Menjaga Posisi Teks saat Berpindah Tampilan",
@@ -6171,12 +6182,15 @@
    "https://mmc.gunungmaskab.go.id/2026/11/16/musik-yang-diputar-saat-wild-bounty-showdown-menampilkan-hadiah-dianggap-membawa-hoki-mengenal-fenomena-pola-keberuntungan-berdasarkan-lagu": "Musik yang Diputar saat Wild Bounty Showdown Menampilkan Hadiah Dianggap Membawa Hoki, Mengenal Fenomena Pola Keberuntungan Berdasarkan Lagu",
    "https://mmc.gunungmaskab.go.id/2026/11/16/nama-shio-tikus-sering-mendapat-tafsir-berbeda-dalam-percakapan-mengenal-pengaruh-bahasa-terhadap-persepsi-pengguna-pg-soft": "Nama Shio Tikus Sering Mendapat Tafsir Berbeda dalam Percakapan, Mengenal Pengaruh Bahasa terhadap Persepsi Pengguna PG Soft",
    "https://mmc.gunungmaskab.go.id/2026/11/16/pengaturan-kualitas-suara-adaptif-pada-earbud-modern-mengenal-pengaruh-codec-audio-ketika-menonton-konten-wild-bandito": "Pengaturan Kualitas Suara Adaptif pada Earbud Modern, Mengenal Pengaruh Codec Audio ketika Menonton Konten Wild Bandito",
+   "https://mmc.gunungmaskab.go.id/2026/11/16/pengisian-cepat-dan-wild-bandito-mengapa-kabel-usb-c-yang-rusak-bisa-memengaruhi-suhu-perangkat/": "Pengisian Cepat dan Wild Bandito, Mengapa Kabel USB-C yang Rusak Bisa Memengaruhi Suhu Perangkat",
    "https://mmc.gunungmaskab.go.id/2026/11/16/pola-keberuntungan-gates-of-olympus-dikaitkan-dengan-hasil-putaran-pertama-mengapa-kesan-awal-membentuk-ekspektasi-pemain": "Pola Keberuntungan Gates of Olympus Dikaitkan dengan Hasil Putaran Pertama, Mengapa Kesan Awal Membentuk Ekspektasi Pemain",
    "https://mmc.gunungmaskab.go.id/2026/11/16/pola-keberuntungan-mahjong-ways-dikaitkan-dengan-hujan-sore-mengapa-perubahan-cuaca-bisa-menjadi-bagian-dari-cerita-kemenangan": "Pola Keberuntungan Mahjong Ways Dikaitkan dengan Hujan Sore, Mengapa Perubahan Cuaca Bisa Menjadi Bagian dari Cerita Kemenangan",
    "https://mmc.gunungmaskab.go.id/2026/11/16/pola-keberuntungan-starlight-princess-terasa-berbeda-setelah-mendapat-kabar-baik-mengenal-pengaruh-suasana-hati-terhadap-penilaian-pemain": "Pola Keberuntungan Starlight Princess Terasa Berbeda Setelah Mendapat Kabar Baik, Mengenal Pengaruh Suasana Hati terhadap Penilaian Pemain",
    "https://mmc.gunungmaskab.go.id/2026/11/16/pola-scatter-treasures-of-aztec-dianalisis-menggunakan-metode-bootstrap-mengenal-rentang-ketidakpastian-dari-catatan-putaran": "Pola Scatter Treasures of Aztec Dianalisis Menggunakan Metode Bootstrap, Mengenal Rentang Ketidakpastian dari Catatan Putaran",
    "https://mmc.gunungmaskab.go.id/2026/11/16/rangkaian-wild-bandito-dicatat-dengan-kode-w-dan-k-cara-sederhana-menghindari-perhitungan-ganda-saat-membaca-pola": "Rangkaian Wild Bandito Dicatat dengan Kode W dan K, Cara Sederhana Menghindari Perhitungan Ganda saat Membaca Pola",
    "https://mmc.gunungmaskab.go.id/2026/11/16/ratinjau-huawei-mate-x8-untuk-wild-bounty-showdown-apa-yang-perlu-ditunggu-dari-pengelolaan-suhu-layar-lipat/": "Pratinjau Huawei Mate X8 untuk Wild Bounty Showdown, Apa yang Perlu Ditunggu dari Pengelolaan Suhu Layar Lipat",
+   "https://mmc.gunungmaskab.go.id/2026/11/16/rekaman-graffiti-rush-berkualitas-tinggi-mengapa-detail-cat-neon-bisa-hilang-setelah-dikompresi/": "Rekaman Graffiti Rush Berkualitas Tinggi, Mengapa Detail Cat Neon Bisa Hilang Setelah Dikompresi",
+   "https://mmc.gunungmaskab.go.id/2026/11/16/saat-penyimpanan-hp-hampir-penuh-mahjong-ways-bisa-terasa-berat-meski-ram-masih-tersisa/": "Saat Penyimpanan HP Hampir Penuh, Mahjong Ways Bisa Terasa Berat meski RAM Masih Tersisa",
    "https://mmc.gunungmaskab.go.id/2026/11/16/sensor-proximity-hp-mengalami-gangguan-saat-membuka-gates-of-olympus-mengenal-fungsi-pendeteksi-jarak-pada-smartphone": "Sensor Proximity HP Mengalami Gangguan saat Membuka Gates of Olympus, Mengenal Fungsi Pendeteksi Jarak pada Smartphone",
    "https://mmc.gunungmaskab.go.id/2026/11/16/sensor-sidik-jari-ultrasonik-pada-hp-saat-membuka-situs-mahjong-ways-mengenal-perbedaan-keamanan-perangkat-dan-keaslian-website": "Sensor Sidik Jari Ultrasonik pada HP saat Membuka Situs Mahjong Ways, Mengenal Perbedaan Keamanan Perangkat dan Keaslian Website",
    "https://mmc.gunungmaskab.go.id/2026/11/16/shio-anjing-dalam-perbandingan-simbol-kesetiaan-dan-kewaspadaan-membaca-pengaruh-karakter-hewan-terhadap-cerita-wild-bounty-showdown": "Shio Anjing dalam Perbandingan Simbol Kesetiaan dan Kewaspadaan, Membaca Pengaruh Karakter Hewan terhadap Cerita Wild Bounty Showdown",
@@ -6210,7 +6224,9 @@
    "https://mmc.gunungmaskab.go.id/2026/11/16/shio-ular-dan-kelinci-dalam-komentar-starlight-princess-mengenal-pengaruh-perbandingan-karakter-hewan-terhadap-identitas-penggemar": "Shio Ular dan Kelinci dalam Komentar Starlight Princess, Mengenal Pengaruh Perbandingan Karakter Hewan terhadap Identitas Penggemar",
    "https://mmc.gunungmaskab.go.id/2026/11/16/shio-ular-dan-naga-dijadikan-nama-dua-kelompok-wild-bandito-mengenal-pengaruh-identitas-tim-terhadap-perdebatan-pemain": "Shio Ular dan Naga Dijadikan Nama Dua Kelompok Wild Bandito, Mengenal Pengaruh Identitas Tim terhadap Perdebatan Pemain",
    "https://mmc.gunungmaskab.go.id/2026/11/16/simbol-petir-dalam-poster-gates-of-olympus-terlihat-mendominasi-mengapa-tidak-semua-gambar-petir-menunjukkan-pengali-aktif": "Simbol Petir dalam Poster Gates of Olympus Terlihat Mendominasi, Mengapa Tidak Semua Gambar Petir Menunjukkan Pengali Aktif",
+   "https://mmc.gunungmaskab.go.id/2026/11/16/sistem-pendinginan-hp-saat-mahjong-ways-2-mengapa-meletakkan-ponsel-di-atas-bantal-membatasi-pelepasan-panas/": "Sistem Pendinginan HP saat Mahjong Ways 2, Mengapa Meletakkan Ponsel di Atas Bantal Membatasi Pelepasan Panas",
    "https://mmc.gunungmaskab.go.id/2026/11/16/starlight-princess-1000-di-google-pixel-11-pro-menilai-keseimbangan-warna-dengan-fitur-tampilan-adaptif/": "Starlight Princess 1000 di Google Pixel 11 Pro, Menilai Keseimbangan Warna dengan Fitur Tampilan Adaptif",
+   "https://mmc.gunungmaskab.go.id/2026/11/16/starlight-princess-1000-vs-gates-of-olympus-1000-perbandingan-bahasa-warna-dan-kostum-karakter-di-dua-dunia-fantasi/": "Starlight Princess 1000 vs Gates of Olympus 1000, Perbandingan Bahasa Warna dan Kostum Karakter di Dua Dunia Fantasi",
    "https://mmc.gunungmaskab.go.id/2026/11/16/teknologi-5g-standalone-dan-non-standalone-pada-smartphone-memahami-perbedaan-arsitektur-jaringan-saat-mengakses-gates-of-olympus": "Teknologi 5G Standalone dan Non-Standalone pada Smartphone, Memahami Perbedaan Arsitektur Jaringan saat Mengakses Gates of Olympus",
    "https://mmc.gunungmaskab.go.id/2026/11/16/teknologi-baterai-iphone-18-pro-max-dalam-ulasan-mahjong-ways-2-membedakan-daya-tahan-klaim-dan-pemakaian-nyata/": "Teknologi Baterai iPhone 18 Pro Max dalam Ulasan Mahjong Ways 2, Membedakan Daya Tahan Klaim dan Pemakaian Nyata",
    "https://mmc.gunungmaskab.go.id/2026/11/16/teknologi-bypass-charging-pada-hp-gaming-mengapa-suhu-baterai-bisa-lebih-terkendali-saat-mengakses-mahjong-ways/": "Teknologi Bypass Charging pada HP Gaming, Mengapa Suhu Baterai Bisa Lebih Terkendali saat Mengakses Mahjong Ways",
@@ -6221,6 +6237,7 @@
    "https://mmc.gunungmaskab.go.id/2026/11/16/teknologi-webgpu-pada-browser-smartphone-mengenal-perkembangan-pemrosesan-grafis-untuk-konten-digital-bertema-mahjong-ways": "Teknologi WebGPU pada Browser Smartphone, Mengenal Perkembangan Pemrosesan Grafis untuk Konten Digital Bertema Mahjong Ways",
    "https://mmc.gunungmaskab.go.id/2026/11/16/teknologi-webrtc-untuk-siaran-langsung-permainan-mahjong-ways-memahami-perbedaan-latensi-video-dan-kecepatan-respons-penonton": "Teknologi WebRTC untuk Siaran Langsung Permainan Mahjong Ways, Memahami Perbedaan Latensi Video dan Kecepatan Respons Penonton",
    "https://mmc.gunungmaskab.go.id/2026/11/16/teknologi-wifi-7-pada-hp-flagship-untuk-mahjong-ways-mengenal-perbedaan-lebar-kanal-internet-dan-kecepatan-akses-permainan": "Teknologi WiFi 7 pada HP Flagship untuk Mahjong Ways, Mengenal Perbedaan Lebar Kanal Internet dan Kecepatan Akses Permainan",
+   "https://mmc.gunungmaskab.go.id/2026/11/16/telapak-terangkat-lucky-neko-dan-tradisi-jepang-memahami-simbol-sambutan-yang-berbeda-dari-ramalan-shio/": "Telapak Terangkat Lucky Neko dan Tradisi Jepang, Memahami Simbol Sambutan yang Berbeda dari Ramalan Shio",
    "https://mmc.gunungmaskab.go.id/2026/11/16/usb-debugging-aktif-pada-hp-android-saat-merekam-gates-of-olympus-memahami-informasi-yang-tersimpan-dalam-log-perangkat": "USB Debugging Aktif pada HP Android saat Merekam Gates of Olympus, Memahami Informasi yang Tersimpan dalam Log Perangkat",
    "https://mmc.gunungmaskab.go.id/2026/11/16/vapor-chamber-vivo-x300-pada-graffiti-rush-mengapa-jalur-pembuangan-panas-berbeda-dari-kipas-eksternal/": "Vapor Chamber vivo X300 pada Graffiti Rush, Mengapa Jalur Pembuangan Panas Berbeda dari Kipas Eksternal",
    "https://mmc.gunungmaskab.go.id/2026/11/16/wild-bandito-di-iphone-duo-bagaimana-posisi-engsel-memengaruhi-cara-memegang-perangkat-saat-membaca-layar/": "Wild Bandito di iPhone Duo, Bagaimana Posisi Engsel Memengaruhi Cara Memegang Perangkat saat Membaca Layar",
