@@ -53,7 +53,7 @@
  },
  "https://christuniversity.in/": {
   "fails": 0,
-  "hash": "70b3be30c7e54512c4da499fa5b058977610a7c261d898aa5c63224eea7858f1",
+  "hash": "45f2ae92ece97bcd578e9f4c448389acff551e6c5248125759630025ec1bf26e",
   "links": {
    "http://192.168.100.100:8090": "Internet Login",
    "http://alumni.christuniversity.in/": "Alumni",
@@ -162,6 +162,7 @@
    "https://christuniversity.in/events/37308": "Nov 18 2026 Experiential Learning Lab Menu - Italian Cuisine 18 Nov 12:30 PM - 02:00 AM Bangalore Central Campus",
    "https://christuniversity.in/events/37314": "Nov 18 2026 Public Viva-Voce Examination - David Debjit Ambett 18 Nov 11:00 AM - 01:00 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37316": "Nov 17 2026 Public Viva-Voce Examination - Miriam Priti Mohan 17 Nov 04:53 PM - 04:53 PM Bangalore Central Campus",
+   "https://christuniversity.in/events/37341": "Nov 18 2026 Register - Listening Circle, A Supportive Group Space for Students to Share, Listen and Learn Togeth... 18 Nov - 25 Nov 12:37 PM - 05:00 PM Bangalore Central Campus",
    "https://christuniversity.in/examination": "Examination Information & Resources",
    "https://christuniversity.in/fcra": "FCRA",
    "https://christuniversity.in/founder": "Founder",
@@ -220,6 +221,8 @@
    "https://christuniversity.in/uploads/ranking/20%20NOVEMBER%20RANKING%20P_20261103031706.png": "Know More",
    "https://christuniversity.in/uploads/ranking/30 JUNE QS (P)_20250828103352.jpg": "View More",
    "https://christuniversity.in/uploads/ranking/30 JUNE TIMES (P)_20250828111035.jpg": "View More",
+   "https://christuniversity.in/uploads/ranking/30 NOVEMBER QS P_20261118110324.png": "View More",
+   "https://christuniversity.in/uploads/ranking/30 NOVEMBER TIMES P_20261118035125.png": "View More",
    "https://christuniversity.in/uploads/ranking/30 SEPTEMBER RANKING P_20260918105216.png": "View More",
    "https://christuniversity.in/uploads/ranking/WURI 2025 (P)_20250828104714_20250828111251.jpg": "View More",
    "https://christuniversity.in/uploads/ranking/ranking_20260131011029.jpg": "View More",
@@ -816,11 +819,12 @@
  },
  "https://iimj.ac.in/programs/ipm/ipm-admission-policy.php": {
   "fails": 0,
-  "hash": "ff331fc07069244ed6ead5eb117ae95c75d56a0a84a78e74db6ed82cde32b94d",
+  "hash": "bbe4cb7dc15631d1fc9eab030a1656a364b8655e306d21c4af7483990b974d44",
   "links": {
    "http://jammutourism.gov.in/": "About Jammu and Kashmir",
    "http://mhrd.gov.in/": "",
    "https://businessgraduatesassociation.com/": "",
+   "https://drive.google.com/file/d/12WDcoC9Jz94cqA37ZB0CZ7qQn_HJTRAi/view?usp=sharing": "EMBA Handbook Batch 2026",
    "https://drive.google.com/file/d/17R2iMEqV9rN9YPW8aXNccomjHLXeP2rD/view?usp=sharing": "eBBA Handbook Batch 2026-30",
    "https://drive.google.com/file/d/18yXx3AiYHVPpiwwSLIM0FBgOuWGFWL8g/view?usp=sharing": "CAP 2026 - PI shortlisting criteria",
    "https://drive.google.com/file/d/1JYpueE2iG0fkpIhwmFlVKqBxvLs6inAN/view?usp=sharing": "BBA (Hons.) Handbook",
@@ -1022,6 +1026,7 @@
    "https://www.iimj.ac.in/themes/awesome_zymphonies_theme/css/style.css": "Default Theme",
    "https://www.iimj.ac.in/trikuta-atmadeep-bhav.php": "Trikuta - Hindi Patrika",
    "https://www.iimj.ac.in/verification.php": "Student's Educational Document Verification",
+   "https://www.iimj.ac.in/video-gallery.php": "Video Gallery",
    "https://www.iimj.ac.in/viksit-bharat2047.php": "Viksit Bharat@2047",
    "https://www.instagram.com/iimj_jammu/?hl=en": "Instagram",
    "https://www.linkedin.com/school/18049738/admin/": "LinkedIn",
@@ -1662,13 +1667,13 @@
   "name": "IIM Sambalpur (home)"
  },
  "https://iimsambalpur.ac.in/bachelor-of-science-b-s-in-management-and-public-policy/": {
-  "fails": 30,
+  "fails": 31,
   "hash": null,
   "links": {},
   "name": "IIM Sambalpur BS MPP"
  },
  "https://iimsirmaur.ac.in/bachelors-management-studies-bms": {
-  "fails": 30,
+  "fails": 31,
   "hash": null,
   "links": {},
   "name": "IIM Sirmaur BMS"
@@ -2124,7 +2129,7 @@
   "name": "IIM Udaipur news"
  },
  "https://nirmauni.ac.in/": {
-  "fails": 4,
+  "fails": 5,
   "hash": "2800296b90c153ee7f99261e325d0f22b1898b1cfe33d3fbb7bf5039b0d328a0",
   "links": {
    "http://architecture.nirmauni.ac.in/": "Architecture",
@@ -3173,7 +3178,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "776d940575f4dccb80f859439700004ab718f8e516026379468751b9d87200ca",
+  "hash": "77688a7c3190729adc33439614533892b2766c55c0cd321fd17ca98966abe796",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -3509,7 +3514,7 @@
  },
  "https://www.iimb.ac.in/": {
   "fails": 0,
-  "hash": "3f13bb4b85b5d05104b8582dbe42cd9c8ecda76a8cfb07839b4af94be842283f",
+  "hash": "8b7f241a9d1a8d4696ac2bcabb8ba5fa6a475f60c1ad266f95be52f42a94c8b3",
   "links": {
    "https://blog.iimb.ac.in/": "Blog",
    "https://dbe.iimb.ac.in/": "BBA in Digital Business and Entrepreneurship (BBA DBE)",
@@ -3647,9 +3652,12 @@
    "https://www.iimb.ac.in/index.php/node/14833": "19 th Nov CSITM to host one-day ‘AI for Everyday Productivity’ programme on 19 November Read More",
    "https://www.iimb.ac.in/index.php/node/14834": "12 th Nov IIMB to host culmination of imaginATe - Fellowship for Entrepreneurs with Disabilities on 12 and 13 November Read More",
    "https://www.iimb.ac.in/index.php/node/14837": "Journal Article: 'Why Your Change Champions Are Burning Out: CARE Framework for Emotionally Sustainable Change' Prof. Neha Bellamkonda",
+   "https://www.iimb.ac.in/index.php/node/14841": "Journal Article: 'Different strokes for different folks? Cross-disciplinary syntheses and directions on growth' Prof. Ludvig Levasseur",
    "https://www.iimb.ac.in/index.php/node/6154": "13 th Nov CPP to host book talk with First Global’s Devina Mehra on how policy can shape India’s savings habits Read More",
+   "https://www.iimb.ac.in/index.php/node/6508": "20 th Nov Research & Publications Office to host virtual seminar on ‘Deeptech Innovation through Entrepreneurial Capabilities’ on 20 November Read More",
    "https://www.iimb.ac.in/index.php/node/6609": "5 th Dec Centre for Software & IT Management jointly with IEEE CEDA Bangalore Chapter to host Semiconductor Conclave 2026 on 5th December Read More",
    "https://www.iimb.ac.in/index.php/node/7313": "IIMB hosts imaginATe showcase featuring ten ventures led by entrepreneurs with disabilities",
+   "https://www.iimb.ac.in/index.php/node/7337": "30 th Nov Research & Publications Office to host seminar on ‘Economic Benchmarks, Material Disadvantage and Redistributive Preferences’ on 30 November Read More",
    "https://www.iimb.ac.in/index.php/node/757": "11 th Mar CSITM to host first Doctoral Consortium under InCIS 2027 on 11th March Read More",
    "https://www.iimb.ac.in/index.php/node/762": "12 th Dec IIM Bangalore to host AIB South Asia Chapter & AIB Sustainability Shared Interest Group paper development workshop Read More",
    "https://www.iimb.ac.in/index.php/node/768": "1 st Dec CSITM to host 'The India Lens: Building Theory from Indian Phenomena', a two-day Scholarly Advancement Mentorship Workshop Read More",
@@ -3896,7 +3904,7 @@
  },
  "https://www.iimj.ac.in/": {
   "fails": 0,
-  "hash": "c5a7db4d385d7f4d0943ad8194c05c06cc7366e26359848325dec4e46a10f56e",
+  "hash": "5e41bc6ff6c97de93c1c5de3b8f54be72a9969c9bb9ae445428d56596674323d",
   "links": {
    "http://jammutourism.gov.in/": "About Jammu and Kashmir",
    "http://mhrd.gov.in/": "",
@@ -4217,7 +4225,9 @@
    "https://www.iimj.ac.in/themes/awesome_zymphonies_theme/css/contrast.css": "Black Theme",
    "https://www.iimj.ac.in/themes/awesome_zymphonies_theme/css/style.css": "Default Theme",
    "https://www.iimj.ac.in/trikuta-atmadeep-bhav.php": "Trikuta - Hindi Patrika",
+   "https://www.iimj.ac.in/urja-summit/": "",
    "https://www.iimj.ac.in/verification.php": "Student's Educational Document Verification",
+   "https://www.iimj.ac.in/video-gallery.php": "Video Gallery",
    "https://www.iimj.ac.in/viksit-bharat2047.php": "Viksit Bharat@2047",
    "https://www.iimj.ac.in/web-advertisement-non-faculty-positions.php": "Web Advertisement for the Non-Faculty Positions Advertisement No. IIMJ/Advt/Non-Faculty-Rect/2026/03 dated 28 th August 2026 new",
    "https://www.instagram.com/iimj_jammu/?hl=en": "Instagram",
@@ -4550,7 +4560,7 @@
   "name": "IIM Lucknow (home)"
  },
  "https://www.iimrohtak.ac.in/": {
-  "fails": 0,
+  "fails": 1,
   "hash": "2018ca1663920c6ba46396ab98371e35fefb980f5257008e10d1f5ff40c82c1c",
   "links": {
    "http://apps.iimrohtak.ac.in/": "PGP Student Portal",
@@ -5002,7 +5012,7 @@
  },
  "https://www.nalsar.ac.in/": {
   "fails": 0,
-  "hash": "2137a8bb17ae16dbd6332805895403c94a439ce02adcb1fda2f79909c81c17db",
+  "hash": "67b9fb0517bd5d7a0f4eb43e0275affef9ae3b8a1c8534a2519c7a4700bb95bc",
   "links": {
    "https://in.linkedin.com/school/nalsar-university-of-law-student-bar-council/": "",
    "https://maps.app.goo.gl/HzTNvPhCQjUkKu117": "NALSAR University of Law, Justice City, Shamirpet, Hyderabad, Telangana 500101",
@@ -5032,6 +5042,7 @@
    "https://nalsar.ac.in/news-and-events/": "News and Events",
    "https://nalsar.ac.in/news-and-events/job-openings/": "Job Openings",
    "https://nalsar.ac.in/news-and-events/job-openings/advertisement-for-the-post-of-project-lead-for-the-project-a-scoping-report-on-broiler-chicken-welfare-in-india/": "Animal Law Centre",
+   "https://nalsar.ac.in/news-and-events/job-openings/advertisement-for-the-post-of-research-assistant-law-and-economic-regulation/": "Research Assistant – Law and Economic Regulation",
    "https://nalsar.ac.in/news-and-events/job-openings/advertisement-for-the-post-of-research-associate-for-the-project-a-scoping-report-on-broiler-chicken-welfare-in-india/": "Animal Law Centre",
    "https://nalsar.ac.in/news-and-events/tenders-and-quotations/": "Tenders & Quotations",
    "https://nalsar.ac.in/news-and-events/tenders-and-quotations/sealed-quotations-are-invited-for-the-cleaning-of-raw-and-drinking-water-tanks-at-nalsar-university-of-law/": "Department of Engineering",
@@ -5534,7 +5545,7 @@
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "5f83cf88516fdaee4c766890ea58e7fe062c7b438646bf7015a28db73ecd76e2",
+  "hash": "c48219c91a65a84a06dc937809e0a6e35a778a5ea80c0ed009a4882e3a76ae75",
   "links": {
    "http://www.nad.gov.in/": "National Academic Depository (NAD)",
    "https://advertising.nmims.edu/": "Branding & Advertising",
@@ -6371,6 +6382,36 @@
    "https://mmc.gunungmaskab.go.id/2026/11/17/wi-fi-2-4-ghz-dan-5-ghz-saat-membuka-mahjong-ways-2-memahami-perbedaan-jangkauan-dan-gangguan-jaringan/": "Wi-Fi 2,4 GHz dan 5 GHz saat Membuka Mahjong Ways 2, Memahami Perbedaan Jangkauan dan Gangguan Jaringan",
    "https://mmc.gunungmaskab.go.id/2026/11/17/wild-bandito-dan-kabel-usb-c-bertanda-5a-mengenal-peran-kapasitas-arus-dalam-fast-charging-hp/": "Wild Bandito dan Kabel USB-C Bertanda 5A, Mengenal Peran Kapasitas Arus dalam Fast Charging HP",
    "https://mmc.gunungmaskab.go.id/2026/11/17/zodiak-aquarius-pada-ilustrasi-starlight-princess-membedakan-lambang-pembawa-air-dengan-motif-langit-fantasi/": "Zodiak Aquarius pada Ilustrasi Starlight Princess, Membedakan Lambang Pembawa Air dengan Motif Langit Fantasi",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/fitur-clipboard-history-pada-smartphone-menyimpan-catatan-mahjong-ways-mengenal-risiko-data-tersalin-tanpa-disadari": "Fitur Clipboard History pada Smartphone Menyimpan Catatan Mahjong Ways, Mengenal Risiko Data Tersalin tanpa Disadari",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/fitur-hapus-objek-pada-galeri-hp-digunakan-mengedit-rekaman-mahjong-ways-mengenal-risiko-hilangnya-informasi-penting": "Fitur Hapus Objek pada Galeri HP Digunakan Mengedit Rekaman Mahjong Ways, Mengenal Risiko Hilangnya Informasi Penting",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/jam-keberuntungan-mahjong-ways-dikaitkan-dengan-waktu-makan-siang-fenomena-kebiasaan-harian-yang-dianggap-memengaruhi-hasil": "Jam Keberuntungan Mahjong Ways Dikaitkan dengan Waktu Makan Siang, Fenomena Kebiasaan Harian yang Dianggap Memengaruhi Hasil",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/ketika-kalkulator-hp-digunakan-menghitung-peluang-mahjong-ways-kesalahan-mengalikan-persentase-bisa-mengubah-kesimpulan-pemain": "Ketika Kalkulator HP Digunakan Menghitung Peluang Mahjong Ways, Kesalahan Mengalikan Persentase Bisa Mengubah Kesimpulan Pemain",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/ketika-ponsel-mengaktifkan-fitur-perlindungan-mata-warna-simbol-treasures-of-aztec-bisa-terlihat-berbeda-dari-rekaman-asli": "Ketika Ponsel Mengaktifkan Fitur Perlindungan Mata, Warna Simbol Treasures of Aztec Bisa Terlihat Berbeda dari Rekaman Asli",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/ketika-simbol-wild-bandito-tampak-menyala-lebih-lama-mengenal-perbedaan-durasi-animasi-dan-nilai-kombinasi": "Ketika Simbol Wild Bandito Tampak Menyala Lebih Lama, Mengenal Perbedaan Durasi Animasi dan Nilai Kombinasi",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/ketika-treasures-of-aztec-menampilkan-beberapa-kombinasi-sekaligus-menentukan-urutan-informasi-yang-perlu-dibaca-pemain": "Ketika Treasures of Aztec Menampilkan Beberapa Kombinasi Sekaligus, Menentukan Urutan Informasi yang Perlu Dibaca Pemain",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/mahjong-ways-dibandingkan-dengan-permainan-dadu-sederhana-eksperimen-mengenali-rangkaian-acak-yang-terlihat-teratur": "Mahjong Ways Dibandingkan dengan Permainan Dadu Sederhana, Eksperimen Mengenali Rangkaian Acak yang Terlihat Teratur",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/membandingkan-mahjong-ways-dan-gates-of-olympus-melalui-kartu-peristiwa-acak-cara-memisahkan-simbol-dari-urutan-kejadian": "Membandingkan Mahjong Ways dan Gates of Olympus melalui Kartu Peristiwa Acak, Cara Memisahkan Simbol dari Urutan Kejadian",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/misteri-angka-kemenangan-yang-berubah-setelah-pembulatan-starlight-princess-dan-pentingnya-membaca-nilai-asli-permainan": "Misteri Angka Kemenangan yang Berubah Setelah Pembulatan, Starlight Princess dan Pentingnya Membaca Nilai Asli Permainan",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/misteri-dua-angka-pengali-yang-muncul-berdekatan-gates-of-olympus-dalam-pembahasan-perhitungan-nilai-gabungan": "Misteri Dua Angka Pengali yang Muncul Berdekatan, Gates of Olympus dalam Pembahasan Perhitungan Nilai Gabungan",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/misteri-simbol-khusus-starlight-princess-dalam-buku-panduan-permainan-membaca-keterangan-yang-tidak-selalu-terlihat-pada-cuplikan": "Misteri Simbol Khusus Starlight Princess dalam Buku Panduan Permainan, Membaca Keterangan yang Tidak Selalu Terlihat pada Cuplikan",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/penggunaan-stylus-pada-smartphone-untuk-menandai-scatter-gates-of-olympus-memisahkan-catatan-posisi-dan-hasil-akhir": "Penggunaan Stylus pada Smartphone untuk Menandai Scatter Gates of Olympus, Memisahkan Catatan Posisi dan Hasil Akhir",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/pola-keberuntungan-mahjong-ways-dikaitkan-dengan-tanggal-ulang-tahun-mengapa-angka-pribadi-terasa-lebih-bermakna": "Pola Keberuntungan Mahjong Ways Dikaitkan dengan Tanggal Ulang Tahun, Mengapa Angka Pribadi Terasa Lebih Bermakna",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/pola-mahjong-ways-terlihat-berbeda-setelah-catatan-dipindahkan-ke-kalender-pengaruh-pengelompokan-harian-terhadap-interpretasi-hasil": "Pola Mahjong Ways Terlihat Berbeda Setelah Catatan Dipindahkan ke Kalender, Pengaruh Pengelompokan Harian terhadap Interpretasi Hasil",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/ramalan-shio-yang-baru-dibaca-setelah-bermain-mengapa-hasil-mahjong-ways-terasa-sesuai-dengan-kalimat-keberuntungan": "Ramalan Shio yang Baru Dibaca Setelah Bermain, Mengapa Hasil Mahjong Ways Terasa Sesuai dengan Kalimat Keberuntungan",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/saat-ponsel-mengaktifkan-mode-satu-tangan-mahjong-ways-2-menjadi-contoh-perubahan-posisi-tombol-dan-kenyamanan-interaksi": "Saat Ponsel Mengaktifkan Mode Satu Tangan, Mahjong Ways 2 Menjadi Contoh Perubahan Posisi Tombol dan Kenyamanan Interaksi",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/satu-simbol-scatter-terhitung-dalam-dua-catatan-berbeda-misteri-kesalahan-pencatatan-starlight-princess-saat-sesi-berlanjut": "Satu Simbol Scatter Terhitung dalam Dua Catatan Berbeda, Misteri Kesalahan Pencatatan Starlight Princess saat Sesi Berlanjut",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/shio-ayam-dan-anggapan-punya-insting-terhadap-waktu-menelusuri-kepercayaan-jam-keberuntungan-dalam-pembahasan-mahjong-ways-2": "Shio Ayam dan Anggapan Punya Insting terhadap Waktu, Menelusuri Kepercayaan Jam Keberuntungan dalam Pembahasan Mahjong Ways 2",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/shio-harimau-dan-kebiasaan-mengambil-risiko-membandingkan-persepsi-keberanian-dengan-pilihan-pemain-wild-bounty-showdown": "Shio Harimau dan Kebiasaan Mengambil Risiko, Membandingkan Persepsi Keberanian dengan Pilihan Pemain Wild Bounty Showdown",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/shio-kerbau-dan-sikap-tidak-mudah-menyerah-membahas-perbedaan-ketekunan-dengan-keputusan-berhenti-pada-starlight-princess": "Shio Kerbau dan Sikap Tidak Mudah Menyerah, Membahas Perbedaan Ketekunan dengan Keputusan Berhenti pada Starlight Princess",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/shio-monyet-dan-anggapan-cepat-belajar-mengenal-perbedaan-pengalaman-bermain-dengan-pemahaman-aturan-wild-bandito": "Shio Monyet dan Anggapan Cepat Belajar, Mengenal Perbedaan Pengalaman Bermain dengan Pemahaman Aturan Wild Bandito",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/shio-naga-dan-kelinci-dalam-satu-kartu-ramalan-fenomena-mencocokkan-dua-simbol-keberuntungan-dengan-gates-of-olympus": "Shio Naga dan Kelinci dalam Satu Kartu Ramalan, Fenomena Mencocokkan Dua Simbol Keberuntungan dengan Gates of Olympus",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/shio-ular-dan-anggapan-memiliki-naluri-kuat-hubungan-penilaian-diri-dengan-keputusan-pemain-starlight-princess": "Shio Ular dan Anggapan Memiliki Naluri Kuat, Hubungan Penilaian Diri dengan Keputusan Pemain Starlight Princess",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/simbol-wild-dan-scatter-dalam-satu-cuplikan-wild-bounty-showdown-mengapa-kemunculan-bersamaan-tidak-selalu-memiliki-fungsi-serupa": "Simbol Wild dan Scatter dalam Satu Cuplikan Wild Bounty Showdown, Mengapa Kemunculan Bersamaan Tidak Selalu Memiliki Fungsi Serupa",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/teknologi-esim-travel-pada-smartphone-saat-mengakses-gates-of-olympus-memahami-perbedaan-operator-asal-dan-jaringan-yang-digunakan": "Teknologi eSIM Travel pada Smartphone saat Mengakses Gates of Olympus, Memahami Perbedaan Operator Asal dan Jaringan yang Digunakan",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/tombol-volume-hp-dijadikan-penanda-setiap-putaran-mahjong-ways-2-menguji-ketepatan-catatan-manual-terhadap-aktivitas-permainan": "Tombol Volume HP Dijadikan Penanda Setiap Putaran Mahjong Ways 2, Menguji Ketepatan Catatan Manual terhadap Aktivitas Permainan",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/wild-bandito-dalam-tantangan-menebak-simbol-sebelum-gulungan-berhenti-mengukur-perbedaan-tebakan-spontan-dan-hasil-sebenarnya": "Wild Bandito dalam Tantangan Menebak Simbol Sebelum Gulungan Berhenti, Mengukur Perbedaan Tebakan Spontan dan Hasil Sebenarnya",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/wild-bounty-showdown-dan-dugaan-pola-yang-terbentuk-dari-tiga-sesi-terpisah-menguji-pengaruh-jeda-terhadap-cara-membaca-catatan": "Wild Bounty Showdown dan Dugaan Pola yang Terbentuk dari Tiga Sesi Terpisah, Menguji Pengaruh Jeda terhadap Cara Membaca Catatan",
+   "https://mmc.gunungmaskab.go.id/2026/11/18/wild-bounty-showdown-dan-fenomena-tiga-bonus-dalam-satu-rekaman-memahami-perbedaan-jumlah-kejadian-dengan-durasi-sesi": "Wild Bounty Showdown dan Fenomena Tiga Bonus dalam Satu Rekaman, Memahami Perbedaan Jumlah Kejadian dengan Durasi Sesi",
    "https://mobilelegends.id": "LaneID: Build Hero, Tier List & Tips Mobile Legends",
    "https://mommya-z.com": "Mommy A–Z: Panduan Kehamilan, Menyusui & Parenting",
    "https://monitory.id": "Monitory: Review Monitor, PC & Gadget Terbaru",
