@@ -1662,13 +1662,13 @@
   "name": "IIM Sambalpur (home)"
  },
  "https://iimsambalpur.ac.in/bachelor-of-science-b-s-in-management-and-public-policy/": {
-  "fails": 29,
+  "fails": 30,
   "hash": null,
   "links": {},
   "name": "IIM Sambalpur BS MPP"
  },
  "https://iimsirmaur.ac.in/bachelors-management-studies-bms": {
-  "fails": 29,
+  "fails": 30,
   "hash": null,
   "links": {},
   "name": "IIM Sirmaur BMS"
@@ -2124,7 +2124,7 @@
   "name": "IIM Udaipur news"
  },
  "https://nirmauni.ac.in/": {
-  "fails": 3,
+  "fails": 4,
   "hash": "2800296b90c153ee7f99261e325d0f22b1898b1cfe33d3fbb7bf5039b0d328a0",
   "links": {
    "http://architecture.nirmauni.ac.in/": "Architecture",
@@ -3173,7 +3173,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "6dd6858508cde959b210a639a769bdb5cef3b3a670392a584854486d75a7d4be",
+  "hash": "776d940575f4dccb80f859439700004ab718f8e516026379468751b9d87200ca",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -4550,7 +4550,7 @@
   "name": "IIM Lucknow (home)"
  },
  "https://www.iimrohtak.ac.in/": {
-  "fails": 1,
+  "fails": 0,
   "hash": "2018ca1663920c6ba46396ab98371e35fefb980f5257008e10d1f5ff40c82c1c",
   "links": {
    "http://apps.iimrohtak.ac.in/": "PGP Student Portal",
