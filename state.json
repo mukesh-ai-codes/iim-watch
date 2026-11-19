@@ -53,12 +53,13 @@
  },
  "https://christuniversity.in/": {
   "fails": 0,
-  "hash": "8493a5db3b54da66cd1f56831d6688d24b548827d9ec84ca64d33cd41460ad3b",
+  "hash": "5ccba90234d95ce09e98965f8c3f79d1b0d0e1010b203e2962ff2ed07bc2f369",
   "links": {
    "http://192.168.100.100:8090": "Internet Login",
    "http://alumni.christuniversity.in/": "Alumni",
    "http://christbangalore.blogspot.com/": "",
    "http://cloudbusinesspages.com": "Cloud Business Pages",
+   "http://daksh.christuniversity.in": "Know More",
    "http://decibel.christuniversity.in/": "Campus Radio",
    "http://initechnologies.com": "INI Technologies Pvt Ltd., Kochi, India",
    "http://library.christuniversity.in/": "Library",
@@ -169,6 +170,7 @@
    "https://christuniversity.in/events/37343": "Nov 19 2026 Panel Discussion on Inclusive Excellence in Practice: Disability and Neurodiversity in Higher Educat... 19 Nov 01:45 PM - 03:00 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37344": "Nov 20 2026 Talk on AMR: The Silently Rising Global Threats 20 Nov 11:45 AM - 12:45 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37345": "Nov 20 2026 Expert Talk on The Future of Work: Automation and AI in Business 20 Nov 07:30 AM - 09:00 AM Bangalore Central Campus",
+   "https://christuniversity.in/events/37360": "Nov 19 2026 GROUND 2 GLORY - A Sports fundraiser celebrating teamwork and social impact 19 Nov 01:06 PM - 01:06 PM Bangalore Central Campus",
    "https://christuniversity.in/examination": "Examination Information & Resources",
    "https://christuniversity.in/fcra": "FCRA",
    "https://christuniversity.in/founder": "Founder",
@@ -1073,7 +1075,7 @@
  },
  "https://iimmumbai.ac.in/ug-programme-overview": {
   "fails": 0,
-  "hash": "a41b8d0f85ce42ef87f8d35a6067e58ee49a138be56235118844b8f5abcd95e0",
+  "hash": "5fcbe5b3542dca0eceea4064c64754d35996001d51d2c20dc8818be832a485be",
   "links": {
    "https://cep.digivarsity.com/iim-mumbai/executive-certificate-program-in-strategic-sales-and-ai-driven-marketing.html": "Executive Certificate Program in Strategic Sales & AI-Driven Marketing new-notification",
    "https://cep.digivarsity.com/iim-mumbai/executive-certificate-program-on-digital-transformation-ai.html": "Executive Certificate Program on Digital Transformation and AI",
@@ -1124,6 +1126,7 @@
    "https://iimmumbai.ac.in/data-science-lab": "Data Science -Analytics related Projects and Facilities",
    "https://iimmumbai.ac.in/ddsct-2024": "Data-Driven Supply Chain Transformation 2024",
    "https://iimmumbai.ac.in/dei-cell": "DEI Cell",
+   "https://iimmumbai.ac.in/details-of-visiting-distinguished-professors-adjunct-faculty": "Visiting Distinguished Professor",
    "https://iimmumbai.ac.in/digital-mirror": "Digital Mirror",
    "https://iimmumbai.ac.in/digital-scm-2021": "DIGITAL SCM 2021",
    "https://iimmumbai.ac.in/digital-twins-2022/index.html": "DIGITAL TWINS 2022",
@@ -1154,6 +1157,7 @@
    "https://iimmumbai.ac.in/grievance-cell": "Grievance Cell",
    "https://iimmumbai.ac.in/hindi-workshops": "Hindi Implementation",
    "https://iimmumbai.ac.in/icc": "INTERNAL COMPLAINTS COMMITTEE (ICC) - WOMEN",
+   "https://iimmumbai.ac.in/iimmumbai-genpact/": "IIM Mumbai X Genpact new-notification",
    "https://iimmumbai.ac.in/impact": "Impact",
    "https://iimmumbai.ac.in/independent-external-monitor": "Independent External Monitor (IEM)",
    "https://iimmumbai.ac.in/independent-external-monitor-iem": "Independent External Monitor (IEM)",
@@ -1273,7 +1277,7 @@
  },
  "https://iimranchi.ac.in/": {
   "fails": 0,
-  "hash": "52e1049426036fca4a185213fcf25e1c03eb33509d71abedd958ce40f5d50ec8",
+  "hash": "b1687e2a18bc24e69bb1c3352b5cdfae3f7e1a4236e757d4aefb3e1e9d4063e7",
   "links": {
    "https://alumni.iimranchi.ac.in/": "Alumni Portal",
    "https://bhaveshshaha.com": "Developed by Bhavesh Shaha (IIM Ranchi IPM'24)",
@@ -1411,7 +1415,7 @@
  },
  "https://iimranchi.ac.in/p/ipm": {
   "fails": 0,
-  "hash": "52e1049426036fca4a185213fcf25e1c03eb33509d71abedd958ce40f5d50ec8",
+  "hash": "b1687e2a18bc24e69bb1c3352b5cdfae3f7e1a4236e757d4aefb3e1e9d4063e7",
   "links": {
    "https://alumni.iimranchi.ac.in/": "Alumni Portal",
    "https://bhaveshshaha.com": "Developed by Bhavesh Shaha (IIM Ranchi IPM'24)",
@@ -1675,20 +1679,20 @@
   "name": "IIM Sambalpur (home)"
  },
  "https://iimsambalpur.ac.in/bachelor-of-science-b-s-in-management-and-public-policy/": {
-  "fails": 33,
+  "fails": 34,
   "hash": null,
   "links": {},
   "name": "IIM Sambalpur BS MPP"
  },
  "https://iimsirmaur.ac.in/bachelors-management-studies-bms": {
-  "fails": 33,
+  "fails": 34,
   "hash": null,
   "links": {},
   "name": "IIM Sirmaur BMS"
  },
  "https://krea.edu.in/": {
   "fails": 0,
-  "hash": "bd109b1bfb1b60d304449e25a927611d1d278c16495e2c0d09e5d08174336c7d",
+  "hash": "37c39d4d90844cc67396ed3703114950f9ffa343475a370d8f6b9aab90d1cb40",
   "links": {
    "http://deccancentre.org/": "Deccan Centre for International Relations",
    "https://catalystaic.org/": "Catalyst AIC",
@@ -1712,6 +1716,7 @@
    "https://krea.edu.in/about/philosophy-pedagogy/": "Philosophy and Pedagogy",
    "https://krea.edu.in/applications/": "Apply Now",
    "https://krea.edu.in/blogs/": "View more",
+   "https://krea.edu.in/contact-us/": "Contact Us",
    "https://krea.edu.in/eligibility/eligibility-msc-finance/": "MSc Finance",
    "https://krea.edu.in/eligibility/eligibility-pg-diploma-in-digital-media-and-contemporary-journalism/": "PG Diploma in Digital Media and Contemporary Journalism",
    "https://krea.edu.in/events/": "View more",
@@ -1776,8 +1781,11 @@
    "https://krea.edu.in/spotlight/abhayraj-naik-participates-in-a-panel-discussion-organised-by-the-experiential-development-and-justice-foundation-nigeria/": "November 6, 2026 SIAS Abhayraj Naik participates in a panel discussion organised by the Experiential Development and Justice Foundation (Nigeria) Abhayraj Naik, Visiting Associate Professor of Practic",
    "https://krea.edu.in/spotlight/dr-aritra-guptas-article-in-the-european-physical-journal-c/": "November 13, 2026 SIAS Dr Aritra Gupta’s article in The European Physical Journal C Dr Aritra Gupta, Assistant Professor, Physics, SIAS, has published an article titled Dark matter capture in supernov",
    "https://krea.edu.in/spotlight/dr-chirag-delivers-an-online-talk-as-part-of-ashoka-universitys-evs-colloquium-series/": "November 6, 2026 SIAS Dr Chirag Dhara delivers an online talk as part of Ashoka University’s EVS Colloquium Series Dr Chirag Dhara, Associate Professor of Environmental Studies, SIAS, delivered an inv",
+   "https://krea.edu.in/spotlight/dr-chirag-dharas-article-in-down-to-earth/": "November 17, 2026 SIAS Dr Chirag Dhara’s article in Down to Earth An article by Dr Chirag Dhara, Associate Professor, Environmental Studies, SIAS, co-authored with Shrutee Jalan, Research Scholar at I",
    "https://krea.edu.in/spotlight/dr-chirag-dharas-opinion-piece-in-the-indian-express/": "November 13, 2026 SIAS Dr Chirag Dhara’s opinion piece in The Indian Express Dr Chirag Dhara, Associate Professor, Environmental Studies, SIAS, has co-authored an opinion piece titled At COP31, look b",
+   "https://krea.edu.in/spotlight/dr-krishna-kumar-balaramans-chapter-in-uttarakhand-at-25-a-himalayan-state-with-infinite-possibilities/": "November 17, 2026 IFMR GSB Dr Krishna Kumar Balaraman’s chapter in Uttarakhand at 25: A Himalayan State with Infinite Possibilities Dr Krishna Kumar Balaraman, Associate Professor, Strategic Managemen",
    "https://krea.edu.in/spotlight/dr-rakesh-senguptas-latest-book-with-river-publishers/": "November 6, 2026 SIAS Dr Rakesh Sengupta’s latest book with River Publishers Dr Rakesh Sengupta, Assistant Professor, Psychology, SIAS), has authored a book titled Mind, Model and Complexity, with Riv",
+   "https://krea.edu.in/spotlight/dr-srajana-kaikinis-session-for-lecture-on-the-rocks/": "November 17, 2026 SIAS Dr Srajana Kaikini’s session for Lecture on the Rocks Dr Srajana Kaikini, Assistant Professor, Philosophy, SIAS gave a lecture titled ‘Things Come Apart: A Philosophical Excursi",
    "https://krea.edu.in/spotlight/dr-suchika-chopras-paper-published-in-health-economics/": "October 30, 2026 SIAS Dr Suchika Chopra’s paper published in Health Economics Dr Suchika Chopra Assistant Professor, Economics, SIAS has authored a paper titled The Effects of Health Shocks on Time Sp",
    "https://krea.edu.in/spotlight/dr-venkatanagarajans-paper-in-international-journal-of-cross-cultural-management/": "October 30, 2026 IFMR GSB Dr Venkatanagarajan’s paper in International Journal of Cross Cultural Management Dr Venkatanagarajan, Assistant Professor, OB & HR, IFMR GSB has authored a paper titled Rela",
    "https://krea.edu.in/spotlight/ifmr-gsb-mba-team-shortlisted-for-cfa-institute-equity-research-challenge-zonal-finals-2026-27/": "November 12, 2026 IFMR GSB IFMR GSB MBA Team Shortlisted for CFA Institute Equity Research Challenge Zonal Finals 2026–27 aurav Patil, Mahir Mehta, Mohammed Saqlein, Pruthvirajsinh Gadhavi and Sparsh ",
@@ -2137,7 +2145,7 @@
   "name": "IIM Udaipur news"
  },
  "https://nirmauni.ac.in/": {
-  "fails": 7,
+  "fails": 8,
   "hash": "2800296b90c153ee7f99261e325d0f22b1898b1cfe33d3fbb7bf5039b0d328a0",
   "links": {
    "http://architecture.nirmauni.ac.in/": "Architecture",
@@ -2224,7 +2232,7 @@
  },
  "https://npat.nmims.edu/": {
   "fails": 0,
-  "hash": "7bae0e493463715587adac2343ff414fc64cb96d53e78e8a4104c0ee236414b1",
+  "hash": "f383f2efd5e49d56fe184798f86ebd50ad116a20b754bc7b248c902fc5258783",
   "links": {
    "https://nmims.edu/docs/2026/NPAT_NCET_MST_NLAT_2026-(For-SF).pdf": "View Dates",
    "https://nmims.my.site.com/studentportal/s/login/?page=NPAT": "Candidate Login",
@@ -2254,7 +2262,7 @@
  },
  "https://nta.ac.in/": {
   "fails": 0,
-  "hash": "8920f2d5f1052d0c0558a7baf1bcab59fa66c95dcbd028c0c2f6d9fdba61bcfa",
+  "hash": "589622be967871dc9e285b9f0d58f0dc0b6ef82fac6239335d0ff9fd1d17fcc6",
   "links": {
    "http://cbtc.nta.ac.in/observer": "Registration for observers of NTA is open. All eligible observer are requested to register themselves.",
    "http://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/202610161905649093.pdf": "Public Notice Corrigendum to the Information Bulletin of UGC-NET December 2026 Examination",
@@ -3140,6 +3148,7 @@
    "https://nta.ac.in/Download/Notice/Notice_20261114165715.pdf": "Read More",
    "https://nta.ac.in/Download/Notice/Notice_20261114192445.pdf": "Read More",
    "https://nta.ac.in/Download/Notice/Notice_20261117205801.pdf": "Read More",
+   "https://nta.ac.in/Download/Notice/Notice_20261119125453.pdf": "Read More",
    "https://nta.ac.in/Downloads": "Downloads",
    "https://nta.ac.in/Engineeringexam": "Engineering Joint Entrance Examination - (Main)",
    "https://nta.ac.in/Home": "Home",
@@ -3186,7 +3195,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "77688a7c3190729adc33439614533892b2766c55c0cd321fd17ca98966abe796",
+  "hash": "d8d3aff85b5e9162dd018f63fb349f059b6de9af1b5e35746b44afbda1b39d73",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -3331,6 +3340,8 @@
    "https://www.alliance.edu.in/mandatory-disclosure/": "Mandatory Disclosures",
    "https://www.alliance.edu.in/news/alliance-university-celebrates-71st-kannada-rajyotsava-with-cultural-and-literary-activities": "NEWS | 1 min read Alliance University Celebrates 71st Kannada Rajyotsava with Cultural and Literary Activities 06 Nov 2026 3k Views",
    "https://www.alliance.edu.in/news/alliance-university-celebrates-innovation-creativity-and-talent-through-alliance-one-2026": "NEWS | 1 min read Alliance University Celebrates Innovation, Creativity and Talent Through Alliance ONE 2026",
+   "https://www.alliance.edu.in/news/alliance-university-hosts-guest-lecture-on-game-theory-and-its-applications-in-business-decision-making": "NEWS | 1 min read Alliance University Hosts Guest Lecture on Game Theory and Its Applications in Business Decision-Making",
+   "https://www.alliance.edu.in/news/alliance-university-participates-in-roundtable-discussion-on-future-employability-at-bengaluru-skill-summit-2026": "NEWS | 1 min read Alliance University Participates in Roundtable Discussion on Future Employability at Bengaluru Skill Summit 2026",
    "https://www.alliance.edu.in/news/alliance-university-showcases-student-creativity-at-drsya-rasa-2026-annual-art-exhibition": "NEWS | 1 min read Alliance University Showcases Student Creativity at Drśya–Rasa 2026 Annual Art Exhibition",
    "https://www.alliance.edu.in/news/alliance-university-signs-mou-with-elcia-to-strengthen-industry-academia-collaboration": "NEWS | 1 min read Alliance University Signs MoU with ELCIA to Strengthen Industry–Academia Collaboration",
    "https://www.alliance.edu.in/opportunities/": "Opportunities",
@@ -3383,7 +3394,7 @@
  },
  "https://www.iift.ac.in/": {
   "fails": 0,
-  "hash": "df59926ee1868069b4f8d8d1fda52d370fc84eeb389e294b869d910450b8a43a",
+  "hash": "ed12a3f5fb5147269470f5688d179e63dce5bfbbadbc0db76d3ee5a9b5d2dc7f",
   "links": {
    "http://epay.iift.ac.in/myspace/": "Myspace",
    "https://applyadmission.net/iift2027/": "Apply Online",
@@ -3501,6 +3512,7 @@
    "https://www.iift.ac.in/uploads/manage-files/2026/10/brochure-mba-2027.pdf": "Brochure",
    "https://www.iift.ac.in/uploads/manage-files/2026/10/certificate-programme-brochuer.pdf": "Brochure",
    "https://www.iift.ac.in/uploads/manage-files/2026/10/pgdm-ib-brochure.pdf": "Brochure",
+   "https://www.iift.ac.in/uploads/manage-files/2026/11/brochure-itl-mdp.pdf": "3 Days Open MDP on International Trade Logistics (20-22 January 2027)",
    "https://www.iift.ac.in/uploads/manage-files/2026/11/pgdmib.pdf": "Brochure",
    "https://www.iift.ac.in/vice-chancellors-message": "Vice Chancellor's Message",
    "https://www.iift.ac.in/vision-mission": "Vision & Mission",
@@ -5556,7 +5568,7 @@
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "1acdb79ca35d19afad68e9a32a82676284efa8a746bac9477d5a68bbc31fd2fa",
+  "hash": "17fe12f7fc87d2ed96a7601d6a13e160dc3cc20c22220ff37a1364dc9b893c7a",
   "links": {
    "http://www.nad.gov.in/": "National Academic Depository (NAD)",
    "https://advertising.nmims.edu/": "Branding & Advertising",
@@ -6490,11 +6502,26 @@
    "https://mmc.gunungmaskab.go.id/2026/11/18/wild-bounty-showdown-dan-dugaan-pola-yang-terbentuk-dari-tiga-sesi-terpisah-menguji-pengaruh-jeda-terhadap-cara-membaca-catatan": "Wild Bounty Showdown dan Dugaan Pola yang Terbentuk dari Tiga Sesi Terpisah, Menguji Pengaruh Jeda terhadap Cara Membaca Catatan",
    "https://mmc.gunungmaskab.go.id/2026/11/18/wild-bounty-showdown-dan-fenomena-tiga-bonus-dalam-satu-rekaman-memahami-perbedaan-jumlah-kejadian-dengan-durasi-sesi": "Wild Bounty Showdown dan Fenomena Tiga Bonus dalam Satu Rekaman, Memahami Perbedaan Jumlah Kejadian dengan Durasi Sesi",
    "https://mmc.gunungmaskab.go.id/2026/11/18/zodiak-taurus-dan-shio-kerbau-pada-poster-wild-bounty-showdown-dua-lambang-serupa-dengan-asal-berbeda/": "Zodiak Taurus dan Shio Kerbau pada Poster Wild Bounty Showdown, Dua Lambang Serupa dengan Asal Berbeda",
+   "https://mmc.gunungmaskab.go.id/2026/11/19/5-tanda-mimpi-tentang-hujan-permen-setelah-menonton-sweet-bonanza-memahami-pengaruh-aktivitas-sebelum-tidur-terhadap-ingatan": "5 Tanda Mimpi tentang Hujan Permen setelah Menonton Sweet Bonanza, Memahami Pengaruh Aktivitas Sebelum Tidur terhadap Ingatan",
+   "https://mmc.gunungmaskab.go.id/2026/11/19/7-motor-listrik-untuk-mobilitas-harian-menghitung-biaya-transportasi-dan-mengatur-anggaran-hiburan-mahjong-ways-secara-terpisah": "7 Motor Listrik untuk Mobilitas Harian, Menghitung Biaya Transportasi dan Mengatur Anggaran Hiburan Mahjong Ways secara Terpisah",
+   "https://mmc.gunungmaskab.go.id/2026/11/19/7-tipe-kepribadian-orang-dalam-komunitas-mahjong-ways-dari-pengamat-detail-hingga-pemain-yang-mengandalkan-perasaan": "7 Tipe Kepribadian Orang dalam Komunitas Mahjong Ways, Dari Pengamat Detail hingga Pemain yang Mengandalkan Perasaan",
    "https://mmc.gunungmaskab.go.id/2026/11/19/bukan-cuma-top-up-cepat-ini-rahasia-tarik-saldo-kemenangan-hitungan-detik-ke-e-wallet/": "Bukan Cuma Top-Up Cepat, Ini Rahasia Tarik Saldo Kemenangan Hitungan Detik ke E-Wallet!",
+   "https://mmc.gunungmaskab.go.id/2026/11/19/dua-hp-dengan-chipset-sama-saat-mengakses-mahjong-ways-2-mengapa-kecepatan-dan-respons-perangkat-bisa-berbeda": "Dua HP dengan Chipset Sama saat Mengakses Mahjong Ways 2, Mengapa Kecepatan dan Respons Perangkat Bisa Berbeda",
    "https://mmc.gunungmaskab.go.id/2026/11/19/fitur-tersembunyi-di-karya-pg-soft-yang-sering-diabaikan-player-pemula/": "Fitur Tersembunyi di Karya PG Soft yang Sering Diabaikan Player Pemula",
+   "https://mmc.gunungmaskab.go.id/2026/11/19/layar-hp-berembun-setelah-terkena-hujan-mengapa-respons-sentuhan-bisa-berubah-saat-membuka-sugar-rush": "Layar HP Berembun setelah Terkena Hujan, Mengapa Respons Sentuhan Bisa Berubah saat Membuka Sugar Rush",
+   "https://mmc.gunungmaskab.go.id/2026/11/19/mahjong-wins-dalam-video-delapan-detik-membedakan-simbol-permainan-dengan-stiker-tambahan-dari-aplikasi-penyuntingan": "Mahjong Wins dalam Video Delapan Detik, Membedakan Simbol Permainan dengan Stiker Tambahan dari Aplikasi Penyuntingan",
    "https://mmc.gunungmaskab.go.id/2026/11/19/mengapa-tengah-malam-sering-diklaim-sebagai-golden-time-ini-penjelasan-dari-sisi-traffic-server/": "Mengapa Tengah Malam Sering Diklaim Sebagai 'Golden Time'? Ini Penjelasan dari Sisi Traffic Server",
+   "https://mmc.gunungmaskab.go.id/2026/11/19/menjaga-masa-depan-badak-jawa-setelah-kabar-kelahiran-anakan-baru-pelajaran-penyebaran-informasi-dari-popularitas-konten-mahjong-ways": "Menjaga Masa Depan Badak Jawa setelah Kabar Kelahiran Anakan Baru, Pelajaran Penyebaran Informasi dari Popularitas Konten Mahjong Ways",
    "https://mmc.gunungmaskab.go.id/2026/11/19/mitos-waktu-bermain-mahjong-ways-benarkah-jam-tertentu-mempengaruhi-algoritma-server/": "Mitos Waktu Bermain Mahjong Ways: Benarkah Jam Tertentu Mempengaruhi Algoritma Server?",
+   "https://mmc.gunungmaskab.go.id/2026/11/19/poster-shio-ayam-dalam-grup-wild-bandito-beredar-tanpa-keterangan-tahun-mengapa-konteks-perayaan-penting-untuk-dipahami": "Poster Shio Ayam dalam Grup Wild Bandito Beredar Tanpa Keterangan Tahun, Mengapa Konteks Perayaan Penting untuk Dipahami",
+   "https://mmc.gunungmaskab.go.id/2026/11/19/qris-cross-border-dan-mahjong-ways-di-luar-negeri-memahami-perbedaan-negara-penerima-pembayaran-dengan-lokasi-situs-permainan": "QRIS Cross-Border dan Mahjong Ways di Luar Negeri, Memahami Perbedaan Negara Penerima Pembayaran dengan Lokasi Situs Permainan",
    "https://mmc.gunungmaskab.go.id/2026/11/19/rahasia-simbol-spesial-mengapa-akun-baru-sering-terasa-lebih-gampang-memicu-bonus/": "Rahasia Simbol Spesial: Mengapa Akun Baru Sering Terasa Lebih Gampang Memicu Bonus?",
+   "https://mmc.gunungmaskab.go.id/2026/11/19/shio-tikus-sering-dikaitkan-dengan-aktivitas-malam-hubungan-kebiasaan-begadang-dan-pengalaman-mengakses-gates-of-olympus": "Shio Tikus Sering Dikaitkan dengan Aktivitas Malam, Hubungan Kebiasaan Begadang dan Pengalaman Mengakses Gates of Olympus",
+   "https://mmc.gunungmaskab.go.id/2026/11/19/shio-ular-dalam-konten-audio-pendek-mengapa-istilah-hoki-pada-sweet-bonanza-sering-ditafsirkan-berbeda-oleh-pendengar": "Shio Ular dalam Konten Audio Pendek, Mengapa Istilah Hoki pada Sweet Bonanza Sering Ditafsirkan Berbeda oleh Pendengar",
+   "https://mmc.gunungmaskab.go.id/2026/11/19/simbol-buah-dan-permen-dalam-sweet-bonanza-memiliki-nilai-berbeda-pentingnya-membaca-jumlah-kombinasi-sebelum-menilai-hasil-permainan": "Simbol Buah dan Permen dalam Sweet Bonanza Memiliki Nilai Berbeda, Pentingnya Membaca Jumlah Kombinasi sebelum Menilai Hasil Permainan",
+   "https://mmc.gunungmaskab.go.id/2026/11/19/suara-tutorial-wild-bandito-bisa-ditiru-teknologi-ai-mengenali-perbedaan-narasi-asli-dan-audio-sintetis-dalam-konten-permainan": "Suara Tutorial Wild Bandito Bisa Ditiru Teknologi AI, Mengenali Perbedaan Narasi Asli dan Audio Sintetis dalam Konten Permainan",
+   "https://mmc.gunungmaskab.go.id/2026/11/19/teknik-mendapat-simbol-wild-dalam-wild-bandito-mengenal-persyaratan-kombinasi-dan-mekanisme-yang-perlu-dipahami-pemain": "Teknik Mendapat Simbol Wild dalam Wild Bandito, Mengenal Persyaratan Kombinasi dan Mekanisme yang Perlu Dipahami Pemain",
+   "https://mmc.gunungmaskab.go.id/2026/11/19/teknologi-ai-menemukan-sampul-rekaman-mahjong-wins-yang-digunakan-berulang-memisahkan-arsip-lama-dari-unggahan-terbaru": "Teknologi AI Menemukan Sampul Rekaman Mahjong Wins yang Digunakan Berulang, Memisahkan Arsip Lama dari Unggahan Terbaru",
    "https://mobilelegends.id": "LaneID: Build Hero, Tier List & Tips Mobile Legends",
    "https://mommya-z.com": "Mommy A–Z: Panduan Kehamilan, Menyusui & Parenting",
    "https://monitory.id": "Monitory: Review Monitor, PC & Gadget Terbaru",
@@ -6878,7 +6905,7 @@
  },
  "https://www.tapmi.edu.in/": {
   "fails": 0,
-  "hash": "a65e386a2e0a5a94ae49a372d75b022357b6ccf2f8520fc247677a4d725eb9e0",
+  "hash": "ce9a34c9f71b7771a5aed58e536b17596f6be2f1213f040081fd705c3e4b05ad",
   "links": {
    "https://apply.manipal.edu/tapmi": "APPLY NOW",
    "https://apply.manipal.edu/tapmi?utm_content=home_admissions_block": "Apply now",
@@ -6889,9 +6916,9 @@
    "https://www.linkedin.com/school/mytapmi/": "Linkedin",
    "https://www.tapmi.edu.in": "www.tapmi.edu.in",
    "https://www.tapmi.edu.in/": "",
-   "https://www.tapmi.edu.in/about-tapmi/": "Message from PVC- MAHE Bengaluru",
-   "https://www.tapmi.edu.in/admission/": "Fees, Scholarships and Financial Assistance",
-   "https://www.tapmi.edu.in/admissions/": "Key Dates and Deadlines",
+   "https://www.tapmi.edu.in/about-tapmi/": "Know more about us",
+   "https://www.tapmi.edu.in/admission/": "Admissions",
+   "https://www.tapmi.edu.in/admissions/": "Admission details",
    "https://www.tapmi.edu.in/alumni-directory/": "Alumini directory with search options",
    "https://www.tapmi.edu.in/alumni-relations/": "Networking and Mentorship Programs",
    "https://www.tapmi.edu.in/alumni/": "Alumni",
@@ -6900,7 +6927,7 @@
    "https://www.tapmi.edu.in/centre-for-social-empowerment/": "Centre for Social Empowerment",
    "https://www.tapmi.edu.in/contact-us/": "Contact Us",
    "https://www.tapmi.edu.in/directors-board-members/": "Meet Our Leaders",
-   "https://www.tapmi.edu.in/event-category/signature-events/": "Signature Events",
+   "https://www.tapmi.edu.in/event-category/signature-events/": "Flagship Events",
    "https://www.tapmi.edu.in/event-category/student-led-initiatives/": "Student – Led Initiatives",
    "https://www.tapmi.edu.in/event/": "Events",
    "https://www.tapmi.edu.in/events-and-conferences": "Read More",
@@ -6909,7 +6936,7 @@
    "https://www.tapmi.edu.in/experience-at-tapmi/": "Student Life",
    "https://www.tapmi.edu.in/faculty-openings/": "Faculty Openings",
    "https://www.tapmi.edu.in/faculty-publications/": "Research and Publications",
-   "https://www.tapmi.edu.in/faculty/": "Teaching Excellence and Achievements",
+   "https://www.tapmi.edu.in/faculty/": "Faculty and Research",
    "https://www.tapmi.edu.in/faculty_profile/": "Meet Our Faculty",
    "https://www.tapmi.edu.in/gallery/": "View Gallery",
    "https://www.tapmi.edu.in/ladc/": "LADC",
@@ -6919,12 +6946,12 @@
    "https://www.tapmi.edu.in/news-blog/": "TAPMI in the News",
    "https://www.tapmi.edu.in/news/press-releases/": "Press Releases",
    "https://www.tapmi.edu.in/newsroom-and-media/": "Newsroom & Media",
-   "https://www.tapmi.edu.in/phd-doctoral-programs/": "Partner Institutions and Global Learning Opportunities",
-   "https://www.tapmi.edu.in/placement/": "TAPMI’s 5-Stage Talent Nurturing Process",
-   "https://www.tapmi.edu.in/programs-and-academics/": "Program & Academics",
+   "https://www.tapmi.edu.in/phd-doctoral-programs/": "Doctoral Programs",
+   "https://www.tapmi.edu.in/placement/": "Placement and Corporate Engagement",
+   "https://www.tapmi.edu.in/programs-and-academics/": "Program Type",
    "https://www.tapmi.edu.in/programs/bba-honors/": "BBA Honors",
    "https://www.tapmi.edu.in/programs/internationalization/": "Internationalization",
-   "https://www.tapmi.edu.in/programs/ipm/": "Integrated Program in Management ( IPM )",
+   "https://www.tapmi.edu.in/programs/ipm/": "Integrated Program in Management (IPM)",
    "https://www.tapmi.edu.in/programs/mba-bkfs/": "MBA - BKFS",
    "https://www.tapmi.edu.in/programs/mba-core/": "MBA – Core",
    "https://www.tapmi.edu.in/programs/mba-hrm/": "MBA - HRM",
