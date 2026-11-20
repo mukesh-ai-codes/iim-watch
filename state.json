@@ -53,7 +53,7 @@
  },
  "https://christuniversity.in/": {
   "fails": 0,
-  "hash": "c493b6be2fb4fc5da608b0966b3ce3ea0c48358607fe01ec14a10fa4b3d7019c",
+  "hash": "3f1bc7f7aa623ac5b54f677a410dfe6610a813a64749828003590520336a1900",
   "links": {
    "http://192.168.100.100:8090": "Internet Login",
    "http://alumni.christuniversity.in/": "Alumni",
@@ -174,6 +174,7 @@
    "https://christuniversity.in/events/37345": "Nov 20 2026 Expert Talk on The Future of Work: Automation and AI in Business 20 Nov 07:30 AM - 09:00 AM Bangalore Central Campus",
    "https://christuniversity.in/events/37360": "Nov 19 2026 GROUND 2 GLORY - A Sports fundraiser celebrating teamwork and social impact 19 Nov 01:06 PM - 01:06 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37381": "Nov 20 2026 Creative Non-Fiction Workshop 20 Nov 01:45 PM - 03:30 PM Bangalore Central Campus",
+   "https://christuniversity.in/events/37399": "Nov 20 2026 Seminar on From Reviewer Comments to Publication: Strategies for Manuscript Revision 20 Nov 02:00 PM - 03:00 PM Bangalore Central Campus",
    "https://christuniversity.in/examination": "Examination Information & Resources",
    "https://christuniversity.in/fcra": "FCRA",
    "https://christuniversity.in/founder": "Founder",
@@ -1556,7 +1557,7 @@
  },
  "https://iimsambalpur.ac.in/": {
   "fails": 0,
-  "hash": "91c29c0af5fcb0e1b7889ab5db9089834a740644284abb0197dc88662c3b438f",
+  "hash": "f7d7aff76b23d9893037bc51345668409897286465cdfd8b0b53649377103bd8",
   "links": {
    "https://conference.iimsambalpur.ac.in/indam/": "More Details →",
    "https://glogift2027.in/": "More Details →",
@@ -1682,13 +1683,13 @@
   "name": "IIM Sambalpur (home)"
  },
  "https://iimsambalpur.ac.in/bachelor-of-science-b-s-in-management-and-public-policy/": {
-  "fails": 36,
+  "fails": 37,
   "hash": null,
   "links": {},
   "name": "IIM Sambalpur BS MPP"
  },
  "https://iimsirmaur.ac.in/bachelors-management-studies-bms": {
-  "fails": 36,
+  "fails": 37,
   "hash": null,
   "links": {},
   "name": "IIM Sirmaur BMS"
@@ -2148,7 +2149,7 @@
   "name": "IIM Udaipur news"
  },
  "https://nirmauni.ac.in/": {
-  "fails": 10,
+  "fails": 11,
   "hash": "2800296b90c153ee7f99261e325d0f22b1898b1cfe33d3fbb7bf5039b0d328a0",
   "links": {
    "http://architecture.nirmauni.ac.in/": "Architecture",
@@ -3152,6 +3153,7 @@
    "https://nta.ac.in/Download/Notice/Notice_20261114192445.pdf": "Read More",
    "https://nta.ac.in/Download/Notice/Notice_20261117205801.pdf": "Read More",
    "https://nta.ac.in/Download/Notice/Notice_20261119125453.pdf": "Read More",
+   "https://nta.ac.in/Download/Notice/Notice_20261120110558.pdf": "Read More",
    "https://nta.ac.in/Downloads": "Downloads",
    "https://nta.ac.in/Engineeringexam": "Engineering Joint Entrance Examination - (Main)",
    "https://nta.ac.in/Home": "Home",
@@ -3198,7 +3200,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "37848af466679cc222a93ef0580e3adaa1fa3047c19748a30dad5f017bbe0412",
+  "hash": "819d1e107f9f34cdf10cd3a0b9e6e90935230f2df9c083dc5e00d27b5b782dd2",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -3931,7 +3933,7 @@
  },
  "https://www.iimj.ac.in/": {
   "fails": 0,
-  "hash": "5e41bc6ff6c97de93c1c5de3b8f54be72a9969c9bb9ae445428d56596674323d",
+  "hash": "782c6570b1ba132c724ca4e5d4e5aee9d88700697327e7842488c18e535d6c90",
   "links": {
    "http://jammutourism.gov.in/": "About Jammu and Kashmir",
    "http://mhrd.gov.in/": "",
@@ -4062,6 +4064,7 @@
    "https://drive.google.com/file/d/1bn2ZZ9FdtxzcleKMamFHS6gJ1yczdxW6/view": "IIM Jammu Welcomes First Batch of eBBA (Hons.) with Online Orientation Programme",
    "https://drive.google.com/file/d/1bo5NU22YqoKuqarwncvzbMsrp2HY66WW/view": "IIM Jammu Commences BBA (Hons.) Programme at Leh Campus, Ladakh",
    "https://drive.google.com/file/d/1btESheirIjPUbFcvyv9W-FWd8UsISHQg/view?usp=sharing": "Indian IIM Jammu Inaugurates Fifteenth Batch of Nurturing Future Leadership Program under the aegis of the Malaviya Mission Teacher Training Programme, Ministry of Education, Govt. of India",
+   "https://drive.google.com/file/d/1co_EvHqv_kr1nBHxak0-K0HB1-cNcGfJ/view": "Offscript with IIM Jammu: YUVA Tales Empowers Student Innovators at GDC Boys Udhampur",
    "https://drive.google.com/file/d/1dpd8gMrobmHhMZG_V4VFXG6t4BOiq9_p/view?usp=sharing": "IIM Jammu Ranked 12th Among India’s Top 25 Public B-Schools in Outlook-ICare Rankings 2027",
    "https://drive.google.com/file/d/1eMEDV2sSpWqE52tN2HpC82l8APvzUg_w/view": "IIM Jammu Commences Mid-Career Leadership Development Training Programme for Young Managers for SAIL",
    "https://drive.google.com/file/d/1ezR_pjVJls7dfFgd_wY785Dc9dB0AspE/view": "IIM Jammu Concludes Management Development Programme on \"Leadership Skills for Managers\" for NBCC Officers (Batch-II)",
@@ -4723,7 +4726,7 @@
  },
  "https://www.iimshillong.ac.in/": {
   "fails": 0,
-  "hash": "5626d9304753087fc14d26624b31517f8a8f86f05e4f2427ab097293dbcedf25",
+  "hash": "fa6b8a0dda9806197561f531c6ee09eed5d9e148ef222a20e8e9f07badecc9ff",
   "links": {
    "http://lms.iimshillong.ac.in/": "LMS",
    "https://alumni.iimshillong.ac.in/": "Alumni Portal",
@@ -5574,7 +5577,7 @@
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "970c89b4c36608c615d0c60e646ba39aeb9a02730e89889558e1fecdc93edbb3",
+  "hash": "57a71874fba03afce13e9359c3cb2e9a3e31cd06d2efbf14f944460fab60b984",
   "links": {
    "http://www.nad.gov.in/": "National Academic Depository (NAD)",
    "https://advertising.nmims.edu/": "Branding & Advertising",
@@ -6573,6 +6576,7 @@
    "https://mmc.gunungmaskab.go.id/2026/11/19/wi-fi-terhubung-tetapi-gates-of-olympus-tidak-terbuka-kenali-peran-halaman-login-router/": "Wi-Fi Terhubung tetapi Gates of Olympus Tidak Terbuka, Kenali Peran Halaman Login Router",
    "https://mmc.gunungmaskab.go.id/2026/11/19/zodiak-aquarius-dan-starlight-princess-dalam-poster-langit-malam-membedakan-konstelasi-astronomi-dari-simbol-fantasi/": "Zodiak Aquarius dan Starlight Princess dalam Poster Langit Malam, Membedakan Konstelasi Astronomi dari Simbol Fantasi",
    "https://mmc.gunungmaskab.go.id/2026/11/19/zodiak-libra-dan-shio-kuda-dipasang-pada-poster-wild-bounty-showdown-mengenal-dua-sistem-yang-berbeda/": "Zodiak Libra dan Shio Kuda Dipasang pada Poster Wild Bounty Showdown, Mengenal Dua Sistem yang Berbeda",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/ai-membandingkan-dua-versi-tabel-pembayaran-gates-of-olympus-mengapa-informasi-lama-dan-terbaru-perlu-diperiksa-secara-terpisah": "AI Membandingkan Dua Versi Tabel Pembayaran Gates of Olympus, Mengapa Informasi Lama dan Terbaru Perlu Diperiksa Secara Terpisah",
    "https://mmc.gunungmaskab.go.id/2026/11/20/bebas-biaya-admin-ini-trik-mengisi-saldo-game-mulai-5-ribu-pakai-aplikasi-dompet-digital/": "Bebas Biaya Admin! Ini Trik Mengisi Saldo Game Mulai 5 Ribu Pakai Aplikasi Dompet Digital",
    "https://mmc.gunungmaskab.go.id/2026/11/20/benarkah-ganti-jaringan-wi-fi-ke-data-seluler-bisa-me-reset-algoritma-game-ini-faktanya/": "Benarkah Ganti Jaringan Wi-Fi ke Data Seluler Bisa Me-reset Algoritma Game? Ini Faktanya",
    "https://mmc.gunungmaskab.go.id/2026/11/20/benarkah-membersihkan-cache-aplikasi-bikin-sistem-permainan-kembali-fresh-ini-fakta-teknisnya/": "Benarkah Membersihkan Cache Aplikasi Bikin Sistem Permainan Kembali 'Fresh'? Ini Fakta Teknisnya",
@@ -6581,13 +6585,27 @@
    "https://mmc.gunungmaskab.go.id/2026/11/20/fakta-di-balik-istilah-pola-sistem-bagaimana-server-memproses-ribuan-aksi-dalam-satu-detik/": "Fakta di Balik Istilah 'Pola Sistem': Bagaimana Server Memproses Ribuan Aksi dalam Satu Detik",
    "https://mmc.gunungmaskab.go.id/2026/11/20/fitur-turbo-vs-mode-normal-mana-yang-lebih-efisien-mengelola-ritme-permainan-menurut-data/": "Fitur Turbo vs Mode Normal: Mana yang Lebih Efisien Mengelola Ritme Permainan Menurut Data?",
    "https://mmc.gunungmaskab.go.id/2026/11/20/kenapa-top-up-via-qris-jauh-lebih-cepat-masuk-dibanding-transfer-bank-manual-ini-alasannya/": "Kenapa Top-Up via QRIS Jauh Lebih Cepat Masuk Dibanding Transfer Bank Manual? Ini Alasannya",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/mahjong-ways-dan-simbol-bambu-yang-muncul-dengan-warna-berbeda-pentingnya-membedakan-nilai-ubin-dari-ornamen-pendukung": "Mahjong Ways dan Simbol Bambu yang Muncul dengan Warna Berbeda, Pentingnya Membedakan Nilai Ubin dari Ornamen Pendukung",
    "https://mmc.gunungmaskab.go.id/2026/11/20/main-di-hari-kerja-vs-akhir-pekan-apakah-kepadatan-traffic-server-memengaruhi-jalannya-sesi/": "Main di Hari Kerja vs Akhir Pekan: Apakah Kepadatan Traffic Server Memengaruhi Jalannya Sesi?",
    "https://mmc.gunungmaskab.go.id/2026/11/20/mengapa-simbol-pengali-besar-di-gates-of-olympus-sering-muncul-di-detik-detik-terakhir/": "Mengapa Simbol Pengali Besar di Gates of Olympus Sering Muncul di Detik-Detik Terakhir?",
    "https://mmc.gunungmaskab.go.id/2026/11/20/mengenal-sistem-rng-di-balik-karya-pg-soft-kenapa-pola-kemunculan-simbol-tak-pernah-sama/": "Mengenal Sistem RNG di Balik Karya PG Soft: Kenapa Pola Kemunculan Simbol Tak Pernah Sama?",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/misteri-tiga-simbol-serupa-dalam-mahjong-ways-2-perbedaan-ubin-yang-berdekatan-dan-kombinasi-yang-dihitung-sebagai-kemenangan": "Misteri Tiga Simbol Serupa dalam Mahjong Ways 2, Perbedaan Ubin yang Berdekatan dan Kombinasi yang Dihitung sebagai Kemenangan",
    "https://mmc.gunungmaskab.go.id/2026/11/20/mitos-akun-lama-vs-akun-baru-di-game-kasual-ini-penjelasan-logis-dari-sisi-database-server/": "Mitos 'Akun Lama vs Akun Baru' di Game Kasual: Ini Penjelasan Logis dari Sisi Database Server",
    "https://mmc.gunungmaskab.go.id/2026/11/20/mitos-jam-ramai-vs-jam-sepi-di-game-digital-benarkah-beban-server-mengubah-hasil-permainan/": "Mitos Jam Ramai vs Jam Sepi di Game Digital: Benarkah Beban Server Mengubah Hasil Permainan?",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/mode-desktop-pada-browser-hp-saat-mengakses-wild-bandito-perbedaan-penyesuaian-halaman-dan-respons-tombol-permainan": "Mode Desktop pada Browser HP saat Mengakses Wild Bandito, Perbedaan Penyesuaian Halaman dan Respons Tombol Permainan",
    "https://mmc.gunungmaskab.go.id/2026/11/20/panduan-aman-tarik-saldo-ke-e-wallet-di-jam-sibuk-hindari-3-kesalahan-sepele-ini/": "Panduan Aman Tarik Saldo ke E-Wallet di Jam Sibuk: Hindari 3 Kesalahan Sepele Ini",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/penggunaan-mouse-bluetooth-pada-hp-android-untuk-gates-of-olympus-perbedaan-kendali-kursor-dan-sentuhan-langsung-dalam-aktivitas-permainan": "Penggunaan Mouse Bluetooth pada HP Android untuk Gates of Olympus, Perbedaan Kendali Kursor dan Sentuhan Langsung dalam Aktivitas Permainan",
    "https://mmc.gunungmaskab.go.id/2026/11/20/perbandingan-kecepatan-transaksi-dana-ovo-atau-qris-mana-yang-paling-stabil-untuk-gamer/": "Perbandingan Kecepatan Transaksi: DANA, OVO, atau QRIS, Mana yang Paling Stabil untuk Gamer?",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/pola-keberuntungan-mahjong-ways-setelah-mendapat-ucapan-selamat-mengenal-pengaruh-perasaan-optimistis-terhadap-penilaian-pemain": "Pola Keberuntungan Mahjong Ways setelah Mendapat Ucapan Selamat, Mengenal Pengaruh Perasaan Optimistis terhadap Penilaian Pemain",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/pola-keberuntungan-wild-bandito-dikaitkan-dengan-koin-pemberian-teman-fenomena-benda-kecil-yang-dianggap-membawa-perubahan-hasil": "Pola Keberuntungan Wild Bandito Dikaitkan dengan Koin Pemberian Teman, Fenomena Benda Kecil yang Dianggap Membawa Perubahan Hasil",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/pola-scatter-starlight-princess-dicari-dari-rekaman-dengan-kecepatan-putar-tidak-sama-mengurai-dampak-perbedaan-durasi-pada-pengamatan": "Pola Scatter Starlight Princess Dicari dari Rekaman dengan Kecepatan Putar Tidak Sama, Mengurai Dampak Perbedaan Durasi pada Pengamatan",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/sensor-suhu-baterai-hp-terlihat-normal-saat-mahjong-ways-dibuka-mengapa-prosesor-masih-bisa-mengalami-penurunan-kecepatan": "Sensor Suhu Baterai HP Terlihat Normal saat Mahjong Ways Dibuka, Mengapa Prosesor Masih Bisa Mengalami Penurunan Kecepatan",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/shio-kuda-dan-kerbau-dalam-perbincangan-wild-bounty-showdown-mengapa-dua-karakter-hewan-sering-dihubungkan-dengan-gaya-bermain-berbeda": "Shio Kuda dan Kerbau dalam Perbincangan Wild Bounty Showdown, Mengapa Dua Karakter Hewan Sering Dihubungkan dengan Gaya Bermain Berbeda",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/shio-naga-dan-ayam-dalam-satu-kartu-keberuntungan-ketika-dua-simbol-kelahiran-dikaitkan-dengan-hasil-gates-of-olympus": "Shio Naga dan Ayam dalam Satu Kartu Keberuntungan, Ketika Dua Simbol Kelahiran Dikaitkan dengan Hasil Gates of Olympus",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/simbol-kucing-pembawa-hoki-dan-ubin-mahjong-ways-dalam-satu-poster-membedakan-lambang-promosi-dari-fitur-yang-tersedia": "Simbol Kucing Pembawa Hoki dan Ubin Mahjong Ways dalam Satu Poster, Membedakan Lambang Promosi dari Fitur yang Tersedia",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/simbol-topeng-emas-dalam-treasures-of-aztec-menjadi-sorotan-menelusuri-hubungan-motif-karakter-dan-informasi-bonus-permainan": "Simbol Topeng Emas dalam Treasures of Aztec Menjadi Sorotan, Menelusuri Hubungan Motif Karakter dan Informasi Bonus Permainan",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/teknologi-ai-mencoba-membaca-pola-mahjong-ways-tanpa-mengetahui-sistem-rng-menelusuri-batas-antara-rekaman-dan-algoritma-asli": "Teknologi AI Mencoba Membaca Pola Mahjong Ways tanpa Mengetahui Sistem RNG, Menelusuri Batas antara Rekaman dan Algoritma Asli",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/wild-bounty-showdown-dan-pola-scatter-yang-terlihat-membentuk-pasangan-menghitung-peristiwa-berdekatan-tanpa-menyamakan-dua-putaran": "Wild Bounty Showdown dan Pola Scatter yang Terlihat Membentuk Pasangan, Menghitung Peristiwa Berdekatan Tanpa Menyamakan Dua Putaran",
    "https://mobilelegends.id": "LaneID: Build Hero, Tier List & Tips Mobile Legends",
    "https://mommya-z.com": "Mommy A–Z: Panduan Kehamilan, Menyusui & Parenting",
    "https://monitory.id": "Monitory: Review Monitor, PC & Gadget Terbaru",
