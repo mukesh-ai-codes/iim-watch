@@ -53,7 +53,7 @@
  },
  "https://christuniversity.in/": {
   "fails": 0,
-  "hash": "b20bb24fcf01fc0506a30929493b760d4b4c90d4e51713279ffc3c5b03309619",
+  "hash": "c493b6be2fb4fc5da608b0966b3ce3ea0c48358607fe01ec14a10fa4b3d7019c",
   "links": {
    "http://192.168.100.100:8090": "Internet Login",
    "http://alumni.christuniversity.in/": "Alumni",
@@ -129,8 +129,10 @@
    "https://christuniversity.in/events/36196": "Nov 19 2026 NextWave Summit 2026 - The Future of AI, Analytics and Sustainable Innovation 19 Nov - 20 Nov 09:00 AM - 05:00 PM Bangalore Central Campus",
    "https://christuniversity.in/events/36211": "Nov 14 2026 Online Workshop on Analysis of Large Datasets Using R 14 Nov 06:00 PM - 09:30 PM Bangalore Central Campus",
    "https://christuniversity.in/events/36848": "Nov 14 2026 Mumbai Chapter Series - Emotional Skills for a Healthier, More Productive Workplace 14 Nov 05:00 PM - 06:00 PM Bangalore Central Campus",
+   "https://christuniversity.in/events/36849": "Nov 20 2026 The Middle East Alumni Chapter - Panel Discussion on Charting Your Career Path 20 Nov 04:30 PM - 05:30 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37106": "Nov 12 2026 Diabetes Screening Camp - 2026 12 Nov 09:00 AM - 02:00 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37107": "Nov 11 2026 Invitation to join the Leadership Workshop - Faculty Development Programme 11 Nov - 14 Nov 09:00 AM - 05:00 PM Bangalore Central Campus",
+   "https://christuniversity.in/events/37139": "Nov 20 2026 Aerospace Engineering Workshop Series 20 Nov 05:00 PM - 06:59 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37196": "Nov 18 2026 3 Day MDP on Supply Chain Network, Design and Analysis 18 Nov - 20 Nov 09:00 AM - 06:00 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37197": "Nov 13 2026 Inaugural edition of the Intra CHRIST Annual Quiz Tournament 13 Nov 09:00 AM - 04:00 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37199": "Nov 11 2026 Masterclass with Budding Chef Alan Sebastian 11 Nov 03:00 PM - 05:00 PM Bangalore Central Campus",
@@ -171,6 +173,7 @@
    "https://christuniversity.in/events/37344": "Nov 20 2026 Talk on AMR: The Silently Rising Global Threats 20 Nov 11:45 AM - 12:45 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37345": "Nov 20 2026 Expert Talk on The Future of Work: Automation and AI in Business 20 Nov 07:30 AM - 09:00 AM Bangalore Central Campus",
    "https://christuniversity.in/events/37360": "Nov 19 2026 GROUND 2 GLORY - A Sports fundraiser celebrating teamwork and social impact 19 Nov 01:06 PM - 01:06 PM Bangalore Central Campus",
+   "https://christuniversity.in/events/37381": "Nov 20 2026 Creative Non-Fiction Workshop 20 Nov 01:45 PM - 03:30 PM Bangalore Central Campus",
    "https://christuniversity.in/examination": "Examination Information & Resources",
    "https://christuniversity.in/fcra": "FCRA",
    "https://christuniversity.in/founder": "Founder",
@@ -1679,13 +1682,13 @@
   "name": "IIM Sambalpur (home)"
  },
  "https://iimsambalpur.ac.in/bachelor-of-science-b-s-in-management-and-public-policy/": {
-  "fails": 35,
+  "fails": 36,
   "hash": null,
   "links": {},
   "name": "IIM Sambalpur BS MPP"
  },
  "https://iimsirmaur.ac.in/bachelors-management-studies-bms": {
-  "fails": 35,
+  "fails": 36,
   "hash": null,
   "links": {},
   "name": "IIM Sirmaur BMS"
@@ -2145,7 +2148,7 @@
   "name": "IIM Udaipur news"
  },
  "https://nirmauni.ac.in/": {
-  "fails": 9,
+  "fails": 10,
   "hash": "2800296b90c153ee7f99261e325d0f22b1898b1cfe33d3fbb7bf5039b0d328a0",
   "links": {
    "http://architecture.nirmauni.ac.in/": "Architecture",
@@ -3195,7 +3198,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "67ae9fdac560125da7f14f617edd0be7400ed1ff33b0eab35392a3372d354c5c",
+  "hash": "37848af466679cc222a93ef0580e3adaa1fa3047c19748a30dad5f017bbe0412",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -3534,7 +3537,7 @@
  },
  "https://www.iimb.ac.in/": {
   "fails": 0,
-  "hash": "714af8ab148b5ef30a598a4e8c84882b92c92fab32232d2d28caab522c0a1c3f",
+  "hash": "f4e2c0d520194bfacd1546b01639b81726c58db2388043c89e6c93d5f46d77ca",
   "links": {
    "https://blog.iimb.ac.in/": "Blog",
    "https://dbe.iimb.ac.in/": "BBA in Digital Business and Entrepreneurship (BBA DBE)",
@@ -5571,7 +5574,7 @@
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "ccc63261e3c390048ce89391457baab9f151ecbf0814b53a65746cb1ce6b7971",
+  "hash": "970c89b4c36608c615d0c60e646ba39aeb9a02730e89889558e1fecdc93edbb3",
   "links": {
    "http://www.nad.gov.in/": "National Academic Depository (NAD)",
    "https://advertising.nmims.edu/": "Branding & Advertising",
@@ -6570,6 +6573,21 @@
    "https://mmc.gunungmaskab.go.id/2026/11/19/wi-fi-terhubung-tetapi-gates-of-olympus-tidak-terbuka-kenali-peran-halaman-login-router/": "Wi-Fi Terhubung tetapi Gates of Olympus Tidak Terbuka, Kenali Peran Halaman Login Router",
    "https://mmc.gunungmaskab.go.id/2026/11/19/zodiak-aquarius-dan-starlight-princess-dalam-poster-langit-malam-membedakan-konstelasi-astronomi-dari-simbol-fantasi/": "Zodiak Aquarius dan Starlight Princess dalam Poster Langit Malam, Membedakan Konstelasi Astronomi dari Simbol Fantasi",
    "https://mmc.gunungmaskab.go.id/2026/11/19/zodiak-libra-dan-shio-kuda-dipasang-pada-poster-wild-bounty-showdown-mengenal-dua-sistem-yang-berbeda/": "Zodiak Libra dan Shio Kuda Dipasang pada Poster Wild Bounty Showdown, Mengenal Dua Sistem yang Berbeda",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/bebas-biaya-admin-ini-trik-mengisi-saldo-game-mulai-5-ribu-pakai-aplikasi-dompet-digital/": "Bebas Biaya Admin! Ini Trik Mengisi Saldo Game Mulai 5 Ribu Pakai Aplikasi Dompet Digital",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/benarkah-ganti-jaringan-wi-fi-ke-data-seluler-bisa-me-reset-algoritma-game-ini-faktanya/": "Benarkah Ganti Jaringan Wi-Fi ke Data Seluler Bisa Me-reset Algoritma Game? Ini Faktanya",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/benarkah-membersihkan-cache-aplikasi-bikin-sistem-permainan-kembali-fresh-ini-fakta-teknisnya/": "Benarkah Membersihkan Cache Aplikasi Bikin Sistem Permainan Kembali 'Fresh'? Ini Fakta Teknisnya",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/cara-cerdas-membagi-anggaran-bermain-harian-agar-pengalaman-hiburan-tetap-santai-dan-terukur/": "Cara Cerdas Membagi Anggaran Bermain Harian Agar Pengalaman Hiburan Tetap Santai dan Terukur",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/ciri-ciri-situs-dan-aplikasi-game-resmi-vs-tiruan-panduan-aman-bagi-pengguna-smartphone/": "Ciri-Ciri Situs dan Aplikasi Game Resmi vs Tiruan: Panduan Aman bagi Pengguna Smartphone",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/fakta-di-balik-istilah-pola-sistem-bagaimana-server-memproses-ribuan-aksi-dalam-satu-detik/": "Fakta di Balik Istilah 'Pola Sistem': Bagaimana Server Memproses Ribuan Aksi dalam Satu Detik",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/fitur-turbo-vs-mode-normal-mana-yang-lebih-efisien-mengelola-ritme-permainan-menurut-data/": "Fitur Turbo vs Mode Normal: Mana yang Lebih Efisien Mengelola Ritme Permainan Menurut Data?",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/kenapa-top-up-via-qris-jauh-lebih-cepat-masuk-dibanding-transfer-bank-manual-ini-alasannya/": "Kenapa Top-Up via QRIS Jauh Lebih Cepat Masuk Dibanding Transfer Bank Manual? Ini Alasannya",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/main-di-hari-kerja-vs-akhir-pekan-apakah-kepadatan-traffic-server-memengaruhi-jalannya-sesi/": "Main di Hari Kerja vs Akhir Pekan: Apakah Kepadatan Traffic Server Memengaruhi Jalannya Sesi?",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/mengapa-simbol-pengali-besar-di-gates-of-olympus-sering-muncul-di-detik-detik-terakhir/": "Mengapa Simbol Pengali Besar di Gates of Olympus Sering Muncul di Detik-Detik Terakhir?",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/mengenal-sistem-rng-di-balik-karya-pg-soft-kenapa-pola-kemunculan-simbol-tak-pernah-sama/": "Mengenal Sistem RNG di Balik Karya PG Soft: Kenapa Pola Kemunculan Simbol Tak Pernah Sama?",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/mitos-akun-lama-vs-akun-baru-di-game-kasual-ini-penjelasan-logis-dari-sisi-database-server/": "Mitos 'Akun Lama vs Akun Baru' di Game Kasual: Ini Penjelasan Logis dari Sisi Database Server",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/mitos-jam-ramai-vs-jam-sepi-di-game-digital-benarkah-beban-server-mengubah-hasil-permainan/": "Mitos Jam Ramai vs Jam Sepi di Game Digital: Benarkah Beban Server Mengubah Hasil Permainan?",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/panduan-aman-tarik-saldo-ke-e-wallet-di-jam-sibuk-hindari-3-kesalahan-sepele-ini/": "Panduan Aman Tarik Saldo ke E-Wallet di Jam Sibuk: Hindari 3 Kesalahan Sepele Ini",
+   "https://mmc.gunungmaskab.go.id/2026/11/20/perbandingan-kecepatan-transaksi-dana-ovo-atau-qris-mana-yang-paling-stabil-untuk-gamer/": "Perbandingan Kecepatan Transaksi: DANA, OVO, atau QRIS, Mana yang Paling Stabil untuk Gamer?",
    "https://mobilelegends.id": "LaneID: Build Hero, Tier List & Tips Mobile Legends",
    "https://mommya-z.com": "Mommy A–Z: Panduan Kehamilan, Menyusui & Parenting",
    "https://monitory.id": "Monitory: Review Monitor, PC & Gadget Terbaru",
