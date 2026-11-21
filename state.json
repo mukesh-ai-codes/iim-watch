@@ -1693,13 +1693,13 @@
   "name": "IIM Sambalpur (home)"
  },
  "https://iimsambalpur.ac.in/bachelor-of-science-b-s-in-management-and-public-policy/": {
-  "fails": 39,
+  "fails": 40,
   "hash": null,
   "links": {},
   "name": "IIM Sambalpur BS MPP"
  },
  "https://iimsirmaur.ac.in/bachelors-management-studies-bms": {
-  "fails": 39,
+  "fails": 40,
   "hash": null,
   "links": {},
   "name": "IIM Sirmaur BMS"
@@ -2159,7 +2159,7 @@
   "name": "IIM Udaipur news"
  },
  "https://nirmauni.ac.in/": {
-  "fails": 13,
+  "fails": 14,
   "hash": "2800296b90c153ee7f99261e325d0f22b1898b1cfe33d3fbb7bf5039b0d328a0",
   "links": {
    "http://architecture.nirmauni.ac.in/": "Architecture",
@@ -3411,7 +3411,7 @@
  },
  "https://www.iift.ac.in/": {
   "fails": 0,
-  "hash": "9f17aa40013faf06cacec41b7425511eee0862d7e16b2736ca4999e83d8fe99a",
+  "hash": "c87344b420750bbcef7627640d031307d7e843884c345aff3741c74ec7fd2328",
   "links": {
    "http://epay.iift.ac.in/myspace/": "Myspace",
    "https://applyadmission.net/iift2027/": "Apply Online",
@@ -3552,7 +3552,7 @@
  },
  "https://www.iimb.ac.in/": {
   "fails": 0,
-  "hash": "c87f19297703ef2d10bae47fb60c95b312e00e545af2d134688c7aebdfedaec4",
+  "hash": "51f08aa061f58890f2d50d1d6ee836122ffe16aaac1f53805dd3075753d4ebac",
   "links": {
    "https://blog.iimb.ac.in/": "Blog",
    "https://dbe.iimb.ac.in/": "BBA in Digital Business and Entrepreneurship (BBA DBE)",
@@ -5592,7 +5592,7 @@
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "64dd671a313d821ed086a9d8384340a509855ee06ab89d376894351305d7542c",
+  "hash": "b551dba87d97e2581f6b0d2b9c5e1bafedb0f150c4b766ae6e4b534cd4dbd3fa",
   "links": {
    "http://www.nad.gov.in/": "National Academic Depository (NAD)",
    "https://advertising.nmims.edu/": "Branding & Advertising",
@@ -6671,12 +6671,22 @@
    "https://mmc.gunungmaskab.go.id/2026/11/21/apa-yang-sebenarnya-terjadi-di-balik-layar-saat-server-game-masuk-mode-maintenance/": "Apa yang Sebenarnya Terjadi di Balik Layar Saat Server Game Masuk Mode Maintenance?",
    "https://mmc.gunungmaskab.go.id/2026/11/21/bahaya-pakai-wi-fi-publik-saat-login-dan-transaksi-game-online-begini-cara-mengamankan-akunmu/": "Bahaya Pakai Wi-Fi Publik Saat Login dan Transaksi Game Online: Begini Cara Mengamankan Akunmu",
    "https://mmc.gunungmaskab.go.id/2026/11/21/benarkah-pakai-vpn-dan-pindah-server-negara-lain-bisa-mengubah-algoritma-game-ini-fakta-teknisnya/": "Benarkah Pakai VPN dan Pindah Server Negara Lain Bisa Mengubah Algoritma Game? Ini Fakta Teknisnya",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/fitur-game-dashboard-pada-hp-android-untuk-gates-of-olympus-memeriksa-fps-dan-suhu-perangkat-ketika-animasi-terasa-melambat": "Fitur Game Dashboard pada HP Android untuk Gates of Olympus, Memeriksa FPS dan Suhu Perangkat ketika Animasi Terasa Melambat",
    "https://mmc.gunungmaskab.go.id/2026/11/21/hp-flagship-vs-hp-standar-apakah-performa-chipset-dan-fps-memengaruhi-hasil-permainan/": "HP Flagship vs HP Standar: Apakah Performa Chipset dan FPS Memengaruhi Hasil Permainan?",
    "https://mmc.gunungmaskab.go.id/2026/11/21/jam-rawan-gangguan-e-wallet-catat-waktu-terbaik-untuk-top-up-dan-tarik-saldo-agar-langsung-cair/": "Jam Rawan Gangguan E-Wallet: Catat Waktu Terbaik untuk Top-Up dan Tarik Saldo Agar Langsung Cair",
    "https://mmc.gunungmaskab.go.id/2026/11/21/kenapa-saldo-top-up-kadang-tertahan-meski-status-berhasil-ini-4-penyebab-dan-solusi-cepatnya/": "Kenapa Saldo Top-Up Kadang Tertahan Meski Status Berhasil? Ini 4 Penyebab dan Solusi Cepatnya",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/mahjong-ways-dan-misteri-kombinasi-yang-menghasilkan-nilai-sama-menelusuri-perbedaan-susunan-ubin-di-balik-angka-kemenangan": "Mahjong Ways dan Misteri Kombinasi yang Menghasilkan Nilai Sama, Menelusuri Perbedaan Susunan Ubin di Balik Angka Kemenangan",
    "https://mmc.gunungmaskab.go.id/2026/11/21/main-di-browser-vs-aplikasi-resmi-mana-yang-lebih-ringan-dan-minim-lag-saat-sesi-berlangsung/": "Main di Browser vs Aplikasi Resmi: Mana yang Lebih Ringan dan Minim Lag Saat Sesi Berlangsung?",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/mengapa-pola-keberuntungan-gates-of-olympus-terasa-lebih-jelas-setelah-bonus-besar-memahami-pengaruh-ingatan-terhadap-penilaian-pemain": "Mengapa Pola Keberuntungan Gates of Olympus Terasa Lebih Jelas setelah Bonus Besar, Memahami Pengaruh Ingatan terhadap Penilaian Pemain",
    "https://mmc.gunungmaskab.go.id/2026/11/21/mengenal-volatilitas-tinggi-vs-rendah-di-game-online-mana-yang-paling-cocok-dengan-gaya-mainmu/": "Mengenal Volatilitas Tinggi vs Rendah di Game Online: Mana yang Paling Cocok dengan Gaya Mainmu?",
    "https://mmc.gunungmaskab.go.id/2026/11/21/mitos-re-login-aplikasi-bisa-me-refresh-hasil-permainan-begini-cara-kerja-session-id-di-server/": "Mitos Re-Login Aplikasi Bisa 'Me-refresh' Hasil Permainan: Begini Cara Kerja Session ID di Server",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/pola-mahjong-ways-2-terlihat-berubah-setelah-catatan-disusun-menurut-besaran-hadiah-mengenal-pengaruh-urutan-data-terhadap-kesimpulan": "Pola Mahjong Ways 2 Terlihat Berubah Setelah Catatan Disusun Menurut Besaran Hadiah, Mengenal Pengaruh Urutan Data terhadap Kesimpulan",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/rekaman-starlight-princess-menampilkan-scatter-sebelum-animasi-selesai-mengenal-perbedaan-bingkai-transisi-dan-hasil-akhir": "Rekaman Starlight Princess Menampilkan Scatter sebelum Animasi Selesai, Mengenal Perbedaan Bingkai Transisi dan Hasil Akhir",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/saat-ai-menghitung-kemunculan-wild-bounty-showdown-dari-video-panjang-pentingnya-memisahkan-putaran-utama-dan-tahapan-bonus": "Saat AI Menghitung Kemunculan Wild Bounty Showdown dari Video Panjang, Pentingnya Memisahkan Putaran Utama dan Tahapan Bonus",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/shio-kelinci-dan-ular-dalam-pembahasan-starlight-princess-mengenal-fenomena-angka-favorit-yang-dipilih-berdasarkan-tahun-kelahiran": "Shio Kelinci dan Ular dalam Pembahasan Starlight Princess, Mengenal Fenomena Angka Favorit yang Dipilih Berdasarkan Tahun Kelahiran",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/shio-naga-dan-angka-sembilan-dalam-perbincangan-wild-bandito-mengapa-simbol-yang-sama-bisa-memiliki-tafsir-keberuntungan-berbeda": "Shio Naga dan Angka Sembilan dalam Perbincangan Wild Bandito, Mengapa Simbol yang Sama Bisa Memiliki Tafsir Keberuntungan Berbeda",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/teknologi-eye-tracking-pada-smartphone-dan-mahjong-ways-mengenal-cara-gerakan-mata-digunakan-untuk-mempelajari-perhatian-pengguna": "Teknologi Eye Tracking pada Smartphone dan Mahjong Ways, Mengenal Cara Gerakan Mata Digunakan untuk Mempelajari Perhatian Pengguna",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/treasures-of-aztec-dan-misteri-simbol-yang-tampak-berulang-pada-rekaman-berbeda-memeriksa-perbedaan-urutan-sebelum-membandingkan-hasil": "Treasures of Aztec dan Misteri Simbol yang Tampak Berulang pada Rekaman Berbeda, Memeriksa Perbedaan Urutan Sebelum Membandingkan Hasil",
    "https://mmc.gunungmaskab.go.id/2026/11/21/virtual-account-vs-qris-untuk-transaksi-nominal-kecil-mana-yang-lebih-praktis-dan-bebas-potongan/": "Virtual Account vs QRIS untuk Transaksi Nominal Kecil: Mana yang Lebih Praktis dan Bebas Potongan?",
    "https://mobilelegends.id": "LaneID: Build Hero, Tier List & Tips Mobile Legends",
    "https://mommya-z.com": "Mommy A–Z: Panduan Kehamilan, Menyusui & Parenting",
