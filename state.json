@@ -53,7 +53,7 @@
  },
  "https://christuniversity.in/": {
   "fails": 0,
-  "hash": "6b101ea516334ea1da57f58dff4a2770a4f9bccda570f6ff0aba0e976cb9dcc8",
+  "hash": "2df01105491342bf2d99a7ece49af4009bbd4c273d16c0634f1d5d74f60443b7",
   "links": {
    "http://192.168.100.100:8090": "Internet Login",
    "http://alumni.christuniversity.in/": "Alumni",
@@ -210,6 +210,7 @@
    "https://christuniversity.in/news/Q0hSSVNUIChEZWVtZWQgdG8gYmUgVW5pdmVyc2l0eSkgUmFua2VkIDUwOSBpbiBRUyBBc2lhIFVuaXZlcnNpdHkgUmFua2luZ3MgMjAyNw==": "Read Full Story",
    "https://christuniversity.in/news/Q29uZ3JhdHVsYXRpb25zIHRvIE91ciBTdHVkZW50cyBvbiBDb21wbGV0aW5nIEFsbCAxMyBBQ0NBIEV4YW1pbmF0aW9ucw==": "Read Full Story",
    "https://christuniversity.in/news/QSBodWdlIGNvbmdyYXR1bGF0aW9ucyB0byBhbGwgb3VyIHdpbm5lcnMgd2hvIHJlcHJlc2VudGVkIENocmlzdCBVbml2ZXJzaXR5IGF0IFNhcmdhbSAtIE5ldyBIb3Jpem9uIENvbGxlZ2Ugb2YgRW5naW5lZXJpbmcgYW5kIEF1dHVtbiBNdXNl": "Read Full Story",
+   "https://christuniversity.in/news/QWRkLW9uIENvdXJzZSBvZiBTdG9jayBNYXJrZXQgUHJpY2UgQWN0aW9u": "Read Full Story",
    "https://christuniversity.in/news/UGhEIEFkbWlzc2lvbnMgZm9yIHRoZSBEZWNlbWJlciAyMDI2IENvaG9ydCAoRnVsbC1UaW1lIGFuZCBQYXJ0LVRpbWUp": "Read Full Story",
    "https://christuniversity.in/newsletters": "Newsletters",
    "https://christuniversity.in/notices": "Notices and Circulars",
@@ -1693,20 +1694,20 @@
   "name": "IIM Sambalpur (home)"
  },
  "https://iimsambalpur.ac.in/bachelor-of-science-b-s-in-management-and-public-policy/": {
-  "fails": 40,
+  "fails": 41,
   "hash": null,
   "links": {},
   "name": "IIM Sambalpur BS MPP"
  },
  "https://iimsirmaur.ac.in/bachelors-management-studies-bms": {
-  "fails": 40,
+  "fails": 41,
   "hash": null,
   "links": {},
   "name": "IIM Sirmaur BMS"
  },
  "https://krea.edu.in/": {
   "fails": 0,
-  "hash": "37c39d4d90844cc67396ed3703114950f9ffa343475a370d8f6b9aab90d1cb40",
+  "hash": "0045a447cf7568cd19839c405c562ce45a43170ae6cdc0cfc7aa26005083edeb",
   "links": {
    "http://deccancentre.org/": "Deccan Centre for International Relations",
    "https://catalystaic.org/": "Catalyst AIC",
@@ -1804,6 +1805,7 @@
    "https://krea.edu.in/spotlight/dr-venkatanagarajans-paper-in-international-journal-of-cross-cultural-management/": "October 30, 2026 IFMR GSB Dr Venkatanagarajan’s paper in International Journal of Cross Cultural Management Dr Venkatanagarajan, Assistant Professor, OB & HR, IFMR GSB has authored a paper titled Rela",
    "https://krea.edu.in/spotlight/ifmr-gsb-mba-team-shortlisted-for-cfa-institute-equity-research-challenge-zonal-finals-2026-27/": "November 12, 2026 IFMR GSB IFMR GSB MBA Team Shortlisted for CFA Institute Equity Research Challenge Zonal Finals 2026–27 aurav Patil, Mahir Mehta, Mohammed Saqlein, Pruthvirajsinh Gadhavi and Sparsh ",
    "https://krea.edu.in/spotlight/ifmr-gsb-phd-scholar-participates-in-research-methods-course-at-vvgnli/": "November 3, 2026 IFMR GSB IFMR GSB PhD Scholar Participates in Research Methods Course at VVGNLI Gogireddy Naga Malleswara Reddy, IFMR GSB PhD Scholar, was selected to participate in the Course on Res",
+   "https://krea.edu.in/spotlight/neural-signalling-labs-developed-by-dr-rakesh-sengupta-now-a-pedagogical-preprint-and-open-educational-resource/": "November 20, 2026 SIAS ‘Neural Signalling Labs’ developed by Dr Rakesh Sengupta now a pedagogical preprint and open educational resource Dr Rakesh Sengupta, Assistant Professor, Psychology, has develo",
    "https://krea.edu.in/spotlight/prajwal-parajulys-latest-column-in-the-hindu/": "November 13, 2026 SIAS Prajwal Parajuly’s latest column in The Hindu Prajwal Parajuly, Assistant Professor of Practice, Creative Writing, SIAS, has penned a column titled Deepavali without mithai: wha",
    "https://krea.edu.in/spotlight/professor-hilal-ahmeds-articles-in-the-hindus-edited-volume-and-the-india-forum/": "November 6, 2026 SIAS Professor Hilal Ahmed’s articles in The Hindu’s edited volume and The India Forum Professor Hilal Ahmed, Professor, Politics, SIAS, has authored an article titled Muslim Represen",
    "https://krea.edu.in/spotlight/sias-chemistry-faculty-co-author-research-paper-in-green-chemistry-by-the-royal-society-of-chemistry/": "November 13, 2026 SIAS SIAS Chemistry Faculty co-author research paper in Green Chemistry by the Royal Society of Chemistry SIAS Chemistry faculty Dr Debajit Maiti, Assistant Professor; Dr Surajit Kay",
@@ -2159,7 +2161,7 @@
   "name": "IIM Udaipur news"
  },
  "https://nirmauni.ac.in/": {
-  "fails": 14,
+  "fails": 15,
   "hash": "2800296b90c153ee7f99261e325d0f22b1898b1cfe33d3fbb7bf5039b0d328a0",
   "links": {
    "http://architecture.nirmauni.ac.in/": "Architecture",
@@ -3212,7 +3214,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "5429c5a0a881193188ae46b4b7038b33121fd906b0fdd017f233d22f175f1113",
+  "hash": "d8d3aff85b5e9162dd018f63fb349f059b6de9af1b5e35746b44afbda1b39d73",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -3552,7 +3554,7 @@
  },
  "https://www.iimb.ac.in/": {
   "fails": 0,
-  "hash": "51f08aa061f58890f2d50d1d6ee836122ffe16aaac1f53805dd3075753d4ebac",
+  "hash": "8f14a426e219e658779dbcd924c6e4684b87e79147199b80f3da5b41df102118",
   "links": {
    "https://blog.iimb.ac.in/": "Blog",
    "https://dbe.iimb.ac.in/": "BBA in Digital Business and Entrepreneurship (BBA DBE)",
@@ -3736,6 +3738,7 @@
    "https://www.iimb.ac.in/nirf-india-rankings": "NIRF",
    "https://www.iimb.ac.in/node/10200": "18 th Jan Centre for Teaching & Learning invites applications for Doctoral Consortium on Teaching 2027 Read More",
    "https://www.iimb.ac.in/node/10481": "20 th Nov International Corporate Governance & Sustainability Conference 2026 on 20 & 21 November Read More",
+   "https://www.iimb.ac.in/node/12074": "Celebrating Team India’s Ultra Running feat: IIMB hosts panel discussion with 2026 IAU 24H Asia and Oceania champions",
    "https://www.iimb.ac.in/node/13522": "Carbon Footprint Report",
    "https://www.iimb.ac.in/node/14808": "Journal Article: 'Traversing India’s Expedition of Digital Public Goods: Entrepreneurial Learnings for State-led Transformation' Prof. Shankhadeep Banerjee",
    "https://www.iimb.ac.in/node/14826": "Journal Article: 'Unpacking the Speed of MNE Internationalization: Theoretical Insights and Future Directions' Prof. Sandeep Yadav",
@@ -4473,7 +4476,7 @@
  },
  "https://www.iiml.ac.in/": {
   "fails": 0,
-  "hash": "f2e48e536356463745f7722e0f4aa954e7cbb4fa8dff2b419ecd7297b28e6568",
+  "hash": "c344c48d41d56fb87e20f58af51c572035fa1dde7fbf3baab71a1bb57c72f225",
   "links": {
    "http://iimlincubator.com/": "Enterprise Incubation Centre (IIML-EIC)",
    "http://iimlscifi.org/": "SCI-FI Incubator",
@@ -4605,7 +4608,7 @@
  },
  "https://www.iimrohtak.ac.in/": {
   "fails": 0,
-  "hash": "2018ca1663920c6ba46396ab98371e35fefb980f5257008e10d1f5ff40c82c1c",
+  "hash": "36c236555a93b06d81ebd16293df65c7cfb986ec3501e287144f535c29b1f88a",
   "links": {
    "http://apps.iimrohtak.ac.in/": "PGP Student Portal",
    "http://elixir.iimrohtak.ac.in/indam2022/": "",
@@ -5134,7 +5137,7 @@
  },
  "https://www.nfsu.ac.in/": {
   "fails": 0,
-  "hash": "66bb0980afbbe95cf66b33246f7ee60bb6ae52b1fe86fda89df457a97e2d5c5b",
+  "hash": "c94be436cdfd911fb4602a30fcc9bccb014d7e2554fb80707412eb27c8e633b0",
   "links": {
    "https://alumni.nfsu.ac.in/": "Alumni Read More",
    "https://beta.nfsu.ac.in/Uploads/Academic Calender 2022 - 2023.pdf": "Academic Calendar",
@@ -5592,7 +5595,7 @@
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "b551dba87d97e2581f6b0d2b9c5e1bafedb0f150c4b766ae6e4b534cd4dbd3fa",
+  "hash": "4f87f25c26b6de89a8e64e17dee8db8ff21d719546c17f14a1f3a4ef3f973f45",
   "links": {
    "http://www.nad.gov.in/": "National Academic Depository (NAD)",
    "https://advertising.nmims.edu/": "Branding & Advertising",
@@ -6668,10 +6671,17 @@
    "https://mmc.gunungmaskab.go.id/2026/11/20/zodiak-cancer-dan-warna-pastel-sweet-bonanza-bagaimana-simbol-kepiting-diolah-menjadi-desain-poster/": "Zodiak Cancer dan Warna Pastel Sweet Bonanza, Bagaimana Simbol Kepiting Diolah Menjadi Desain Poster",
    "https://mmc.gunungmaskab.go.id/2026/11/20/zodiak-gemini-menghiasi-starlight-princess-mengapa-dua-karakter-kembar-bisa-ditafsirkan-berbeda-oleh-ai/": "Zodiak Gemini Menghiasi Starlight Princess, Mengapa Dua Karakter Kembar Bisa Ditafsirkan Berbeda oleh AI",
    "https://mmc.gunungmaskab.go.id/2026/11/20/zodiak-pisces-dalam-poster-starlight-princess-menguji-apakah-ai-benar-mengenali-rasi-atau-sekadar-menggambar-bintang/": "Zodiak Pisces dalam Poster Starlight Princess, Menguji Apakah AI Benar Mengenali Rasi atau Sekadar Menggambar Bintang",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/ai-mencoba-mengidentifikasi-perubahan-simbol-wild-dalam-mahjong-ways-2-mengapa-efek-animasi-dapat-membingungkan-sistem-pengenalan-gambar": "AI Mencoba Mengidentifikasi Perubahan Simbol Wild dalam Mahjong Ways 2, Mengapa Efek Animasi Dapat Membingungkan Sistem Pengenalan Gambar",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/ai-menganalisis-catatan-scatter-gates-of-olympus-yang-dikumpulkan-dari-banyak-pengguna-tantangan-memastikan-data-tidak-tercampur": "AI Menganalisis Catatan Scatter Gates of Olympus yang Dikumpulkan dari Banyak Pengguna, Tantangan Memastikan Data Tidak Tercampur",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/ai-mengolah-rekaman-wild-bounty-showdown-dari-berbagai-resolusi-mengenal-pengaruh-kualitas-video-terhadap-ketepatan-pembacaan-simbol": "AI Mengolah Rekaman Wild Bounty Showdown dari Berbagai Resolusi, Mengenal Pengaruh Kualitas Video terhadap Ketepatan Pembacaan Simbol",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/ai-mengubah-rekaman-starlight-princess-menjadi-data-per-putaran-tantangan-memisahkan-efek-transisi-dari-hasil-akhir": "AI Mengubah Rekaman Starlight Princess Menjadi Data Per Putaran, Tantangan Memisahkan Efek Transisi dari Hasil Akhir",
    "https://mmc.gunungmaskab.go.id/2026/11/21/apa-yang-sebenarnya-terjadi-di-balik-layar-saat-server-game-masuk-mode-maintenance/": "Apa yang Sebenarnya Terjadi di Balik Layar Saat Server Game Masuk Mode Maintenance?",
    "https://mmc.gunungmaskab.go.id/2026/11/21/bahaya-pakai-wi-fi-publik-saat-login-dan-transaksi-game-online-begini-cara-mengamankan-akunmu/": "Bahaya Pakai Wi-Fi Publik Saat Login dan Transaksi Game Online: Begini Cara Mengamankan Akunmu",
    "https://mmc.gunungmaskab.go.id/2026/11/21/benarkah-pakai-vpn-dan-pindah-server-negara-lain-bisa-mengubah-algoritma-game-ini-fakta-teknisnya/": "Benarkah Pakai VPN dan Pindah Server Negara Lain Bisa Mengubah Algoritma Game? Ini Fakta Teknisnya",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/benda-pemberian-keluarga-dianggap-membawa-hoki-saat-membuka-mahjong-ways-hubungan-kenangan-pribadi-dengan-pola-keberuntungan": "Benda Pemberian Keluarga Dianggap Membawa Hoki saat Membuka Mahjong Ways, Hubungan Kenangan Pribadi dengan Pola Keberuntungan",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/browser-hp-mendukung-refresh-rate-berbeda-dari-pengaturan-sistem-pengaruhnya-terhadap-gerakan-animasi-gates-of-olympus": "Browser HP Mendukung Refresh Rate Berbeda dari Pengaturan Sistem, Pengaruhnya terhadap Gerakan Animasi Gates of Olympus",
    "https://mmc.gunungmaskab.go.id/2026/11/21/fitur-game-dashboard-pada-hp-android-untuk-gates-of-olympus-memeriksa-fps-dan-suhu-perangkat-ketika-animasi-terasa-melambat": "Fitur Game Dashboard pada HP Android untuk Gates of Olympus, Memeriksa FPS dan Suhu Perangkat ketika Animasi Terasa Melambat",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/fitur-touch-sensitivity-pada-smartphone-samsung-hubungan-pengaturan-sentuhan-dengan-kenyamanan-mengakses-mahjong-ways-2": "Fitur Touch Sensitivity pada Smartphone Samsung, Hubungan Pengaturan Sentuhan dengan Kenyamanan Mengakses Mahjong Ways 2",
    "https://mmc.gunungmaskab.go.id/2026/11/21/hp-flagship-vs-hp-standar-apakah-performa-chipset-dan-fps-memengaruhi-hasil-permainan/": "HP Flagship vs HP Standar: Apakah Performa Chipset dan FPS Memengaruhi Hasil Permainan?",
    "https://mmc.gunungmaskab.go.id/2026/11/21/jam-rawan-gangguan-e-wallet-catat-waktu-terbaik-untuk-top-up-dan-tarik-saldo-agar-langsung-cair/": "Jam Rawan Gangguan E-Wallet: Catat Waktu Terbaik untuk Top-Up dan Tarik Saldo Agar Langsung Cair",
    "https://mmc.gunungmaskab.go.id/2026/11/21/kenapa-saldo-top-up-kadang-tertahan-meski-status-berhasil-ini-4-penyebab-dan-solusi-cepatnya/": "Kenapa Saldo Top-Up Kadang Tertahan Meski Status Berhasil? Ini 4 Penyebab dan Solusi Cepatnya",
@@ -6679,13 +6689,36 @@
    "https://mmc.gunungmaskab.go.id/2026/11/21/main-di-browser-vs-aplikasi-resmi-mana-yang-lebih-ringan-dan-minim-lag-saat-sesi-berlangsung/": "Main di Browser vs Aplikasi Resmi: Mana yang Lebih Ringan dan Minim Lag Saat Sesi Berlangsung?",
    "https://mmc.gunungmaskab.go.id/2026/11/21/mengapa-pola-keberuntungan-gates-of-olympus-terasa-lebih-jelas-setelah-bonus-besar-memahami-pengaruh-ingatan-terhadap-penilaian-pemain": "Mengapa Pola Keberuntungan Gates of Olympus Terasa Lebih Jelas setelah Bonus Besar, Memahami Pengaruh Ingatan terhadap Penilaian Pemain",
    "https://mmc.gunungmaskab.go.id/2026/11/21/mengenal-volatilitas-tinggi-vs-rendah-di-game-online-mana-yang-paling-cocok-dengan-gaya-mainmu/": "Mengenal Volatilitas Tinggi vs Rendah di Game Online: Mana yang Paling Cocok dengan Gaya Mainmu?",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/mengubah-hasil-wild-bounty-showdown-menjadi-kelompok-nilai-mengapa-batas-kategori-bisa-membentuk-pola-kemenangan-yang-berbeda": "Mengubah Hasil Wild Bounty Showdown Menjadi Kelompok Nilai, Mengapa Batas Kategori Bisa Membentuk Pola Kemenangan yang Berbeda",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/misteri-dua-jalur-kemenangan-dalam-mahjong-ways-ketika-susunan-ubin-berbeda-menghasilkan-jumlah-hadiah-yang-hampir-sama": "Misteri Dua Jalur Kemenangan dalam Mahjong Ways, Ketika Susunan Ubin Berbeda Menghasilkan Jumlah Hadiah yang Hampir Sama",
    "https://mmc.gunungmaskab.go.id/2026/11/21/mitos-re-login-aplikasi-bisa-me-refresh-hasil-permainan-begini-cara-kerja-session-id-di-server/": "Mitos Re-Login Aplikasi Bisa 'Me-refresh' Hasil Permainan: Begini Cara Kerja Session ID di Server",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/mode-extra-dim-pada-hp-android-saat-membuka-starlight-princess-pengaruh-kecerahan-minimum-terhadap-pembacaan-simbol-permainan": "Mode Extra Dim pada HP Android saat Membuka Starlight Princess, Pengaruh Kecerahan Minimum terhadap Pembacaan Simbol Permainan",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/nomor-telepon-berakhiran-delapan-dianggap-membawa-keberuntungan-hubungannya-dengan-kebiasaan-pemain-mahjong-ways": "Nomor Telepon Berakhiran Delapan Dianggap Membawa Keberuntungan, Hubungannya dengan Kebiasaan Pemain Mahjong Ways",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/perbedaan-simbol-wild-berbingkai-dan-simbol-biasa-dalam-mahjong-ways-2-cara-mengenali-fungsi-berdasarkan-keterangan-permainan": "Perbedaan Simbol Wild Berbingkai dan Simbol Biasa dalam Mahjong Ways 2, Cara Mengenali Fungsi Berdasarkan Keterangan Permainan",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/pola-keberuntungan-gates-of-olympus-dikaitkan-dengan-pesan-dari-orang-terdekat-mengenal-pengaruh-perasaan-terhadap-penilaian-hasil": "Pola Keberuntungan Gates of Olympus Dikaitkan dengan Pesan dari Orang Terdekat, Mengenal Pengaruh Perasaan terhadap Penilaian Hasil",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/pola-keberuntungan-mahjong-ways-pada-hari-pertama-setelah-gajian-ketika-perubahan-rutinitas-memengaruhi-persepsi-pemain": "Pola Keberuntungan Mahjong Ways pada Hari Pertama Setelah Gajian, Ketika Perubahan Rutinitas Memengaruhi Persepsi Pemain",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/pola-keberuntungan-starlight-princess-dikaitkan-dengan-tanggal-libur-nasional-fenomena-hari-istimewa-yang-membentuk-ekspektasi-pemain": "Pola Keberuntungan Starlight Princess Dikaitkan dengan Tanggal Libur Nasional, Fenomena Hari Istimewa yang Membentuk Ekspektasi Pemain",
    "https://mmc.gunungmaskab.go.id/2026/11/21/pola-mahjong-ways-2-terlihat-berubah-setelah-catatan-disusun-menurut-besaran-hadiah-mengenal-pengaruh-urutan-data-terhadap-kesimpulan": "Pola Mahjong Ways 2 Terlihat Berubah Setelah Catatan Disusun Menurut Besaran Hadiah, Mengenal Pengaruh Urutan Data terhadap Kesimpulan",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/pola-scatter-mahjong-wins-dicatat-berdasarkan-jumlah-kejadian-per-seratus-putaran-cara-membaca-perbedaan-frekuensi-antarsesi": "Pola Scatter Mahjong Wins Dicatat Berdasarkan Jumlah Kejadian per Seratus Putaran, Cara Membaca Perbedaan Frekuensi Antarsesi",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/pola-wild-bandito-terlihat-menyatu-dalam-satu-baris-panjang-mengamati-perbedaan-susunan-horizontal-dan-jalur-kemenangan": "Pola Wild Bandito Terlihat Menyatu dalam Satu Baris Panjang, Mengamati Perbedaan Susunan Horizontal dan Jalur Kemenangan",
    "https://mmc.gunungmaskab.go.id/2026/11/21/rekaman-starlight-princess-menampilkan-scatter-sebelum-animasi-selesai-mengenal-perbedaan-bingkai-transisi-dan-hasil-akhir": "Rekaman Starlight Princess Menampilkan Scatter sebelum Animasi Selesai, Mengenal Perbedaan Bingkai Transisi dan Hasil Akhir",
    "https://mmc.gunungmaskab.go.id/2026/11/21/saat-ai-menghitung-kemunculan-wild-bounty-showdown-dari-video-panjang-pentingnya-memisahkan-putaran-utama-dan-tahapan-bonus": "Saat AI Menghitung Kemunculan Wild Bounty Showdown dari Video Panjang, Pentingnya Memisahkan Putaran Utama dan Tahapan Bonus",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/scatter-gates-of-olympus-muncul-dengan-interval-yang-terus-memendek-mengenal-cara-membandingkan-jarak-kejadian-dalam-catatan-permainan": "Scatter Gates of Olympus Muncul dengan Interval yang Terus Memendek, Mengenal Cara Membandingkan Jarak Kejadian dalam Catatan Permainan",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/shio-ayam-dan-kebiasaan-bangun-sebelum-matahari-terbit-mengapa-jam-pagi-sering-dianggap-istimewa-dalam-mahjong-ways": "Shio Ayam dan Kebiasaan Bangun Sebelum Matahari Terbit, Mengapa Jam Pagi Sering Dianggap Istimewa dalam Mahjong Ways",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/shio-kambing-dan-kepercayaan-tentang-angka-berpasangan-perbincangan-keberuntungan-yang-berkembang-di-komunitas-starlight-princess": "Shio Kambing dan Kepercayaan tentang Angka Berpasangan, Perbincangan Keberuntungan yang Berkembang di Komunitas Starlight Princess",
    "https://mmc.gunungmaskab.go.id/2026/11/21/shio-kelinci-dan-ular-dalam-pembahasan-starlight-princess-mengenal-fenomena-angka-favorit-yang-dipilih-berdasarkan-tahun-kelahiran": "Shio Kelinci dan Ular dalam Pembahasan Starlight Princess, Mengenal Fenomena Angka Favorit yang Dipilih Berdasarkan Tahun Kelahiran",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/shio-kerbau-dan-angka-kelipatan-empat-dalam-mahjong-ways-menelusuri-hubungan-kepercayaan-pribadi-dengan-cara-memilih-nomor-favorit": "Shio Kerbau dan Angka Kelipatan Empat dalam Mahjong Ways, Menelusuri Hubungan Kepercayaan Pribadi dengan Cara Memilih Nomor Favorit",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/shio-macan-dan-angka-lima-dalam-pembahasan-wild-bandito-fenomena-menghubungkan-karakter-hewan-dengan-susunan-simbol-favorit": "Shio Macan dan Angka Lima dalam Pembahasan Wild Bandito, Fenomena Menghubungkan Karakter Hewan dengan Susunan Simbol Favorit",
    "https://mmc.gunungmaskab.go.id/2026/11/21/shio-naga-dan-angka-sembilan-dalam-perbincangan-wild-bandito-mengapa-simbol-yang-sama-bisa-memiliki-tafsir-keberuntungan-berbeda": "Shio Naga dan Angka Sembilan dalam Perbincangan Wild Bandito, Mengapa Simbol yang Sama Bisa Memiliki Tafsir Keberuntungan Berbeda",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/shio-naga-dan-ular-dalam-kalender-keberuntungan-mengapa-dua-lambang-ini-sering-dikaitkan-dengan-pengalaman-mahjong-ways-2": "Shio Naga dan Ular dalam Kalender Keberuntungan, Mengapa Dua Lambang Ini Sering Dikaitkan dengan Pengalaman Mahjong Ways 2",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/simbol-bintang-starlight-princess-pada-cuplikan-fitur-bonus-mengapa-kilauan-dekoratif-perlu-dibedakan-dari-pengali-aktif": "Simbol Bintang Starlight Princess pada Cuplikan Fitur Bonus, Mengapa Kilauan Dekoratif Perlu Dibedakan dari Pengali Aktif",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/simbol-kerangka-pada-wild-bounty-showdown-dalam-konten-western-mengenal-perbedaan-karakter-cerita-dan-penanda-fitur-bonus": "Simbol Kerangka pada Wild Bounty Showdown dalam Konten Western, Mengenal Perbedaan Karakter Cerita dan Penanda Fitur Bonus",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/simbol-lentera-dalam-ilustrasi-mahjong-ways-membedakan-ornamen-pembawa-hoki-dengan-elemen-yang-memiliki-nilai-permainan": "Simbol Lentera dalam Ilustrasi Mahjong Ways, Membedakan Ornamen Pembawa Hoki dengan Elemen yang Memiliki Nilai Permainan",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/simbol-matahari-dan-bulan-dalam-poster-treasures-of-aztec-mengenal-perbedaan-elemen-cerita-dan-informasi-permainan": "Simbol Matahari dan Bulan dalam Poster Treasures of Aztec, Mengenal Perbedaan Elemen Cerita dan Informasi Permainan",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/teknologi-ai-membandingkan-ribuan-tangkapan-layar-gates-of-olympus-mencari-kesamaan-susunan-scatter-dari-rekaman-berbeda": "Teknologi AI Membandingkan Ribuan Tangkapan Layar Gates of Olympus, Mencari Kesamaan Susunan Scatter dari Rekaman Berbeda",
    "https://mmc.gunungmaskab.go.id/2026/11/21/teknologi-eye-tracking-pada-smartphone-dan-mahjong-ways-mengenal-cara-gerakan-mata-digunakan-untuk-mempelajari-perhatian-pengguna": "Teknologi Eye Tracking pada Smartphone dan Mahjong Ways, Mengenal Cara Gerakan Mata Digunakan untuk Mempelajari Perhatian Pengguna",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/teknologi-service-worker-pada-browser-smartphone-mengapa-halaman-wild-bandito-bisa-menampilkan-informasi-tersimpan-saat-koneksi-melemah": "Teknologi Service Worker pada Browser Smartphone, Mengapa Halaman Wild Bandito Bisa Menampilkan Informasi Tersimpan saat Koneksi Melemah",
+   "https://mmc.gunungmaskab.go.id/2026/11/21/teknologi-wifi-qos-pada-router-rumah-mengatur-prioritas-koneksi-ketika-mahjong-ways-dan-starlight-princess-diakses-bersamaan": "Teknologi WiFi QoS pada Router Rumah, Mengatur Prioritas Koneksi ketika Mahjong Ways dan Starlight Princess Diakses Bersamaan",
    "https://mmc.gunungmaskab.go.id/2026/11/21/treasures-of-aztec-dan-misteri-simbol-yang-tampak-berulang-pada-rekaman-berbeda-memeriksa-perbedaan-urutan-sebelum-membandingkan-hasil": "Treasures of Aztec dan Misteri Simbol yang Tampak Berulang pada Rekaman Berbeda, Memeriksa Perbedaan Urutan Sebelum Membandingkan Hasil",
    "https://mmc.gunungmaskab.go.id/2026/11/21/virtual-account-vs-qris-untuk-transaksi-nominal-kecil-mana-yang-lebih-praktis-dan-bebas-potongan/": "Virtual Account vs QRIS untuk Transaksi Nominal Kecil: Mana yang Lebih Praktis dan Bebas Potongan?",
    "https://mobilelegends.id": "LaneID: Build Hero, Tier List & Tips Mobile Legends",
