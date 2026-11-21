@@ -2611,7 +2611,7 @@
   "name": "IIM Udaipur news"
  },
  "https://nirmauni.ac.in/": {
-  "fails": 1,
+  "fails": 2,
   "hash": null,
   "links": {},
   "name": "Nirma University"
@@ -3580,7 +3580,7 @@
   "name": "IIM Sambalpur BS portal"
  },
  "https://sscbs.du.ac.in/": {
-  "fails": 1,
+  "fails": 2,
   "hash": null,
   "links": {},
   "name": "SSCBS Delhi"
@@ -3599,7 +3599,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "37848af466679cc222a93ef0580e3adaa1fa3047c19748a30dad5f017bbe0412",
+  "hash": "5d44dafc99452671c1cde2e769f3d08fe9fc44ec65a47ca24b0120210a34b3f5",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -3788,13 +3788,13 @@
   "name": "Alliance University"
  },
  "https://www.ashoka.edu.in/admissions/undergraduate-students/": {
-  "fails": 1,
+  "fails": 2,
   "hash": null,
   "links": {},
   "name": "Ashoka UG admissions"
  },
  "https://www.ashoka.edu.in/undergraduate-admissions-timelines": {
-  "fails": 1,
+  "fails": 2,
   "hash": null,
   "links": {},
   "name": "Ashoka UG timelines"
@@ -5859,7 +5859,7 @@
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "18d62d4fb39343c8495a47042a57ed24da162f48e20fe5e42a96e85cc9354c9b",
+  "hash": "6a497286e0011b78399cd2c0cf65dd117d5d2fbd62c3205cd3569711b498662a",
   "links": {
    "http://www.nad.gov.in/": "National Academic Depository (NAD)",
    "https://advertising.nmims.edu/": "Branding & Advertising",
@@ -6653,6 +6653,21 @@
    "https://mmc.gunungmaskab.go.id/2026/11/21/webgpu-sudah-aktif-di-laptop-mengapa-gates-of-olympus-tidak-otomatis-berjalan-lebih-cepat/": "WebGPU Sudah Aktif di Laptop, Mengapa Gates of Olympus Tidak Otomatis Berjalan Lebih Cepat",
    "https://mmc.gunungmaskab.go.id/2026/11/21/zodiak-leo-dan-shio-macan-dalam-poster-koi-gate-dua-lambang-hewan-dengan-asal-kalender-berbeda/": "Zodiak Leo dan Shio Macan dalam Poster Koi Gate, Dua Lambang Hewan dengan Asal Kalender Berbeda",
    "https://mmc.gunungmaskab.go.id/2026/11/21/zodiak-virgo-dalam-poster-koi-gate-bertema-air-mengenal-perbedaan-lambang-rasi-dan-motif-ikan/": "Zodiak Virgo dalam Poster Koi Gate Bertema Air, Mengenal Perbedaan Lambang Rasi dan Motif Ikan",
+   "https://mmc.gunungmaskab.go.id/2026/11/22/ilustrasi-mahjong-ways-3-di-huawei-osta-o1-pro-apa-dampak-rasio-layar-lebar-pada-detail-ubin/": "Ilustrasi Mahjong Ways 3 di Huawei OSTA O1 Pro, Apa Dampak Rasio Layar Lebar pada Detail Ubin",
+   "https://mmc.gunungmaskab.go.id/2026/11/22/intel-thread-director-pada-laptop-saat-starlight-princess-dibuka-mengapa-penempatan-tugas-tidak-terlihat-pengguna/": "Intel Thread Director pada Laptop saat Starlight Princess Dibuka, Mengapa Penempatan Tugas Tidak Terlihat Pengguna",
+   "https://mmc.gunungmaskab.go.id/2026/11/22/joy-con-2-nintendo-switch-2-vs-kontrol-sentuh-wild-west-gold-mengapa-dua-cara-interaksi-tidak-bisa-disamakan/": "Joy-Con 2 Nintendo Switch 2 vs Kontrol Sentuh Wild West Gold, Mengapa Dua Cara Interaksi Tidak Bisa Disamakan",
+   "https://mmc.gunungmaskab.go.id/2026/11/22/kamera-hp-gaming-rp2-jutaan-memotret-sweet-bonanza-mengapa-warna-permen-bisa-berubah-setelah-diproses-ai/": "Kamera HP Gaming Rp2 Jutaan Memotret Sweet Bonanza, Mengapa Warna Permen Bisa Berubah setelah Diproses AI",
+   "https://mmc.gunungmaskab.go.id/2026/11/22/lcd-nintendo-switch-2-vs-oled-hp-gaming-mengapa-poster-wild-bounty-showdown-bisa-terlihat-berbeda/": "LCD Nintendo Switch 2 vs OLED HP Gaming, Mengapa Poster Wild Bounty Showdown Bisa Terlihat Berbeda",
+   "https://mmc.gunungmaskab.go.id/2026/11/22/mahjong-ways-2-di-hp-gaming-rp2-jutaan-tiga-komponen-yang-lebih-penting-daripada-lampu-rgb/": "Mahjong Ways 2 di HP Gaming Rp2 Jutaan, Tiga Komponen yang Lebih Penting daripada Lampu RGB",
+   "https://mmc.gunungmaskab.go.id/2026/11/22/mahjong-ways-di-vivo-y31t-5g-dengan-layar-lcd-120-hz-apa-yang-berubah-pada-gerakan-ubin/": "Mahjong Ways di vivo Y31t 5G dengan Layar LCD 120 Hz, Apa yang Berubah pada Gerakan Ubin",
+   "https://mmc.gunungmaskab.go.id/2026/11/22/oppo-find-x10-dengan-dimensity-9600m-saat-mahjong-ways-dibuka-bersama-kamera-mengapa-beban-bisa-berlipat/": "OPPO Find X10 dengan Dimensity 9600M saat Mahjong Ways Dibuka Bersama Kamera, Mengapa Beban Bisa Berlipat",
+   "https://mmc.gunungmaskab.go.id/2026/11/22/photo-assist-samsung-galaxy-s26-fe-pada-starlight-princess-mengapa-detail-kecil-bisa-berubah-setelah-diedit/": "Photo Assist Samsung Galaxy S26 FE Pada Starlight Princess, Mengapa Detail Kecil Bisa Berubah Setelah Diedit",
+   "https://mmc.gunungmaskab.go.id/2026/11/22/prosesor-laptop-hibrida-untuk-gates-of-olympus-super-scatter-mengapa-e-core-tidak-selalu-membuat-browser-lambat/": "Prosesor Laptop Hibrida untuk Gates of Olympus Super Scatter, Mengapa E-Core Tidak Selalu Membuat Browser Lambat",
+   "https://mmc.gunungmaskab.go.id/2026/11/22/shio-ayam-dan-sugar-rush-dalam-poster-pop-art-mengapa-ai-sulit-menjaga-konsistensi-motif-bulu/": "Shio Ayam dan Sugar Rush dalam Poster Pop Art, Mengapa AI Sulit Menjaga Konsistensi Motif Bulu",
+   "https://mmc.gunungmaskab.go.id/2026/11/22/sugar-rush-di-layar-144-hz-realme-p4x-5g-mengapa-panel-cepat-tak-berarti-video-selalu-mulus/": "Sugar Rush di Layar 144 Hz realme P4x 5G, Mengapa Panel Cepat Tak Berarti Video Selalu Mulus",
+   "https://mmc.gunungmaskab.go.id/2026/11/22/teknologi-bt-2020-oppo-find-x10-pada-mahjong-ways-mengapa-warna-emas-bisa-tampak-berbeda-di-layar-lain/": "Teknologi BT.2020 OPPO Find X10 pada Mahjong Ways, Mengapa Warna Emas Bisa Tampak Berbeda di Layar Lain",
+   "https://mmc.gunungmaskab.go.id/2026/11/22/vivo-y31t-5g-punya-fitur-pengeluaran-air-mengapa-layar-mahjong-ways-2-tetap-perlu-dikeringkan/": "vivo Y31t 5G Punya Fitur Pengeluaran Air, Mengapa Layar Mahjong Ways 2 Tetap Perlu Dikeringkan",
+   "https://mmc.gunungmaskab.go.id/2026/11/22/zodiak-aquarius-pada-mahjong-ways-membedakan-lambang-pembawa-air-dari-ornamen-emas-tiongkok/": "Zodiak Aquarius pada Mahjong Ways, Membedakan Lambang Pembawa Air dari Ornamen Emas Tiongkok",
    "https://mobilelegends.id": "LaneID: Build Hero, Tier List & Tips Mobile Legends",
    "https://mommya-z.com": "Mommy A–Z: Panduan Kehamilan, Menyusui & Parenting",
    "https://monitory.id": "Monitory: Review Monitor, PC & Gadget Terbaru",
