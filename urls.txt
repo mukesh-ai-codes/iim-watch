@@ -10,10 +10,10 @@ IIM Shillong IPM | https://www.iimshillong.ac.in/ipm/admission-process
 IIM Shillong portal | https://apps.iimshillong.ac.in/admission/
 IIM Shillong (home) | https://www.iimshillong.ac.in/
 IIM Amritsar IPM (BSQFE) | https://iimamritsar.ac.in/academics/ipm/about-program
-IIM Sirmaur BMS | https://iimsirmaur.ac.in/bachelors-management-studies-bms
 IIM Sirmaur admissions | https://admissions.iimsirmaur.ac.in/
 IIFT Kakinada IPM (home) | https://www.iift.ac.in/
-IIM Sambalpur BS MPP | https://iimsambalpur.ac.in/bachelor-of-science-b-s-in-management-and-public-policy/
+IIM Sambalpur BS MPP | https://iimsambalpur.ac.in/?p=17022
+IIM Sambalpur BS portal | https://registration.iimsambalpur.ac.in/portal/SignIn/MPPolicy-SD
 IIM Sambalpur (home) | https://iimsambalpur.ac.in/
 
 # --- IPMAT Rohtak ---
@@ -56,3 +56,14 @@ Alliance University | https://www.alliance.edu.in/
 JAGSoM | https://www.jagsom.edu.in/
 NIIT University | https://www.niituniversity.in/
 NFSU | https://www.nfsu.ac.in/
+
+# --- Added Nov 21: Ashoka, Jindal, Mumbai & Delhi colleges ---
+Ashoka UG admissions | https://www.ashoka.edu.in/admissions/undergraduate-students/
+Ashoka UG timelines | https://www.ashoka.edu.in/undergraduate-admissions-timelines
+Jindal JGBS BBA (Hons) | https://jgu.edu.in/jgbs/admissions/bbahons
+Jindal JGBS BBA+MBA | https://jgu.edu.in/jgbs/admissions/integrated-bba-hons-mba
+Mithibai College | https://mithibai.ac.in/
+MAH BBA/BMS CET (Maharashtra CET Cell) | https://cetcell.mahacet.org/
+SSCBS Delhi | https://sscbs.du.ac.in/
+SRCC Delhi | https://www.srcc.edu/
+CUET UG (NTA) | https://cuet.nta.nic.in/
