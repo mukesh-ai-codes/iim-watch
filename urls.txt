@@ -59,7 +59,6 @@ NIIT University | https://www.niituniversity.in/
 NFSU | https://www.nfsu.ac.in/
 
 # --- Added Nov 21: Ashoka, Jindal, Mumbai & Delhi colleges ---
-Ashoka UG admissions | https://dp.ashoka.edu.in/admissions/undergraduate-students/
 Jindal JGBS BBA (Hons) | https://jgu.edu.in/jgbs/admissions/bbahons
 Jindal JGBS BBA+MBA | https://jgu.edu.in/jgbs/admissions/integrated-bba-hons-mba
 Mithibai College | https://mithibai.ac.in/
