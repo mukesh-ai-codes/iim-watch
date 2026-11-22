@@ -2611,7 +2611,7 @@
   "name": "IIM Udaipur news"
  },
  "https://nirmauni.ac.in/": {
-  "fails": 2,
+  "fails": 3,
   "hash": null,
   "links": {},
   "name": "Nirma University"
@@ -3580,7 +3580,7 @@
   "name": "IIM Sambalpur BS portal"
  },
  "https://sscbs.du.ac.in/": {
-  "fails": 2,
+  "fails": 3,
   "hash": null,
   "links": {},
   "name": "SSCBS Delhi"
@@ -3599,7 +3599,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "5d44dafc99452671c1cde2e769f3d08fe9fc44ec65a47ca24b0120210a34b3f5",
+  "hash": "d8d3aff85b5e9162dd018f63fb349f059b6de9af1b5e35746b44afbda1b39d73",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -3788,13 +3788,13 @@
   "name": "Alliance University"
  },
  "https://www.ashoka.edu.in/admissions/undergraduate-students/": {
-  "fails": 2,
+  "fails": 3,
   "hash": null,
   "links": {},
   "name": "Ashoka UG admissions"
  },
  "https://www.ashoka.edu.in/undergraduate-admissions-timelines": {
-  "fails": 2,
+  "fails": 3,
   "hash": null,
   "links": {},
   "name": "Ashoka UG timelines"
