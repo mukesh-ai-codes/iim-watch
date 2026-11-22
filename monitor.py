@@ -19,6 +19,11 @@ import requests
 import urllib3
 from bs4 import BeautifulSoup
 
+try:  # browser-like fetcher: gets past many "403 Forbidden" bot blocks
+    from curl_cffi import requests as cffi_requests
+except Exception:  # noqa: BLE001
+    cffi_requests = None
+
 urllib3.disable_warnings()
 
 BASE = os.path.dirname(os.path.abspath(__file__))
@@ -81,15 +86,22 @@ def norm_url(base, href):
 
 
 def fetch(url):
+    """Try a real-browser fingerprint first, then plain requests."""
     last = None
+    tries = []
+    if cffi_requests is not None:
+        tries.append(lambda: cffi_requests.get(url, impersonate="chrome", timeout=45,
+                                               verify=False, allow_redirects=True))
+    tries.append(lambda: requests.get(url, headers=HEADERS, timeout=45, verify=False))
     for attempt in range(2):
-        try:
-            r = requests.get(url, headers=HEADERS, timeout=40, verify=False)
-            r.raise_for_status()
-            return r
-        except Exception as e:  # noqa: BLE001
-            last = e
-            time.sleep(3)
+        for get in tries:
+            try:
+                r = get()
+                r.raise_for_status()
+                return r
+            except Exception as e:  # noqa: BLE001
+                last = e
+        time.sleep(3)
     raise last
 
 
