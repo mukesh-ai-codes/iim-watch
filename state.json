@@ -41,7 +41,7 @@
   "name": "IIM Sirmaur admissions"
  },
  "https://admissions.nirmauni.ac.in/ibbamba.html": {
-  "fails": 0,
+  "fails": 1,
   "hash": "ed40e3f614567693eb9f72447968db3dcfdb999d703144b15c0db18468c7bd60",
   "links": {
    "https://admissions-im.nirmauni.ac.in/Student/": "Apply Now / Login",
@@ -430,12 +430,6 @@
    "https://portal.dbe.iimb.ac.in/login": "Student Login"
   },
   "name": "IIMB BBA DBE news"
- },
- "https://dp.ashoka.edu.in/admissions/undergraduate-students/": {
-  "fails": 1,
-  "hash": null,
-  "links": {},
-  "name": "Ashoka UG admissions"
  },
  "https://exams.nta.nic.in/jipmat/": {
   "fails": 0,
@@ -3326,7 +3320,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "5429c5a0a881193188ae46b4b7038b33121fd906b0fdd017f233d22f175f1113",
+  "hash": "2151cf6a71fb7eeff2569e358e0c75711cab9266cecc80661dac76ed45a7ebbb",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
