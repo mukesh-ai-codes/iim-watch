@@ -70,6 +70,28 @@ def clean(text):
     return re.sub(r"\s+", " ", text or "").strip()
 
 
+OFFICIAL_SUFFIXES = (".ac.in", ".edu.in", ".nic.in", ".gov.in", ".edu")
+
+
+def site_key(host):
+    """Registered domain, e.g. www.iimidr.ac.in -> iimidr.ac.in, exams.nta.nic.in -> nta.nic.in."""
+    parts = host.lower().split(":")[0].split(".")
+    if len(parts) >= 3 and parts[-2] in ("ac", "edu", "nic", "gov", "co", "org", "res"):
+        return ".".join(parts[-3:])
+    return ".".join(parts[-2:])
+
+
+def is_relevant(page_url, link_url):
+    """Keep only links on the same website (blocks injected spam / ads / social links).
+    Also keep PDFs/docs hosted on other official Indian education/government sites."""
+    a = urllib.parse.urlsplit(page_url).netloc
+    b = urllib.parse.urlsplit(link_url).netloc
+    if site_key(a) == site_key(b):
+        return True
+    path = urllib.parse.urlsplit(link_url).path.lower()
+    return path.endswith((".pdf", ".doc", ".docx")) and b.lower().endswith(OFFICIAL_SUFFIXES)
+
+
 def norm_url(base, href):
     href = href.strip()
     if not href or href.lower().startswith(SKIP_SCHEMES):
@@ -87,7 +109,7 @@ def norm_url(base, href):
 
 def fetch(url):
     """Try a real-browser fingerprint first, then plain requests."""
-    last = None
+    errors = []
     tries = []
     if cffi_requests is not None:
         tries.append(lambda: cffi_requests.get(url, impersonate="chrome", timeout=45,
@@ -100,9 +122,10 @@ def fetch(url):
                 r.raise_for_status()
                 return r
             except Exception as e:  # noqa: BLE001
-                last = e
+                errors.append(e)
         time.sleep(3)
-    raise last
+    first = errors[0]
+    raise RuntimeError(str(first)[:150] + (" [browser mode]" if cffi_requests else " [basic mode]"))
 
 
 def snapshot(url):
@@ -117,7 +140,7 @@ def snapshot(url):
     links = {}
     for a in soup.find_all("a", href=True):
         u = norm_url(r.url, a["href"])
-        if not u:
+        if not u or not is_relevant(url, u):
             continue
         text = clean(a.get_text(" ")) or clean(a.get("title")) or u.rsplit("/", 1)[-1]
         if u not in links or len(text) > len(links[u]):

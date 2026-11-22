@@ -47,7 +47,8 @@ Symbiosis SET | https://www.set-test.org/
 Christ University | https://christuniversity.in/
 
 # --- Other IPMAT-score colleges (homepages; exact pages to be pinned) ---
-Nirma University | https://nirmauni.ac.in/
+Nirma IM BBA-MBA | https://management.nirmauni.ac.in/admission-aid/undergraduate/bba-mba-five-year-integrated/
+Nirma admissions BBA-MBA | https://admissions.nirmauni.ac.in/ibbamba.html
 NALSAR | https://www.nalsar.ac.in/
 TAPMI | https://www.tapmi.edu.in/
 IFMR Krea | https://krea.edu.in/
@@ -58,12 +59,10 @@ NIIT University | https://www.niituniversity.in/
 NFSU | https://www.nfsu.ac.in/
 
 # --- Added Nov 21: Ashoka, Jindal, Mumbai & Delhi colleges ---
-Ashoka UG admissions | https://www.ashoka.edu.in/admissions/undergraduate-students/
-Ashoka UG timelines | https://www.ashoka.edu.in/undergraduate-admissions-timelines
+Ashoka UG admissions | https://dp.ashoka.edu.in/admissions/undergraduate-students/
 Jindal JGBS BBA (Hons) | https://jgu.edu.in/jgbs/admissions/bbahons
 Jindal JGBS BBA+MBA | https://jgu.edu.in/jgbs/admissions/integrated-bba-hons-mba
 Mithibai College | https://mithibai.ac.in/
 MAH BBA/BMS CET (Maharashtra CET Cell) | https://cetcell.mahacet.org/
-SSCBS Delhi | https://sscbs.du.ac.in/
 SRCC Delhi | https://www.srcc.edu/
 CUET UG (NTA) | https://cuet.nta.nic.in/
