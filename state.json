@@ -41,7 +41,7 @@
   "name": "IIM Sirmaur admissions"
  },
  "https://admissions.nirmauni.ac.in/ibbamba.html": {
-  "fails": 1,
+  "fails": 2,
   "hash": "ed40e3f614567693eb9f72447968db3dcfdb999d703144b15c0db18468c7bd60",
   "links": {
    "https://admissions-im.nirmauni.ac.in/Student/": "Apply Now / Login",
@@ -1239,7 +1239,7 @@
  },
  "https://iimranchi.ac.in/": {
   "fails": 0,
-  "hash": "b1687e2a18bc24e69bb1c3352b5cdfae3f7e1a4236e757d4aefb3e1e9d4063e7",
+  "hash": "db99a14d8de829204172cc29907c5ba90622536b691ffdce6c6dfb89e6fcea28",
   "links": {
    "https://alumni.iimranchi.ac.in/": "Alumni Portal",
    "https://iimranchi.ac.in/": "© 2026 Indian Institute of Management Ranchi",
@@ -1275,7 +1275,7 @@
    "https://iimranchi.ac.in/ephd/": "Executive Ph.D.",
    "https://iimranchi.ac.in/event/15th-convocation/": "",
    "https://iimranchi.ac.in/event/inauguration-of-happiness-corners/": "",
-   "https://iimranchi.ac.in/event/space-conclave-2026/": "Space Conclave-2026",
+   "https://iimranchi.ac.in/event/space-conclave-2026/": "SC26",
    "https://iimranchi.ac.in/faculty": "Faculty List",
    "https://iimranchi.ac.in/faculty/": "Faculty",
    "https://iimranchi.ac.in/icib-2027/": "International Conference Indian Business-2027",
@@ -1310,6 +1310,7 @@
    "https://iimranchi.ac.in/media/2026/07/IIM-Ranchi-Biodiversity-Report.pdf": "Bio-Diversity",
    "https://iimranchi.ac.in/media/2026/08/Newsletter-Raconteur-V13-N2.pdf": "Raconteur: Volume 13.2 (Q2 2026)",
    "https://iimranchi.ac.in/media/2026/10/Newsletter-Raconteur-V13-N3.pdf": "Raconteur: Volume 13.3 (Q3 2026)",
+   "https://iimranchi.ac.in/media/2026/11/Concept_Note_IIMRanchi-Startup-Conclave_19-Dec-2026_FV-1.pdf": "Startup Conclave 2026",
    "https://iimranchi.ac.in/nad/": "NAD",
    "https://iimranchi.ac.in/newsletter/": "Newsletter",
    "https://iimranchi.ac.in/nirf/": "NIRF",
@@ -1355,7 +1356,7 @@
  },
  "https://iimranchi.ac.in/p/ipm": {
   "fails": 0,
-  "hash": "b1687e2a18bc24e69bb1c3352b5cdfae3f7e1a4236e757d4aefb3e1e9d4063e7",
+  "hash": "db99a14d8de829204172cc29907c5ba90622536b691ffdce6c6dfb89e6fcea28",
   "links": {
    "https://alumni.iimranchi.ac.in/": "Alumni Portal",
    "https://iimranchi.ac.in/": "© 2026 Indian Institute of Management Ranchi",
@@ -1391,7 +1392,7 @@
    "https://iimranchi.ac.in/ephd/": "Executive Ph.D.",
    "https://iimranchi.ac.in/event/15th-convocation/": "",
    "https://iimranchi.ac.in/event/inauguration-of-happiness-corners/": "",
-   "https://iimranchi.ac.in/event/space-conclave-2026/": "Space Conclave-2026",
+   "https://iimranchi.ac.in/event/space-conclave-2026/": "SC26",
    "https://iimranchi.ac.in/faculty": "Faculty List",
    "https://iimranchi.ac.in/faculty/": "Faculty",
    "https://iimranchi.ac.in/icib-2027/": "International Conference Indian Business-2027",
@@ -1426,6 +1427,7 @@
    "https://iimranchi.ac.in/media/2026/07/IIM-Ranchi-Biodiversity-Report.pdf": "Bio-Diversity",
    "https://iimranchi.ac.in/media/2026/08/Newsletter-Raconteur-V13-N2.pdf": "Raconteur: Volume 13.2 (Q2 2026)",
    "https://iimranchi.ac.in/media/2026/10/Newsletter-Raconteur-V13-N3.pdf": "Raconteur: Volume 13.3 (Q3 2026)",
+   "https://iimranchi.ac.in/media/2026/11/Concept_Note_IIMRanchi-Startup-Conclave_19-Dec-2026_FV-1.pdf": "Startup Conclave 2026",
    "https://iimranchi.ac.in/nad/": "NAD",
    "https://iimranchi.ac.in/newsletter/": "Newsletter",
    "https://iimranchi.ac.in/nirf/": "NIRF",
@@ -3320,7 +3322,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "2151cf6a71fb7eeff2569e358e0c75711cab9266cecc80661dac76ed45a7ebbb",
+  "hash": "5429c5a0a881193188ae46b4b7038b33121fd906b0fdd017f233d22f175f1113",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -5194,7 +5196,7 @@
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "403146d51f669ff4b538d1d921cf854ac8ffb1896f05b35a181d61e40ed145ab",
+  "hash": "6a8c1b713e6c6cd550fd6b7570279c6a4347c908c1b4d8f2ca6db45ba843d093",
   "links": {
    "https://advertising.nmims.edu/": "Branding & Advertising",
    "https://aoa.nmims.edu/": "Aviation",
