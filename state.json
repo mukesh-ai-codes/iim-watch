@@ -41,7 +41,7 @@
   "name": "IIM Sirmaur admissions"
  },
  "https://admissions.nirmauni.ac.in/ibbamba.html": {
-  "fails": 2,
+  "fails": 0,
   "hash": "ed40e3f614567693eb9f72447968db3dcfdb999d703144b15c0db18468c7bd60",
   "links": {
    "https://admissions-im.nirmauni.ac.in/Student/": "Apply Now / Login",
@@ -1239,7 +1239,7 @@
  },
  "https://iimranchi.ac.in/": {
   "fails": 0,
-  "hash": "db99a14d8de829204172cc29907c5ba90622536b691ffdce6c6dfb89e6fcea28",
+  "hash": "bf9e0147c404227c35e6ea17f2837ef2023c1f63030aba9fdf8136246671998d",
   "links": {
    "https://alumni.iimranchi.ac.in/": "Alumni Portal",
    "https://iimranchi.ac.in/": "© 2026 Indian Institute of Management Ranchi",
@@ -1260,6 +1260,7 @@
    "https://iimranchi.ac.in/careers/": "Recruitment of Faculty Member (Regular and SRD)",
    "https://iimranchi.ac.in/category/student-diaries/": "Student Diaries & Blogs",
    "https://iimranchi.ac.in/centres/": "Centres",
+   "https://iimranchi.ac.in/competency-development/": "Development Avenues",
    "https://iimranchi.ac.in/contact/": "Connect With Us",
    "https://iimranchi.ac.in/distinguished-visiting-professor/": "Distinguished Visiting Professor",
    "https://iimranchi.ac.in/drc2024/": "DRC 2024",
@@ -1356,7 +1357,7 @@
  },
  "https://iimranchi.ac.in/p/ipm": {
   "fails": 0,
-  "hash": "db99a14d8de829204172cc29907c5ba90622536b691ffdce6c6dfb89e6fcea28",
+  "hash": "bf9e0147c404227c35e6ea17f2837ef2023c1f63030aba9fdf8136246671998d",
   "links": {
    "https://alumni.iimranchi.ac.in/": "Alumni Portal",
    "https://iimranchi.ac.in/": "© 2026 Indian Institute of Management Ranchi",
@@ -1377,6 +1378,7 @@
    "https://iimranchi.ac.in/careers/": "Recruitment of Faculty Member (Regular and SRD)",
    "https://iimranchi.ac.in/category/student-diaries/": "Student Diaries & Blogs",
    "https://iimranchi.ac.in/centres/": "Centres",
+   "https://iimranchi.ac.in/competency-development/": "Development Avenues",
    "https://iimranchi.ac.in/contact/": "Connect With Us",
    "https://iimranchi.ac.in/distinguished-visiting-professor/": "Distinguished Visiting Professor",
    "https://iimranchi.ac.in/drc2024/": "DRC 2024",
@@ -2419,7 +2421,7 @@
  },
  "https://nta.ac.in/": {
   "fails": 0,
-  "hash": "2b6c1b0215e630ae0551d961dc1e74f2ab59116281dbbbb930a61ce70f15f22a",
+  "hash": "95cd73ce845d3f68178ee325c421df6b583f5c68e3fa5c72e76e4079011f8b97",
   "links": {
    "http://cbtc.nta.ac.in/observer": "Registration for observers of NTA is open. All eligible observer are requested to register themselves.",
    "http://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/202610161905649093.pdf": "Public Notice Corrigendum to the Information Bulletin of UGC-NET December 2026 Examination",
@@ -3322,7 +3324,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "5429c5a0a881193188ae46b4b7038b33121fd906b0fdd017f233d22f175f1113",
+  "hash": "2151cf6a71fb7eeff2569e358e0c75711cab9266cecc80661dac76ed45a7ebbb",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -3504,7 +3506,7 @@
  },
  "https://www.iift.ac.in/": {
   "fails": 0,
-  "hash": "c87344b420750bbcef7627640d031307d7e843884c345aff3741c74ec7fd2328",
+  "hash": "16c11ada34611f3289fc88117aa0d9b16fdad0dd4a8b91440f0d5867299295c8",
   "links": {
    "http://epay.iift.ac.in/myspace/": "Myspace",
    "https://cc.iift.ac.in/library/index.asp": "Library Resources",
@@ -4223,7 +4225,7 @@
  },
  "https://www.iiml.ac.in/": {
   "fails": 0,
-  "hash": "c344c48d41d56fb87e20f58af51c572035fa1dde7fbf3baab71a1bb57c72f225",
+  "hash": "b0d2e9109f5b14260c10d3968c05e74c3371e1a54581ab740ee329706f28cb1a",
   "links": {
    "http://www.iiml.ac.in/admission/mdp/mdpCalendar": "Short Duration Programmes",
    "http://www.iiml.ac.in/centres-excellence-introduction": "Centres of Excellence",
@@ -4275,7 +4277,7 @@
    "https://www.iiml.ac.in/faculty-%26-research/visiting-scholar": "Visiting Scholar",
    "https://www.iiml.ac.in/faculty-list-by-area": "Faculty List by Areas",
    "https://www.iiml.ac.in/faculty-profile": "Faculty Directory",
-   "https://www.iiml.ac.in/facultyPosition2": "Faculty Recruitment",
+   "https://www.iiml.ac.in/facultyPosition2": "Nov 23 2026 Faculty Recruitment – Last Date for submitting the Online Application Form for the current round is 17th December, 2026 Language: English",
    "https://www.iiml.ac.in/fdp": "Faculty Development Programme",
    "https://www.iiml.ac.in/financial-times-rankings": "IIM Lucknow ranks 57th among top 100 B schools of the world by Financial Times Ranking 2025",
    "https://www.iiml.ac.in/fitnessiim-lucknow": "Fitness@IIM Lucknow",
@@ -4301,7 +4303,7 @@
    "https://www.iiml.ac.in/newsletters": "Media",
    "https://www.iiml.ac.in/online-fee-payment": "On Line Fee Payment",
    "https://www.iiml.ac.in/other-resources": "Other Resources",
-   "https://www.iiml.ac.in/phd": "Read More",
+   "https://www.iiml.ac.in/phd": "Doctoral Programme in Management (PhD) Admission-2027",
    "https://www.iiml.ac.in/phd-part-time": "Admissions Open – EFPM (PhD) for Working Executives",
    "https://www.iiml.ac.in/placement-highlights": "Placements",
    "https://www.iiml.ac.in/privacy-policy": "Privacy Policy",
@@ -4326,6 +4328,7 @@
    "https://www.iiml.ac.in/sites/default/files/2026-07/ANTI%20RAGGING%20COMMITTEE%20AND%20ANTI%20RAGGING%20SQUAD%20DETAILS.pdf": "Anti-Ragging Helpline",
    "https://www.iiml.ac.in/sites/default/files/upload/news/130385418NIRF%202025.pdf": "IIM Lucknow Secures 5th Position in NIRF Rankings 2025",
    "https://www.iiml.ac.in/sites/default/files/upload/news/1365283596Industry Academia Collaboration.pdf": "Apr 15 2026 IIM Lucknow enters into a strategic partnership with AIDA and UPPCL Size: 540 kb | Language: English",
+   "https://www.iiml.ac.in/sites/default/files/upload/news/1865882257Advertisement for admisions of PhD 28th Batch.pdf": "Nov 23 2026 Doctoral Programme in Management (PhD) Admission-2027 Size: 187 kb | Language: English",
    "https://www.iiml.ac.in/sites/default/files/upload/news/678191823IIM Lucknow’s IPMX Secures 58th Rank in the Prestigious Financial Times MBA Rankings 2026.pdf": "Feb 18 2026 IIM Lucknow’s IPMX Secures 58th Rank in the Prestigious FT Global MBA Rankings 2026 Size: 297 kb | Language: English",
    "https://www.iiml.ac.in/student-corner": "Student Corner",
    "https://www.iiml.ac.in/tender-and-notice": "Tender & Notices",
@@ -5196,7 +5199,7 @@
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "6a8c1b713e6c6cd550fd6b7570279c6a4347c908c1b4d8f2ca6db45ba843d093",
+  "hash": "ad0ec89189407dd55567b11969bac63de09f6b50cd017c8c14848c59b39b5372",
   "links": {
    "https://advertising.nmims.edu/": "Branding & Advertising",
    "https://aoa.nmims.edu/": "Aviation",
