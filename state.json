@@ -41,7 +41,7 @@
   "name": "IIM Sirmaur admissions"
  },
  "https://admissions.nirmauni.ac.in/ibbamba.html": {
-  "fails": 1,
+  "fails": 0,
   "hash": "ed40e3f614567693eb9f72447968db3dcfdb999d703144b15c0db18468c7bd60",
   "links": {
    "https://admissions-im.nirmauni.ac.in/Student/": "Apply Now / Login",
@@ -149,7 +149,7 @@
  },
  "https://christuniversity.in/": {
   "fails": 0,
-  "hash": "15735a8633f78d88273df5b35963e7e03a87a9d5dd05ba617fc59ffad4d583e1",
+  "hash": "2c8b73567e48253ab12ad8cab29095abc5f1d6e814c133a190b98cea264fd674",
   "links": {
    "http://alumni.christuniversity.in/": "Alumni",
    "http://decibel.christuniversity.in/": "Campus Radio",
@@ -228,6 +228,7 @@
    "https://christuniversity.in/events/37425": "Nov 23 2026 AI Summit 26: Step Inside the AI Revolution, presented by EDEC - The Business Society 23 Nov 09:45 AM - 05:00 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37427": "Nov 23 2026 Seed to Scale: Conversations in Venture 23 Nov 09:30 AM - 11:00 AM Bangalore Central Campus",
    "https://christuniversity.in/events/37441": "Nov 25 2026 Reclaiming Independence 25 Nov 03:00 PM - 05:30 PM Bangalore Central Campus",
+   "https://christuniversity.in/events/37454": "Nov 25 2026 Masquerades 2026 25 Nov - 26 Nov 05:00 PM - 05:00 PM Bangalore Central Campus",
    "https://christuniversity.in/examination": "Examination Information & Resources",
    "https://christuniversity.in/fcra": "FCRA",
    "https://christuniversity.in/founder": "Founder",
@@ -3336,7 +3337,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "61f6edc183dc1389bc5ea32540b23ac3050ddfd9695671ba7bbdeab801970758",
+  "hash": "a35993a4d57fd401b3bfb4ec2416d92ed87a83f0585dc5bd84ef16a3df19ebee",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -5262,7 +5263,7 @@
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "68cdf80ba11fc62fe896806a5c5e2d2a52d68d336aaf4a9f2a7bfecb2d0886ec",
+  "hash": "e3f677e2e55a63f5bcc7d73d41a44340786160a4e0104198e2455ca7be4f96dc",
   "links": {
    "https://advertising.nmims.edu/": "Branding & Advertising",
    "https://aoa.nmims.edu/": "Aviation",
