@@ -149,7 +149,7 @@
  },
  "https://christuniversity.in/": {
   "fails": 0,
-  "hash": "2c8b73567e48253ab12ad8cab29095abc5f1d6e814c133a190b98cea264fd674",
+  "hash": "72b1bce7954edad271ec7aaa52ca17366d872c1c9441395cbedd107eec503076",
   "links": {
    "http://alumni.christuniversity.in/": "Alumni",
    "http://decibel.christuniversity.in/": "Campus Radio",
@@ -229,6 +229,7 @@
    "https://christuniversity.in/events/37427": "Nov 23 2026 Seed to Scale: Conversations in Venture 23 Nov 09:30 AM - 11:00 AM Bangalore Central Campus",
    "https://christuniversity.in/events/37441": "Nov 25 2026 Reclaiming Independence 25 Nov 03:00 PM - 05:30 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37454": "Nov 25 2026 Masquerades 2026 25 Nov - 26 Nov 05:00 PM - 05:00 PM Bangalore Central Campus",
+   "https://christuniversity.in/events/37456": "Nov 25 2026 Experiential Learning Lab Spanish Cuisine 25 Nov 12:30 PM - 02:00 PM Bangalore Central Campus",
    "https://christuniversity.in/examination": "Examination Information & Resources",
    "https://christuniversity.in/fcra": "FCRA",
    "https://christuniversity.in/founder": "Founder",
@@ -3337,7 +3338,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "a35993a4d57fd401b3bfb4ec2416d92ed87a83f0585dc5bd84ef16a3df19ebee",
+  "hash": "2ffed81339bd7f5485b0dbf158f43aef2fa0d3dbd14bc413f8380ca07a2240d6",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -3534,7 +3535,7 @@
    "https://www.iift.ac.in/": "भारतीय विदेश व्यापार संस्थान INDIAN INSTITUTE OF FOREIGN TRADE (Deemed to be University)",
    "https://www.iift.ac.in/about-iift": "About IIFT",
    "https://www.iift.ac.in/administration": "Administration",
-   "https://www.iift.ac.in/admission-2027": "IIFT2027 MBA(IB) & MBA(BA)",
+   "https://www.iift.ac.in/admission-2027": "Admissions Open for IIFT MBA Programmes 2027–29 | MBA (International Business) | MBA (Business Analytics)",
    "https://www.iift.ac.in/admissions": "Contact the Admissions Office",
    "https://www.iift.ac.in/all-programme.php": "View All Programmes",
    "https://www.iift.ac.in/alumni": "Chapters (India & International)",
@@ -5263,7 +5264,7 @@
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "e3f677e2e55a63f5bcc7d73d41a44340786160a4e0104198e2455ca7be4f96dc",
+  "hash": "643d75d54b0f7d606cd44b15892ff538e1fbcdabf339551e8dc6d0c47984eb3a",
   "links": {
    "https://advertising.nmims.edu/": "Branding & Advertising",
    "https://aoa.nmims.edu/": "Aviation",
