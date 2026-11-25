@@ -41,7 +41,7 @@
   "name": "IIM Sirmaur admissions"
  },
  "https://admissions.nirmauni.ac.in/ibbamba.html": {
-  "fails": 1,
+  "fails": 0,
   "hash": "ed40e3f614567693eb9f72447968db3dcfdb999d703144b15c0db18468c7bd60",
   "links": {
    "https://admissions-im.nirmauni.ac.in/Student/": "Apply Now / Login",
@@ -1063,7 +1063,7 @@
  },
  "https://iimmumbai.ac.in/ug-programme-overview": {
   "fails": 0,
-  "hash": "5fcbe5b3542dca0eceea4064c64754d35996001d51d2c20dc8818be832a485be",
+  "hash": "09f1d6e2cccb31e2db9005caa0c10fafcccc277a7914865bdef35dca4882ee46",
   "links": {
    "https://dic.iimmumbai.ac.in/": "AI & Agentic AI for Business Leaders new-notification",
    "https://execed.iimmumbai.ac.in/program/iim-mumbai/mba": "MBA - Wealth Management new-notification",
@@ -1249,7 +1249,7 @@
  },
  "https://iimranchi.ac.in/": {
   "fails": 0,
-  "hash": "cfccef9712bdf89dae2aa81ed5bb603f1514886cfcd0179941d8a0e86bf40ed0",
+  "hash": "766606463257dbaf7ed3219b0b3cc1b1d66e36b98ce32430a4bff016f9b77ca9",
   "links": {
    "https://alumni.iimranchi.ac.in/": "Alumni Portal",
    "https://iimranchi.ac.in/": "© 2026 Indian Institute of Management Ranchi",
@@ -1314,6 +1314,8 @@
    "https://iimranchi.ac.in/media-coverage/2026/11/26414/": "IIM Ranchi Hosted the Bottom Ash User Meet and Focus Group Discussion",
    "https://iimranchi.ac.in/media-coverage/2026/11/26578/": "आईआईएम रांची में आठवीं पुस्तक प्रदर्शनी का भव्य आयोजन",
    "https://iimranchi.ac.in/media-coverage/2026/11/26579/": "मैनेजमेंट की बारीकियों समझीं",
+   "https://iimranchi.ac.in/media-coverage/2026/11/27090/": "IIM Ranchi Concludes MDP on Project Management and Execution Excellence",
+   "https://iimranchi.ac.in/media-coverage/2026/11/27091/": "आईआईएम रांची में पीवीयुएनएल और एनटीपीसी के अधिकारियों के लिए पांच दिवसीय एमडीपी शुरू",
    "https://iimranchi.ac.in/media/2026/02/NewsletterRaconteurV12N3.pdf": "Raconteur: Volume 12.3 (Q4 2025)",
    "https://iimranchi.ac.in/media/2026/04/Merit-Scholarship.pdf": "Merit-Scholarship.pdf",
    "https://iimranchi.ac.in/media/2026/04/Merit-cum-Means.pdf": "Merit-cum-Means.pdf",
@@ -1356,6 +1358,7 @@
    "https://iimranchi.ac.in/sscv/": "Student Services",
    "https://iimranchi.ac.in/sslp/": "SSLP-Cohort 02",
    "https://iimranchi.ac.in/staff": "Staff",
+   "https://iimranchi.ac.in/startup-conclave-dec2026/": "Startup Conclave 2026",
    "https://iimranchi.ac.in/tender/": "Tender",
    "https://iimranchi.ac.in/tender/2026/11/26589/": "Providing Integrated Services of Catering, Housekeeping, Manpower & Hospitality Management Services at IIM Ranchi",
    "https://iimranchi.ac.in/website-policies-disclosures/": "Website Policies & Disclosure",
@@ -1367,7 +1370,7 @@
  },
  "https://iimranchi.ac.in/p/ipm": {
   "fails": 0,
-  "hash": "cfccef9712bdf89dae2aa81ed5bb603f1514886cfcd0179941d8a0e86bf40ed0",
+  "hash": "766606463257dbaf7ed3219b0b3cc1b1d66e36b98ce32430a4bff016f9b77ca9",
   "links": {
    "https://alumni.iimranchi.ac.in/": "Alumni Portal",
    "https://iimranchi.ac.in/": "© 2026 Indian Institute of Management Ranchi",
@@ -1432,6 +1435,8 @@
    "https://iimranchi.ac.in/media-coverage/2026/11/26414/": "IIM Ranchi Hosted the Bottom Ash User Meet and Focus Group Discussion",
    "https://iimranchi.ac.in/media-coverage/2026/11/26578/": "आईआईएम रांची में आठवीं पुस्तक प्रदर्शनी का भव्य आयोजन",
    "https://iimranchi.ac.in/media-coverage/2026/11/26579/": "मैनेजमेंट की बारीकियों समझीं",
+   "https://iimranchi.ac.in/media-coverage/2026/11/27090/": "IIM Ranchi Concludes MDP on Project Management and Execution Excellence",
+   "https://iimranchi.ac.in/media-coverage/2026/11/27091/": "आईआईएम रांची में पीवीयुएनएल और एनटीपीसी के अधिकारियों के लिए पांच दिवसीय एमडीपी शुरू",
    "https://iimranchi.ac.in/media/2026/02/NewsletterRaconteurV12N3.pdf": "Raconteur: Volume 12.3 (Q4 2025)",
    "https://iimranchi.ac.in/media/2026/04/Merit-Scholarship.pdf": "Merit-Scholarship.pdf",
    "https://iimranchi.ac.in/media/2026/04/Merit-cum-Means.pdf": "Merit-cum-Means.pdf",
@@ -1474,6 +1479,7 @@
    "https://iimranchi.ac.in/sscv/": "Student Services",
    "https://iimranchi.ac.in/sslp/": "SSLP-Cohort 02",
    "https://iimranchi.ac.in/staff": "Staff",
+   "https://iimranchi.ac.in/startup-conclave-dec2026/": "Startup Conclave 2026",
    "https://iimranchi.ac.in/tender/": "Tender",
    "https://iimranchi.ac.in/tender/2026/11/26589/": "Providing Integrated Services of Catering, Housekeeping, Manpower & Hospitality Management Services at IIM Ranchi",
    "https://iimranchi.ac.in/website-policies-disclosures/": "Website Policies & Disclosure",
@@ -3338,7 +3344,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "15bb34993a2b8d0e6ced1d9ac016b2e805f2359694d61a71f105faa52b09af8b",
+  "hash": "1358c891973374abe661d213b626483e2d9caaac94a82af3c0e0b8668bcda01f",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -3970,7 +3976,7 @@
  },
  "https://www.iimj.ac.in/": {
   "fails": 0,
-  "hash": "782c6570b1ba132c724ca4e5d4e5aee9d88700697327e7842488c18e535d6c90",
+  "hash": "38be3490a51c4417bed156562a1fb9ec8da848aa88cf55eb7ecc1bdc6ee35689",
   "links": {
    "https://edegrees.iimj.ac.in/executive-mba/?utm_content=iimj-embapartner_referralprograms_list": "View More",
    "https://edegrees.iimj.ac.in/online-bba/?utm_content=iimj-ebbapartner_referralprograms_list": "View More",
@@ -5264,7 +5270,7 @@
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "f8de7a88eb46fcd3f0ff3137edd5e56b583c16c792edc19fa921c4ab69b12f41",
+  "hash": "fa169afc8ad654ae754412e0eb1c3a89fbaa7be9eb2bdfe93ad39636845b111f",
   "links": {
    "https://advertising.nmims.edu/": "Branding & Advertising",
    "https://aoa.nmims.edu/": "Aviation",
