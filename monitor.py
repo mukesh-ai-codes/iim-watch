@@ -49,8 +49,11 @@ def load_urls():
             line = line.strip()
             if not line or line.startswith("#") or "|" not in line:
                 continue
-            name, url = [p.strip() for p in line.split("|", 1)]
-            sites.append((name, url))
+            parts = [p.strip() for p in line.split("|")]
+            name, url = parts[0], parts[1]
+            # optional 3rd field "text": also alert when the page's wording/dates change
+            mode = parts[2].lower() if len(parts) > 2 else ""
+            sites.append((name, url, mode))
     return sites
 
 
@@ -128,12 +131,16 @@ def fetch(url):
     raise RuntimeError(str(first)[:150] + (" [browser mode]" if cffi_requests else " [basic mode]"))
 
 
+# lines that change on their own (site-wide stamps) — never alert on these
+NOISE_LINE = re.compile(r"last\s*updated|visitor|hit\s*count|copyright|©|all rights reserved", re.I)
+
+
 def snapshot(url):
-    """Return (links:dict url->text, text_hash) for a page."""
+    """Return (links:dict url->text, text_hash, text_lines) for a page."""
     r = fetch(url)
     ctype = r.headers.get("Content-Type", "")
     if "html" not in ctype and not r.text.lstrip().startswith("<"):
-        return {}, hashlib.sha256(r.content).hexdigest()
+        return {}, hashlib.sha256(r.content).hexdigest(), []
     soup = BeautifulSoup(r.text, "html.parser")
     for tag in soup(["script", "style", "noscript"]):
         tag.decompose()
@@ -145,19 +152,26 @@ def snapshot(url):
         text = clean(a.get_text(" ")) or clean(a.get("title")) or u.rsplit("/", 1)[-1]
         if u not in links or len(text) > len(links[u]):
             links[u] = text[:200]
+    # visible text, line by line (for "text" mode pages such as key-dates tables)
+    lines, seen = [], set()
+    for ln in soup.get_text("\n").split("\n"):
+        ln = clean(ln)[:300]
+        if ln and ln not in seen and not NOISE_LINE.search(ln):
+            seen.add(ln)
+            lines.append(ln)
     # visible-text hash (numbers stripped so counters/clocks don't trigger)
     body = clean(soup.get_text(" "))
     body = re.sub(r"\d+", "", body)
-    return links, hashlib.sha256(body.encode()).hexdigest()
+    return links, hashlib.sha256(body.encode()).hexdigest(), lines
 
 
 def check(site):
-    name, url = site
+    name, url, mode = site
     try:
-        links, h = snapshot(url)
-        return name, url, links, h, None
+        links, h, lines = snapshot(url)
+        return name, url, mode, links, h, lines, None
     except Exception as e:  # noqa: BLE001
-        return name, url, None, None, f"{type(e).__name__}: {str(e)[:120]}"
+        return name, url, mode, None, None, None, f"{type(e).__name__}: {str(e)[:120]}"
 
 
 # ---------------------------------------------------------------- notify
@@ -219,7 +233,7 @@ def main():
         results = list(pool.map(check, sites))
 
     updates, down, recovered, ok, failed = [], [], [], 0, []
-    for name, url, links, h, err in results:
+    for name, url, mode, links, h, lines, err in results:
         s = state.setdefault(url, {"name": name, "links": {}, "hash": None, "fails": 0})
         s["name"] = name
         if err:
@@ -234,19 +248,41 @@ def main():
         s["fails"] = 0
         old_links = s.get("links", {})
         new = {u: t for u, t in links.items() if u not in old_links}
+        # same link, new wording (e.g. "BMS AT 2025" -> "BMS AT 2027")
+        renamed = {u: (old_links[u], t) for u, t in links.items()
+                   if u in old_links and t and old_links[u]
+                   and t.lower() != old_links[u].lower()}
         if s.get("hash") is not None and not first_run:
-            if len(new) > BIG_CHANGE:
-                updates.append(f"🔄 {name}: page changed a lot ({len(new)} new links — "
-                               f"possibly a redesign). Check: {url}")
-            elif new:
+            if len(new) + len(renamed) > BIG_CHANGE:
+                updates.append(f"🔄 {name}: page changed a lot ({len(new) + len(renamed)} "
+                               f"links new/changed — possibly a redesign). Check: {url}")
+            elif new or renamed:
                 lines = [f"📢 {name}"]
                 for u, t in list(new.items())[:MAX_LINKS_PER_SITE]:
                     lines.append(f"  • {t}\n    {u}")
                 if len(new) > MAX_LINKS_PER_SITE:
                     lines.append(f"  …and {len(new) - MAX_LINKS_PER_SITE} more: {url}")
+                for u, (old_t, t) in list(renamed.items())[:MAX_LINKS_PER_SITE]:
+                    lines.append(f"  ✏️ {t}\n    (was: {old_t})\n    {u}")
                 updates.append("\n".join(lines))
             elif h != s.get("hash") and not links:
                 updates.append(f"📄 {name}: file/page content changed\n  {url}")
+        if mode == "text":
+            old_lines = s.get("text")
+            if old_lines is not None and not first_run:
+                old_set, new_set = set(old_lines), set(lines)
+                added = [ln for ln in lines if ln not in old_set]
+                removed = [ln for ln in old_lines if ln not in new_set]
+                if added or removed:
+                    msg = [f"🗓️ {name}: page text changed\n  {url}"]
+                    msg += [f"  ➕ {ln}" for ln in added[:8]]
+                    msg += [f"  ➖ {ln}" for ln in removed[:8]]
+                    if len(added) > 8 or len(removed) > 8:
+                        msg.append("  …more changes — open the page")
+                    updates.append("\n".join(msg))
+            s["text"] = lines
+        else:
+            s.pop("text", None)
         # keep union of links so items that flicker don't re-alert
         merged = dict(old_links)
         merged.update(links)
@@ -254,7 +290,7 @@ def main():
         s["hash"] = h
 
     # forget sites removed from urls.txt
-    current = {u for _, u in sites}
+    current = {u for _, u, _ in sites}
     for u in list(state):
         if u not in current:
             del state[u]
