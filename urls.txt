@@ -1,9 +1,12 @@
 # IPMAT / IIM UG official-update watch list
-# Format:  Name | URL      (lines starting with # are ignored)
+# Format:  Name | URL            (lines starting with # are ignored)
+#          Name | URL | text     (also alert when dates/wording on the page change)
 
 # --- IPMAT Indore + colleges using its score ---
-IIM Indore (home) | https://www.iimidr.ac.in/
 IIM Indore IPM admissions | https://iimidr.ac.in/programmes/academic-programmes/five-year-integrated-programme-in-management-ipm/ipm-admissions-details/
+IIM Indore IPM programme | https://iimidr.ac.in/programmes/academic-programmes/five-year-integrated-programme-in-management-ipm/
+IIM Indore announcements | https://iimidr.ac.in/announcements/
+IIM Indore placement reports | https://iimidr.ac.in/placements/final-placement/
 IIM Ranchi IPM | https://iimranchi.ac.in/p/ipm
 IIM Ranchi (home) | https://iimranchi.ac.in/
 IIM Shillong IPM | https://www.iimshillong.ac.in/ipm/admission-process
@@ -17,7 +20,8 @@ IIM Sambalpur BS portal | https://registration.iimsambalpur.ac.in/portal/SignIn/
 IIM Sambalpur (home) | https://iimsambalpur.ac.in/
 
 # --- IPMAT Rohtak ---
-IIM Rohtak (home) | https://www.iimrohtak.ac.in/
+IIM Rohtak IPM admission | https://iimrohtak.ac.in/ipm-admission.php
+IIM Rohtak IPM important dates | https://www.iimrohtak.ac.in/ipm-important-date.php | text
 
 # --- JIPMAT ---
 NTA JIPMAT | https://exams.nta.nic.in/jipmat/
@@ -35,6 +39,10 @@ IIM Bangalore (home) | https://www.iimb.ac.in/
 
 # --- Other IIM UG ---
 IIM Kozhikode BMS | https://www.iimk.ac.in/admission_announcements
+IIM Kozhikode BMS page | https://iimk.ac.in/academic-programmes/BMS
+IIM Kozhikode BMS overview | https://iimk.ac.in/academic-programmes/BMS/bms-overview
+IIM Kozhikode BMS admission | https://iimk.ac.in/academic-programmes/BMS/bms-admission-overview
+IIM Kozhikode BMS key dates | https://iimk.ac.in/academic-programmes/BMS/bms-key-dates | text
 IIM Mumbai BS overview | https://iimmumbai.ac.in/ug-programme-overview
 IIM Mumbai admissions | https://iimmumbai.ac.in/admissions/
 IIM Lucknow (home) | https://www.iiml.ac.in/
