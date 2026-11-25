@@ -41,7 +41,7 @@
   "name": "IIM Sirmaur admissions"
  },
  "https://admissions.nirmauni.ac.in/ibbamba.html": {
-  "fails": 0,
+  "fails": 1,
   "hash": "ed40e3f614567693eb9f72447968db3dcfdb999d703144b15c0db18468c7bd60",
   "links": {
    "https://admissions-im.nirmauni.ac.in/Student/": "Apply Now / Login",
@@ -149,7 +149,7 @@
  },
  "https://christuniversity.in/": {
   "fails": 0,
-  "hash": "72b1bce7954edad271ec7aaa52ca17366d872c1c9441395cbedd107eec503076",
+  "hash": "f200d0b9e40d5329cb3f93aa703be4ac86496def0e48a309e0f79fe916356247",
   "links": {
    "http://alumni.christuniversity.in/": "Alumni",
    "http://decibel.christuniversity.in/": "Campus Radio",
@@ -3338,7 +3338,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "2ffed81339bd7f5485b0dbf158f43aef2fa0d3dbd14bc413f8380ca07a2240d6",
+  "hash": "15bb34993a2b8d0e6ced1d9ac016b2e805f2359694d61a71f105faa52b09af8b",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -5264,7 +5264,7 @@
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "643d75d54b0f7d606cd44b15892ff538e1fbcdabf339551e8dc6d0c47984eb3a",
+  "hash": "f8de7a88eb46fcd3f0ff3137edd5e56b583c16c792edc19fa921c4ab69b12f41",
   "links": {
    "https://advertising.nmims.edu/": "Branding & Advertising",
    "https://aoa.nmims.edu/": "Aviation",
