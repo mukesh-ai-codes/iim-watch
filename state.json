@@ -66,7 +66,7 @@
  },
  "https://cetcell.mahacet.org/": {
   "fails": 0,
-  "hash": "2c491d945ff285b7b9b4ed5a5bf6c4e5db6ff1701593ebf27dc9dcb694f30fba",
+  "hash": "46093e65a79b7f1cc4c458ada0e0e3ac691ab7bc6144ecd21820f382b57f27ca",
   "links": {
    "https://cetcell.mahacet.org/": "Home",
    "https://cetcell.mahacet.org/2022-2023-3/": "2022-2023",
@@ -125,7 +125,7 @@
    "https://cetcell.mahacet.org/wp-content/uploads/2026/08/minority_notice.pdf": "minority_notice.pdf",
    "https://cetcell.mahacet.org/wp-content/uploads/2026/09/ACAP-NOTICE-2026.pdf": "परिपत्रक : तंत्रशिक्षण विभागाअंतर्गत येणाऱ्या अभ्यासक्रमांच्या संस्थास्तरीय जागा आणि कॅप (CAP) फेऱ्यांनंतर उर्वरित रिक्त जागांच्या प्रवेश प्रक्रियेबाबत संबंधित सर्व संस्था, विद्यार्थी व पालकांसाठी सूच",
    "https://cetcell.mahacet.org/wp-content/uploads/2026/09/Cicular_B.Arch-and-M.Arch_.pdf": "Cicular_B.Arch-and-M.Arch_.pdf",
-   "https://cetcell.mahacet.org/wp-content/uploads/2026/09/Cicular_CVC_submission.pdf": "उच्च शिक्षण विभाग : महत्त्वाची सूचना सन २०२६-२७ शैक्षणिक वर्षातील केंद्रीभूत प्रवेश प्रक्रियेअंतर्गत प्रवेश घेतलेल्या उमेदवारांसाठी जात वैधता प्रमाणपत्र (Cast Validity Certificate) सादर करण्यास मुदतवा",
+   "https://cetcell.mahacet.org/wp-content/uploads/2026/09/Cicular_CVC_submission.pdf": "Cicular_CVC_submission.pdf",
    "https://cetcell.mahacet.org/wp-content/uploads/2026/09/Cut-off-circular.pdf": "Cut-off-circular.pdf",
    "https://cetcell.mahacet.org/wp-content/uploads/2026/09/Notice-Addtional-Fees-Demand-2.pdf": "Notice-Addtional-Fees-Demand-2.pdf",
    "https://cetcell.mahacet.org/wp-content/uploads/2026/09/Notice_OSD_Asst_legal_officer-1.pdf": "Notice_OSD_Asst_legal_officer-1.pdf",
@@ -138,6 +138,7 @@
    "https://cetcell.mahacet.org/wp-content/uploads/2026/10/Circular_social_media_19102026.pdf": "प्रसिद्ध पत्रक :सोशल मीडियाद्वारे चुकीची व दिशाभूल करणारी माहिती प्रसारित केल्यास सीईटी कक्षाकडून कायदेशीर कारवाई",
    "https://cetcell.mahacet.org/wp-content/uploads/2026/10/Notice-No.01-CET-Registration.pdf": "Notice-No.01-CET-Registration.pdf",
    "https://cetcell.mahacet.org/wp-content/uploads/2026/10/Notice-No.02_Extension-for-Registration.pdf": "Notice-No.02_Extension-for-Registration.pdf",
+   "https://cetcell.mahacet.org/wp-content/uploads/2026/11/20261126002820.pdf": "सहाय्यक विधी अधिकारी",
    "https://cetcell.mahacet.org/wp-content/uploads/2026/11/Cet_2027_28.pdf": "Syllabus of various CET’s under Technical Education Department for A.Y. 2027-2028",
    "https://cetcell.mahacet.org/wp-content/uploads/2026/11/DATES-OF-COMMENCEMENT-OF-MAHA-CET-2027-16-NOV-2026.pdf": "शैक्षणिक वर्ष २०२७-२८ करिता प्रवेश परीक्षांबाबत प्रसिद्धीपत्रक",
    "https://cetcell.mahacet.org/wp-content/uploads/2026/11/Notice-No.03_Objection-Tracking.pdf": "Notice-No.03_Objection-Tracking.pdf",
@@ -149,7 +150,7 @@
  },
  "https://christuniversity.in/": {
   "fails": 0,
-  "hash": "e69c34e0090c4c25261b7e746b017b9774183c8b561ae06ae4ddd6991a1fa16c",
+  "hash": "1a6c6a842e2559c59c8711e4f3652998a9e41ad4694ec32071cffe00a2fbea2f",
   "links": {
    "http://alumni.christuniversity.in/": "Alumni",
    "http://decibel.christuniversity.in/": "Campus Radio",
@@ -233,6 +234,9 @@
    "https://christuniversity.in/events/37456": "Nov 25 2026 Experiential Learning Lab Spanish Cuisine 25 Nov 12:30 PM - 02:00 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37460": "Dec 07 2026 Workshop on Artificial Intelligence in Chemistry 07 Dec - 11 Dec 07:00 PM - 08:30 PM Bangalore Central Campus",
    "https://christuniversity.in/events/37476": "Dec 02 2026 Beyond Dashboards: AI-Driven Enterprise Analytics 02 Dec - 04 Dec 09:00 AM - 04:30 PM Bangalore Central Campus",
+   "https://christuniversity.in/events/37484": "Dec 01 2026 Generative AI for All - An Engaging Workshop 01 Dec 09:00 AM - 04:30 PM Bangalore Central Campus",
+   "https://christuniversity.in/events/37487": "Nov 30 2026 Public Viva-Voce Examination - Liya Joseph 30 Nov 09:45 AM - 12:00 PM Bangalore Central Campus",
+   "https://christuniversity.in/events/37489": "Nov 26 2026 Guest Lecture on The better Constitution we almost had, and we still can have 26 Nov 02:30 PM - 04:30 PM Bangalore Central Campus",
    "https://christuniversity.in/examination": "Examination Information & Resources",
    "https://christuniversity.in/fcra": "FCRA",
    "https://christuniversity.in/founder": "Founder",
@@ -388,7 +392,7 @@
  },
  "https://dbe.iimb.ac.in/admissions": {
   "fails": 0,
-  "hash": "d8e1b2be069a31f27837fa8aed4c1d1e02153402fff84f4af577236a0e637e2f",
+  "hash": "a655e0ceceef50dc42d88b2e8b027c743bbda73acbe65e52437b8e821265d16f",
   "links": {
    "https://admissions.dbe.iimb.ac.in/login": "Applicant Login",
    "https://dbe.iimb.ac.in/": "Home",
@@ -1711,7 +1715,7 @@
  },
  "https://iimk.ac.in/academic-programmes/BMS/bms-key-dates": {
   "fails": 0,
-  "hash": "3caae0aa77269eabf0e2ba6cbfcfff9ba695bc754bd088b4e43e285333831905",
+  "hash": "bb9ef4373a9b88e39426713c88a0cc9daac300406478883b9dbd96c938fd6d83",
   "links": {
    "http://researchblog.iimk.ac.in/": "Research Blog",
    "https://forms.iimk.ac.in/akumen/summerschool.php": "AKumen Summer School",
@@ -2112,8 +2116,7 @@
    "Offer Release",
    "June 2027",
    "Registration",
-   "1",
-   "week of August 2027",
+   "Last week of July 2027",
    "×",
    "Executive Education Programmes - IIM Kozhikode",
    "Indian Institute of Management Kozhikode",
@@ -3831,7 +3834,7 @@
  },
  "https://npat.nmims.edu/": {
   "fails": 0,
-  "hash": "f383f2efd5e49d56fe184798f86ebd50ad116a20b754bc7b248c902fc5258783",
+  "hash": "83267b48ad16997737d064daec175e215e39565bbd16fce19e41ffb6cc53a42d",
   "links": {
    "https://nmims.edu/docs/2026/NPAT_NCET_MST_NLAT_2026-(For-SF).pdf": "View Dates",
    "https://npat.nmims.edu/": "Home",
@@ -4763,7 +4766,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "0dccdfe039dec2d8a914b724f654d31591537aa1339217f3737060beb229ad92",
+  "hash": "33ae2bbeeba9c30dea03585f02619f4b9d769b66f6236602ac3cbc4a0c5965b1",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -4947,7 +4950,7 @@
  },
  "https://www.iift.ac.in/": {
   "fails": 0,
-  "hash": "70163f7810886bfc6de618a5adddd99055fdfb75d07c8f3088659540123a4b33",
+  "hash": "1769e76ca8531667d6629f8976ade1f5cdebfcdefb15f10bf1f4f3a49ef23be7",
   "links": {
    "http://epay.iift.ac.in/myspace/": "Myspace",
    "https://cc.iift.ac.in/library/index.asp": "Library Resources",
@@ -5065,7 +5068,7 @@
  },
  "https://www.iimb.ac.in/": {
   "fails": 0,
-  "hash": "6405ec5c06375bab9a03812ddabba09db50337e69114cf5682c560289fb5db4d",
+  "hash": "4e81f1882c5bd792319cf0091534c62f959c4b893fb3f4927cb581666cd5160a",
   "links": {
    "https://blog.iimb.ac.in/": "Blog",
    "https://dbe.iimb.ac.in/": "BBA in Digital Business and Entrepreneurship (BBA DBE)",
@@ -5208,6 +5211,7 @@
    "https://www.iimb.ac.in/mijsc/": "Mizuho India Japan Study Centre",
    "https://www.iimb.ac.in/nirf-india-rankings": "NIRF",
    "https://www.iimb.ac.in/node/10200": "18 th Jan Centre for Teaching & Learning invites applications for Doctoral Consortium on Teaching 2027 Read More",
+   "https://www.iimb.ac.in/node/11002": "3 rd Dec Research & Publications Office to host seminar on ‘Limits to VAT Self-Enforcement: Role of Network Frictions in Compliance’ Read More",
    "https://www.iimb.ac.in/node/12074": "Celebrating Team India’s Ultra Running feat: IIMB hosts panel discussion with 2026 IAU 24H Asia and Oceania champions",
    "https://www.iimb.ac.in/node/13522": "Carbon Footprint Report",
    "https://www.iimb.ac.in/node/14826": "Journal Article: 'Unpacking the Speed of MNE Internationalization: Theoretical Insights and Future Directions' Prof. Sandeep Yadav",
@@ -5220,6 +5224,7 @@
    "https://www.iimb.ac.in/node/757": "11 th Mar CSITM to host first Doctoral Consortium under InCIS 2027 on 11th March Read More",
    "https://www.iimb.ac.in/node/762": "12 th Dec IIM Bangalore to host AIB South Asia Chapter & AIB Sustainability Shared Interest Group paper development workshop Read More",
    "https://www.iimb.ac.in/node/768": "1 st Dec CSITM to host 'The India Lens: Building Theory from Indian Phenomena', a two-day Scholarly Advancement Mentorship Workshop Read More",
+   "https://www.iimb.ac.in/node/7716": "3 rd Dec Research & Publications Office to host seminar on ‘Agency in Medical Skilling: Defiantly Human and Reliably Artificial’ Read More",
    "https://www.iimb.ac.in/node/780": "26 th Nov Centre for Capital Markets & Risk Management to conduct Bloomberg certificate programme on 26 & 27 November Read More",
    "https://www.iimb.ac.in/node/833": "11 th Jan IIM Bangalore to host 18th IMR Doctoral Conference on 11-12 January 2027 Read More",
    "https://www.iimb.ac.in/node/9855": "Photo Gallery",
@@ -5982,7 +5987,7 @@
  },
  "https://www.iimshillong.ac.in/": {
   "fails": 0,
-  "hash": "fa6b8a0dda9806197561f531c6ee09eed5d9e148ef222a20e8e9f07badecc9ff",
+  "hash": "c30a60c31c63ce62725964063ee26b232bd2f5c7a2ab9a5d797c505918bd01f0",
   "links": {
    "http://lms.iimshillong.ac.in/": "LMS",
    "https://alumni.iimshillong.ac.in/": "Alumni Portal",
@@ -6714,7 +6719,7 @@
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "4756f2c4fc7a714ded376ec37cd740ebcafd02feaf2410b1d70d2e26b0632cfc",
+  "hash": "5f127bf23bc8aae15128df7943cee2d073b80c721e99172c6c5045bf9ff45320",
   "links": {
    "https://advertising.nmims.edu/": "Branding & Advertising",
    "https://aoa.nmims.edu/": "Aviation",
@@ -7011,7 +7016,7 @@
  },
  "https://www.tapmi.edu.in/": {
   "fails": 0,
-  "hash": "724ef9b64c512bd421bd44bfd06a3cbf0929890dc643be45d2a546f024bbc2a4",
+  "hash": "e78e8b397a8f013138e9141db2961a22df7b404816d0f0c95f3eab8710f53652",
   "links": {
    "https://www.tapmi.edu.in": "www.tapmi.edu.in",
    "https://www.tapmi.edu.in/": "",
@@ -7040,6 +7045,7 @@
    "https://www.tapmi.edu.in/placement/": "Placement and Corporate Engagement",
    "https://www.tapmi.edu.in/programs-and-academics/": "Program Type",
    "https://www.tapmi.edu.in/programs/bba-honors/": "BBA Honors",
+   "https://www.tapmi.edu.in/programs/executive-education-programs/": "TAPMI Manipal",
    "https://www.tapmi.edu.in/programs/internationalization/": "Internationalization",
    "https://www.tapmi.edu.in/programs/ipm/": "Integrated Program in Management (IPM)",
    "https://www.tapmi.edu.in/programs/mba-bkfs/": "MBA - BKFS",
