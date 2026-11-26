@@ -38,7 +38,8 @@
    "https://admissions.iimsirmaur.ac.in/phd-withdrawal-policy-2026": "Withdrawal Policy",
    "https://admissions.iimsirmaur.ac.in/register": "Register Now"
   },
-  "name": "IIM Sirmaur admissions"
+  "name": "IIM Sirmaur admissions",
+  "via": "direct"
  },
  "https://admissions.nirmauni.ac.in/ibbamba.html": {
   "fails": 0,
@@ -53,7 +54,8 @@
    "https://management.nirmauni.ac.in/admission-aid/financial-aid/scholarships": "Click Here",
    "https://management.nirmauni.ac.in/admission-aid/postgraduate/mba-and-mba-hrm/": "https://management.nirmauni.ac.in/admission-aid/postgraduate/mba-and-mba-hrm/"
   },
-  "name": "Nirma admissions BBA-MBA"
+  "name": "Nirma admissions BBA-MBA",
+  "via": "direct"
  },
  "https://apps.iimshillong.ac.in/admission/": {
   "fails": 0,
@@ -62,7 +64,8 @@
    "https://apps.iimshillong.ac.in/admission/student_verify.php": "📄 View My Submitted Application",
    "https://www.iimshillong.ac.in/": "Main Website"
   },
-  "name": "IIM Shillong portal"
+  "name": "IIM Shillong portal",
+  "via": "direct"
  },
  "https://cetcell.mahacet.org/": {
   "fails": 0,
@@ -146,7 +149,8 @@
    "https://fn.mahacet.org": "Foreign Candidate Registration A.Y 2026-27",
    "https://fn.mahacet.org/": "Foreign Candidate Registration A.Y 2026-27"
   },
-  "name": "MAH BBA/BMS CET (Maharashtra CET Cell)"
+  "name": "MAH BBA/BMS CET (Maharashtra CET Cell)",
+  "via": "direct"
  },
  "https://christuniversity.in/": {
   "fails": 0,
@@ -350,7 +354,8 @@
    "https://online.christuniversity.in": "Online Degree 9 programmes Discover online programmes that support in-depth knowledge building and accelerate career progression through flexible learning View more BCom BCA MCA MSc",
    "https://online.christuniversity.in/": "Online Programmes Flexible learning for a dynamic future."
   },
-  "name": "Christ University"
+  "name": "Christ University",
+  "via": "direct"
  },
  "https://cuet.nta.nic.in/": {
   "fails": 0,
@@ -388,7 +393,8 @@
    "https://cuet.nta.nic.in/terms-and-conditions/": "Terms and Conditions",
    "https://cuet.nta.nic.in/universities/": "Universities"
   },
-  "name": "CUET UG (NTA)"
+  "name": "CUET UG (NTA)",
+  "via": "direct"
  },
  "https://dbe.iimb.ac.in/admissions": {
   "fails": 0,
@@ -412,7 +418,8 @@
    "https://dbe.iimb.ac.in/zonal-groups/": "Zonal Groups",
    "https://portal.dbe.iimb.ac.in/login": "Student Login"
   },
-  "name": "IIMB BBA DBE admissions"
+  "name": "IIMB BBA DBE admissions",
+  "via": "direct"
  },
  "https://dbe.iimb.ac.in/category/news-and-announcements/": {
   "fails": 0,
@@ -446,7 +453,8 @@
    "https://dbe.iimb.ac.in/zonal-groups/": "Zonal Groups",
    "https://portal.dbe.iimb.ac.in/login": "Student Login"
   },
-  "name": "IIMB BBA DBE news"
+  "name": "IIMB BBA DBE news",
+  "via": "direct"
  },
  "https://exams.nta.nic.in/jipmat/": {
   "fails": 0,
@@ -476,7 +484,8 @@
    "https://exams.nta.nic.in/registration-for-jipmat-2026/": "Registration for JIPMAT – 2026",
    "https://exams.nta.nic.in/score-card-of-jipmat-2026/": "Score Card of JIPMAT – 2026"
   },
-  "name": "NTA JIPMAT"
+  "name": "NTA JIPMAT",
+  "via": "direct"
  },
  "https://iimamritsar.ac.in/academics/ipm/about-program": {
   "fails": 0,
@@ -668,7 +677,8 @@
    "https://www.iimamritsar.ac.in/students-corner/committee/sports-committee": "Sports Committee",
    "https://www.iimamritsar.ac.in/vigilance-user-login": "Vigilance"
   },
-  "name": "IIM Amritsar IPM (BSQFE)"
+  "name": "IIM Amritsar IPM (BSQFE)",
+  "via": "direct"
  },
  "https://iimbg.ac.in/programs/ipm": {
   "fails": 0,
@@ -740,7 +750,8 @@
    "https://lms.iimbg.ac.in/": "LMS (IIMBG Moodle)",
    "https://old.iimbg.ac.in/": "Old IIMBG Website"
   },
-  "name": "IIM Bodh Gaya IPM"
+  "name": "IIM Bodh Gaya IPM",
+  "via": "direct"
  },
  "https://iimidr.ac.in/announcements/": {
   "fails": 0,
@@ -830,7 +841,8 @@
    "https://library.iimidr.ac.in": "Learning Centre (LC)",
    "https://library.iimidr.ac.in/": "Learning Centre (LC)"
   },
-  "name": "IIM Indore announcements"
+  "name": "IIM Indore announcements",
+  "via": "direct"
  },
  "https://iimidr.ac.in/placements/final-placement/": {
   "fails": 0,
@@ -940,7 +952,8 @@
    "https://library.iimidr.ac.in": "Learning Centre (LC)",
    "https://library.iimidr.ac.in/": "Learning Centre (LC)"
   },
-  "name": "IIM Indore placement reports"
+  "name": "IIM Indore placement reports",
+  "via": "direct"
  },
  "https://iimidr.ac.in/programmes/academic-programmes/five-year-integrated-programme-in-management-ipm/": {
   "fails": 0,
@@ -1036,7 +1049,8 @@
    "https://library.iimidr.ac.in": "Learning Centre (LC)",
    "https://library.iimidr.ac.in/": "Learning Centre (LC)"
   },
-  "name": "IIM Indore IPM programme"
+  "name": "IIM Indore IPM programme",
+  "via": "direct"
  },
  "https://iimidr.ac.in/programmes/academic-programmes/five-year-integrated-programme-in-management-ipm/ipm-admissions-details/": {
   "fails": 0,
@@ -1140,7 +1154,8 @@
    "https://library.iimidr.ac.in": "Learning Centre (LC)",
    "https://library.iimidr.ac.in/": "Learning Centre (LC)"
   },
-  "name": "IIM Indore IPM admissions"
+  "name": "IIM Indore IPM admissions",
+  "via": "direct"
  },
  "https://iimj.ac.in/programs/ipm/ipm-admission-policy.php": {
   "fails": 0,
@@ -1332,10 +1347,11 @@
    "https://www.iimj.ac.in/video-gallery.php": "Video Gallery",
    "https://www.iimj.ac.in/viksit-bharat2047.php": "Viksit Bharat@2047"
   },
-  "name": "IIM Jammu IPM policy"
+  "name": "IIM Jammu IPM policy",
+  "via": "direct"
  },
  "https://iimk.ac.in/academic-programmes/BMS": {
-  "fails": 0,
+  "fails": 1,
   "hash": "27c36e1a1a25568ba8fb7ceb50103eb803a94d4b0626a46c73f00eca10316428",
   "links": {
    "http://researchblog.iimk.ac.in/": "Research Blog",
@@ -1524,7 +1540,7 @@
   "name": "IIM Kozhikode BMS page"
  },
  "https://iimk.ac.in/academic-programmes/BMS/bms-admission-overview": {
-  "fails": 0,
+  "fails": 1,
   "hash": "0aea1e1c9331212cc7491a8d20cb349d682c939f7d6f2aadd8522b105cc6b5f1",
   "links": {
    "http://researchblog.iimk.ac.in/": "Research Blog",
@@ -1714,7 +1730,7 @@
   "name": "IIM Kozhikode BMS admission"
  },
  "https://iimk.ac.in/academic-programmes/BMS/bms-key-dates": {
-  "fails": 0,
+  "fails": 1,
   "hash": "bb9ef4373a9b88e39426713c88a0cc9daac300406478883b9dbd96c938fd6d83",
   "links": {
    "http://researchblog.iimk.ac.in/": "Research Blog",
@@ -2140,7 +2156,7 @@
   ]
  },
  "https://iimk.ac.in/academic-programmes/BMS/bms-overview": {
-  "fails": 0,
+  "fails": 1,
   "hash": "8a4c2289f3e636ed5e611ac4dd8688dcff86b7003a490ca95f0d74a8423df24c",
   "links": {
    "http://researchblog.iimk.ac.in/": "Research Blog",
@@ -2357,13 +2373,15 @@
    "https://iimmumbai.ac.in/pgdex-vlfm-course-design": "Course Curriculum",
    "https://iimmumbai.ac.in/ug-admission-2026/candidate/registration": "Login"
   },
-  "name": "IIM Mumbai admissions"
+  "name": "IIM Mumbai admissions",
+  "via": "direct"
  },
  "https://iimmumbai.ac.in/ug-programme-overview": {
   "fails": 0,
   "hash": "09f1d6e2cccb31e2db9005caa0c10fafcccc277a7914865bdef35dca4882ee46",
   "links": {
    "https://dic.iimmumbai.ac.in/": "AI & Agentic AI for Business Leaders new-notification",
+   "https://execed.iimmumbai.ac.in/program/iim-mumbai/entrepreneurship-innovation-management": "Post Graduate Program for Executive in Entrepreneurship and Innovation Management (PGPEx-EIM) new-notification",
    "https://execed.iimmumbai.ac.in/program/iim-mumbai/mba": "MBA - Wealth Management new-notification",
    "https://execed.iimmumbai.ac.in/program/iim-mumbai/mba-pgpm": "Two-Year Weekend Post-Graduate in Management (MBA-PGPM) new-notification",
    "https://execed.iimmumbai.ac.in/program/iim-mumbai/media-entertainment": "MBA in Creative Industries new-notification",
@@ -2543,11 +2561,12 @@
    "https://iimmumbai.ac.in/vlfm-programme-fee-structure": "Fee Structure",
    "https://iimmumbai.ac.in/women-development-cell-and-icc": "Women Development Cell and ICC"
   },
-  "name": "IIM Mumbai BS overview"
+  "name": "IIM Mumbai BS overview",
+  "via": "direct"
  },
  "https://iimranchi.ac.in/": {
   "fails": 0,
-  "hash": "766606463257dbaf7ed3219b0b3cc1b1d66e36b98ce32430a4bff016f9b77ca9",
+  "hash": "023ff9e5d5946c26ab6440e403104e686769b08944a6d9065d9ee6aa8d421d59",
   "links": {
    "https://alumni.iimranchi.ac.in/": "Alumni Portal",
    "https://iimranchi.ac.in/": "© 2026 Indian Institute of Management Ranchi",
@@ -2582,6 +2601,7 @@
    "https://iimranchi.ac.in/ephd": "Executive Ph.D",
    "https://iimranchi.ac.in/ephd-scholars/": "Our Executive Ph.D. Scholars",
    "https://iimranchi.ac.in/ephd/": "Executive Ph.D.",
+   "https://iimranchi.ac.in/equal-opportunity-cell/": "EOC",
    "https://iimranchi.ac.in/event/15th-convocation/": "",
    "https://iimranchi.ac.in/event/inauguration-of-happiness-corners/": "",
    "https://iimranchi.ac.in/event/space-conclave-2026/": "SC26",
@@ -2590,7 +2610,7 @@
    "https://iimranchi.ac.in/icib-2027/": "International Conference Indian Business-2027",
    "https://iimranchi.ac.in/iim-ranchi": "iim-ranchi",
    "https://iimranchi.ac.in/iip/": "Innovate & Impact Programme (IIP)",
-   "https://iimranchi.ac.in/internal-committee-under-posh-act/": "ICC(POSH)",
+   "https://iimranchi.ac.in/internal-committee-under-posh-act/": "IC(POSH)",
    "https://iimranchi.ac.in/internationalization": "About",
    "https://iimranchi.ac.in/internationalization/": "Student Exchange Programme (STEP)",
    "https://iimranchi.ac.in/ipm": "IPM",
@@ -2657,6 +2677,7 @@
    "https://iimranchi.ac.in/sslp/": "SSLP-Cohort 02",
    "https://iimranchi.ac.in/staff": "Staff",
    "https://iimranchi.ac.in/startup-conclave-dec2026/": "Startup Conclave 2026",
+   "https://iimranchi.ac.in/student-wellness/": "Student Wellness",
    "https://iimranchi.ac.in/tender/": "Tender",
    "https://iimranchi.ac.in/tender/2026/11/26589/": "Providing Integrated Services of Catering, Housekeeping, Manpower & Hospitality Management Services at IIM Ranchi",
    "https://iimranchi.ac.in/website-policies-disclosures/": "Website Policies & Disclosure",
@@ -2664,11 +2685,12 @@
    "https://iimranchi.ac.in/ycp/": "Young Changemakers Programme",
    "https://smf2026.iimranchi.ac.in/": "SMF Conference – 2026"
   },
-  "name": "IIM Ranchi (home)"
+  "name": "IIM Ranchi (home)",
+  "via": "direct"
  },
  "https://iimranchi.ac.in/p/ipm": {
   "fails": 0,
-  "hash": "766606463257dbaf7ed3219b0b3cc1b1d66e36b98ce32430a4bff016f9b77ca9",
+  "hash": "023ff9e5d5946c26ab6440e403104e686769b08944a6d9065d9ee6aa8d421d59",
   "links": {
    "https://alumni.iimranchi.ac.in/": "Alumni Portal",
    "https://iimranchi.ac.in/": "© 2026 Indian Institute of Management Ranchi",
@@ -2703,6 +2725,7 @@
    "https://iimranchi.ac.in/ephd": "Executive Ph.D",
    "https://iimranchi.ac.in/ephd-scholars/": "Our Executive Ph.D. Scholars",
    "https://iimranchi.ac.in/ephd/": "Executive Ph.D.",
+   "https://iimranchi.ac.in/equal-opportunity-cell/": "EOC",
    "https://iimranchi.ac.in/event/15th-convocation/": "",
    "https://iimranchi.ac.in/event/inauguration-of-happiness-corners/": "",
    "https://iimranchi.ac.in/event/space-conclave-2026/": "SC26",
@@ -2711,7 +2734,7 @@
    "https://iimranchi.ac.in/icib-2027/": "International Conference Indian Business-2027",
    "https://iimranchi.ac.in/iim-ranchi": "iim-ranchi",
    "https://iimranchi.ac.in/iip/": "Innovate & Impact Programme (IIP)",
-   "https://iimranchi.ac.in/internal-committee-under-posh-act/": "ICC(POSH)",
+   "https://iimranchi.ac.in/internal-committee-under-posh-act/": "IC(POSH)",
    "https://iimranchi.ac.in/internationalization": "About",
    "https://iimranchi.ac.in/internationalization/": "Student Exchange Programme (STEP)",
    "https://iimranchi.ac.in/ipm": "IPM",
@@ -2778,6 +2801,7 @@
    "https://iimranchi.ac.in/sslp/": "SSLP-Cohort 02",
    "https://iimranchi.ac.in/staff": "Staff",
    "https://iimranchi.ac.in/startup-conclave-dec2026/": "Startup Conclave 2026",
+   "https://iimranchi.ac.in/student-wellness/": "Student Wellness",
    "https://iimranchi.ac.in/tender/": "Tender",
    "https://iimranchi.ac.in/tender/2026/11/26589/": "Providing Integrated Services of Catering, Housekeeping, Manpower & Hospitality Management Services at IIM Ranchi",
    "https://iimranchi.ac.in/website-policies-disclosures/": "Website Policies & Disclosure",
@@ -2785,10 +2809,11 @@
    "https://iimranchi.ac.in/ycp/": "Young Changemakers Programme",
    "https://smf2026.iimranchi.ac.in/": "SMF Conference – 2026"
   },
-  "name": "IIM Ranchi IPM"
+  "name": "IIM Ranchi IPM",
+  "via": "direct"
  },
  "https://iimrohtak.ac.in/ipm-admission.php": {
-  "fails": 0,
+  "fails": 1,
   "hash": "cdbf0122c585e47ef1ccbc89053710963bf38b133f75f2211efe4beeb3a9d0b1",
   "links": {
    "http://elixir.iimrohtak.ac.in/indam2022/": "",
@@ -3020,7 +3045,8 @@
    "https://registration.iimsambalpur.ac.in/portal/SignIn/DSAI": "More Details →",
    "https://registration.iimsambalpur.ac.in/portal/SignIn/MPPolicy": "More Details →"
   },
-  "name": "IIM Sambalpur (home)"
+  "name": "IIM Sambalpur (home)",
+  "via": "direct"
  },
  "https://iimsambalpur.ac.in/?p=17022": {
   "fails": 0,
@@ -3135,7 +3161,8 @@
    "https://registration.iimsambalpur.ac.in/portal/SignIn/DSAI": "More Details →",
    "https://registration.iimsambalpur.ac.in/portal/SignIn/MPPolicy": "More Details →"
   },
-  "name": "IIM Sambalpur BS MPP"
+  "name": "IIM Sambalpur BS MPP",
+  "via": "direct"
  },
  "https://jgu.edu.in/jgbs/admissions/bbahons": {
   "fails": 0,
@@ -3157,7 +3184,8 @@
    "https://jgu.edu.in/jgbs/internalizations": "https://jgu.edu.in/jgbs/internalizations",
    "https://jgu.edu.in/jgbs/research": "Research & Publications"
   },
-  "name": "Jindal JGBS BBA (Hons)"
+  "name": "Jindal JGBS BBA (Hons)",
+  "via": "direct"
  },
  "https://jgu.edu.in/jgbs/admissions/integrated-bba-hons-mba": {
   "fails": 0,
@@ -3179,7 +3207,8 @@
    "https://jgu.edu.in/jgbs/internalizations": "https://jgu.edu.in/jgbs/internalizations",
    "https://jgu.edu.in/jgbs/research": "Research & Publications"
   },
-  "name": "Jindal JGBS BBA+MBA"
+  "name": "Jindal JGBS BBA+MBA",
+  "via": "direct"
  },
  "https://krea.edu.in/": {
   "fails": 0,
@@ -3272,7 +3301,8 @@
    "https://krea.edu.in/working-papers": "Working papers and Case Studies",
    "https://siasadmissions.krea.edu.in/applynow": "BA | BA (Hons) | BSc | BSc (Hons)"
   },
-  "name": "IFMR Krea"
+  "name": "IFMR Krea",
+  "via": "direct"
  },
  "https://management.nirmauni.ac.in/admission-aid/undergraduate/bba-mba-five-year-integrated/": {
   "fails": 0,
@@ -3316,7 +3346,8 @@
    "https://nirmauni.ac.in/campus-map/": "Campus Map",
    "https://nirmauni.ac.in/online-fees-payment/": "Online Fees Payment"
   },
-  "name": "Nirma IM BBA-MBA"
+  "name": "Nirma IM BBA-MBA",
+  "via": "direct"
  },
  "https://mithibai.ac.in/": {
   "fails": 0,
@@ -3518,7 +3549,8 @@
    "https://www.mithibai.ac.in/wp-content/uploads/2026/11/Time-Table-of-Regular-Practical-Examination-Master-of-Arts-Sem-I-November-2026.pdf": "Time Table of Regular Practical Examination Master of Arts Sem – I November, 2026.",
    "https://www.mithibai.ac.in/wp-content/uploads/2026/11/Time-Table-of-Regular-Practical-Examination-Master-of-Science-Sem-I-Oct-Nov-Dec-2026.pdf": "Time Table of Regular Practical Examination Master of Science Sem – I Oct, Nov, Dec, 2026"
   },
-  "name": "Mithibai College"
+  "name": "Mithibai College",
+  "via": "direct"
  },
  "https://news.iimu.ac.in/": {
   "fails": 0,
@@ -3830,7 +3862,8 @@
    "https://news.iimu.ac.in/working-executives-can-now-enhance-their-cv-through-brand-iim-heres-how/": "Working Executives can now enhance their CV through brand IIM; Here’s how",
    "https://news.iimu.ac.in/you-are-lying-how-misinformation-accusations-spread-on-twitter/": "You are lying! How misinformation accusations spread on Twitter"
   },
-  "name": "IIM Udaipur news"
+  "name": "IIM Udaipur news",
+  "via": "direct"
  },
  "https://npat.nmims.edu/": {
   "fails": 0,
@@ -3855,7 +3888,8 @@
    "https://npat.nmims.edu/navi-mumbai-campus.php": "Navi Mumbai Campus",
    "https://www.nmims.edu/privacy-policy.php": "Privacy | Policy"
   },
-  "name": "NMIMS NPAT"
+  "name": "NMIMS NPAT",
+  "via": "direct"
  },
  "https://nta.ac.in/": {
   "fails": 0,
@@ -4739,7 +4773,8 @@
    "https://nta.ac.in/object": "Objectives",
    "https://nta.ac.in/rti": "Right to Information"
   },
-  "name": "NTA (home)"
+  "name": "NTA (home)",
+  "via": "direct"
  },
  "https://registration.iimsambalpur.ac.in/portal/SignIn/MPPolicy-SD": {
   "fails": 0,
@@ -4750,19 +4785,134 @@
    "https://registration.iimsambalpur.ac.in/portal/public/FAQ-BS-MPP-2026.pdf": "FAQ's",
    "https://registration.iimsambalpur.ac.in/portal/public/PM_Vidyalaxmi_Scheme.pdf": "PM-Vidyalaxmi Scheme"
   },
-  "name": "IIM Sambalpur BS portal"
+  "name": "IIM Sambalpur BS portal",
+  "via": "direct"
  },
  "https://ug.iimb.ac.in/": {
-  "fails": 0,
+  "fails": 1,
   "hash": "7643b16f7602b15ef1bdb6aefe02768647b52f3e08dbcc6c6f81462941d09693",
   "links": {},
   "name": "IIMB UG (UGAT/BSc)"
  },
  "https://ug.iimb.ac.in/faq/": {
   "fails": 0,
-  "hash": "7643b16f7602b15ef1bdb6aefe02768647b52f3e08dbcc6c6f81462941d09693",
-  "links": {},
-  "name": "IIMB UG FAQ"
+  "hash": "b1efb825624a533a6a9c98bc372ed57960d0785870460605f37619a3c06484a6",
+  "links": {
+   "https://ug.iimb.ac.in/copyright-policy/": "Copyright Policy",
+   "https://ug.iimb.ac.in/faculty-recruitments": "Faculty Recruitments",
+   "https://ug.iimb.ac.in/faculty/": "Faculty",
+   "https://ug.iimb.ac.in/faq": "FAQ's",
+   "https://ug.iimb.ac.in/faq/": "Right to Information",
+   "https://ug.iimb.ac.in/hi/": "Hindi",
+   "https://ug.iimb.ac.in/hyperlinking-policy/": "Hyperlink Policy",
+   "https://ug.iimb.ac.in/lifeiimb/": "Life@IIMB",
+   "https://ug.iimb.ac.in/policies/": "IIMB Policies",
+   "https://ug.iimb.ac.in/privacy-policy/": "Privacy Policy",
+   "https://ug.iimb.ac.in/programmes/": "Programmes",
+   "https://ug.iimb.ac.in/programmes/bsc-economics/": "BSc Honours– Economics",
+   "https://ug.iimb.ac.in/programmes/bsc-honours-data-sciences/": "BSc Honours – Data Sciences",
+   "https://ug.iimb.ac.in/ug-admissions-2027": "UG Admissions 2027",
+   "https://ug.iimb.ac.in/wp-content/uploads/2025/09/Anti-ragging-IIMB_1-1-1.pdf": "Anti-ragging Policy",
+   "https://ug.iimb.ac.in/wp-content/uploads/2025/09/IIM_Bangalore_Logo.svg-1-768x589-1-1.webp": "Image 3",
+   "https://ug.iimb.ac.in/wp-content/uploads/2026/03/IIMB-Logo-2-4-768x127.png": "Image 1",
+   "https://ug.iimb.ac.in/wp-content/uploads/2026/03/bars-svgrepo-com-1.svg": "Image 2",
+   "https://www.iimb.ac.in/": "IIMB Website",
+   "https://www.iimb.ac.in/hi": "Hindi"
+  },
+  "name": "IIMB UG FAQ",
+  "via": "reader"
+ },
+ "https://ug.iimb.ac.in/ug-admissions-2027/": {
+  "fails": 0,
+  "hash": "d01f89d158ddeef7595a1e8800637c46d063e443d4cce26d51ee3cfbf8087158",
+  "links": {
+   "https://campus.iimb.ac.in/psp/cssisprd/?cmd=login&languageCd=ENG": "Overseas/international Online application",
+   "https://ug.iimb.ac.in/": "Home",
+   "https://ug.iimb.ac.in/copyright-policy/": "Copyright Policy",
+   "https://ug.iimb.ac.in/faculty-recruitments": "Faculty Recruitments",
+   "https://ug.iimb.ac.in/faculty/": "Faculty",
+   "https://ug.iimb.ac.in/faq": "FAQ's",
+   "https://ug.iimb.ac.in/hi/": "Hindi",
+   "https://ug.iimb.ac.in/hyperlinking-policy/": "Hyperlink Policy",
+   "https://ug.iimb.ac.in/lifeiimb/": "Life@IIMB",
+   "https://ug.iimb.ac.in/policies/": "IIMB Policies",
+   "https://ug.iimb.ac.in/privacy-policy/": "Privacy Policy",
+   "https://ug.iimb.ac.in/programmes/": "Programmes",
+   "https://ug.iimb.ac.in/programmes/bsc-economics/": "BSc Honours– Economics",
+   "https://ug.iimb.ac.in/programmes/bsc-honours-data-sciences/": "BSc Honours – Data Sciences",
+   "https://ug.iimb.ac.in/ug-admissions-2027": "UG Admissions 2027",
+   "https://ug.iimb.ac.in/ug-admissions-2027/": "Right to Information",
+   "https://ug.iimb.ac.in/wp-content/uploads/2025/09/Anti-ragging-IIMB_1-1-1.pdf": "Anti-ragging Policy",
+   "https://ug.iimb.ac.in/wp-content/uploads/2025/09/IIM_Bangalore_Logo.svg-1-768x589-1-1.webp": "Image 3",
+   "https://ug.iimb.ac.in/wp-content/uploads/2026/03/IIMB-Logo-2-4-768x127.png": "Image 1",
+   "https://ug.iimb.ac.in/wp-content/uploads/2026/03/bars-svgrepo-com-1.svg": "Image 2",
+   "https://ug.iimb.ac.in/wp-content/uploads/2026/09/Sample-Questions-Admissions-2027.pdf": "Sample Questions",
+   "https://ug.iimb.ac.in/wp-content/uploads/2026/09/UG-Admission-Procedure-International-Candidates-2026.pdf": "International Admission Procedure",
+   "https://ug.iimb.ac.in/wp-content/uploads/2026/10/UG-Admissions-FAQ_2026.pdf": "UG Admissions FAQ's",
+   "https://ug.iimb.ac.in/wp-content/uploads/2026/10/UG-Admissions-Process_2026.pdf": "UG Admissions Process",
+   "https://ug.iimb.ac.in/wp-content/uploads/2026/11/UG-Objections-outcome-2026.pdf": "Objections IIMB UG Admissions Test 2026",
+   "https://www.iimb.ac.in/": "IIMB Website",
+   "https://www.iimb.ac.in/hi": "Hindi"
+  },
+  "name": "IIMB UG admissions 2027",
+  "text": [
+   "Skip to content",
+   "Hindi",
+   "IIMB Website",
+   "Faculty Recruitments",
+   "FAQ's",
+   "UG Admissions 2027",
+   "![Image 1](https://ug.iimb.ac.in/)",
+   "Menu",
+   "* Programmes",
+   "* BSc Honours – Data Sciences",
+   "* BSc Honours– Economics",
+   "* Faculty",
+   "!Image 2",
+   "# UG Admissions 2027",
+   "Home » **UG Admissions 2027**",
+   "## Domestic Admissions",
+   "Objections IIMB UG Admissions Test 2026",
+   "UG Admissions FAQ's",
+   "UG Admissions Process",
+   "Sample Questions",
+   "Mock Test Link- IIMB UG Admissions 2026",
+   "Information Session",
+   "**Application Window:****August 17, 2026 -October 17, 2026 (closed)**",
+   "**UG Admission Test****November 15, 2026**",
+   "**Interview Dates****2 nd and 3 rd Week of January 2027 (Tentative)**",
+   "**Offers & Waitlist****3 rd Week of February 2027 (Tentative)**",
+   "## International Admissions",
+   "Overseas/international Online application",
+   "International Admission Procedure",
+   "**Application Window:****October 09, 2026 -December 20, 2026 (5.00 pm IST)**",
+   "!Image 3",
+   "FacebookTwitterYoutubeLinkedinInstagram",
+   "### Useful Links",
+   "* IIMB Regulations",
+   "* Right to Information",
+   "* IIMB Webmail",
+   "* Life@IIMB",
+   "* IIMB Website",
+   "* Hindi",
+   "### Policies",
+   "* Anti-ragging Policy",
+   "* IIMB Policies",
+   "* Privacy Policy",
+   "* Hyperlink Policy",
+   "* Feedback",
+   "### Contact Us",
+   "IIMB UG Campus, Mahanthalingapura Village, Jigani Hobli Anekal Taluk,",
+   "Bengaluru urban district, Bengaluru, India.",
+   "* [ugadmissions@iimb.ac.in](mailto:ugacademic@iimb.ac.in)",
+   "* +91-80- 26993000",
+   "* Location",
+   "About this Site",
+   "Disclaimer",
+   "Site Map",
+   "Terms"
+  ],
+  "via": "reader"
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
@@ -4946,7 +5096,8 @@
    "https://www.alliance.edu.in/wp-content/uploads/2026/09/notification-icc-03092025.pdf": "Internal Complaint Committiee",
    "https://www.alliance.edu.in/wp-content/uploads/2026/09/notification-sgrc-25082026.pdf": "Student"
   },
-  "name": "Alliance University"
+  "name": "Alliance University",
+  "via": "direct"
  },
  "https://www.iift.ac.in/": {
   "fails": 0,
@@ -5064,7 +5215,8 @@
    "https://www.iift.ac.in/working-hours": "Working hours",
    "https://www.iift.ac.in/yagya": "Hindi Magazine-Yagya"
   },
-  "name": "IIFT Kakinada IPM (home)"
+  "name": "IIFT Kakinada IPM (home)",
+  "via": "direct"
  },
  "https://www.iimb.ac.in/": {
   "fails": 0,
@@ -5277,7 +5429,8 @@
    "https://www.iimb.ac.in/user/70/u-dinesh-kumar": "Director-in-charge",
    "https://www.iimb.ac.in/user/86/mukta-kulkarni": "Dean Programmes"
   },
-  "name": "IIM Bangalore (home)"
+  "name": "IIM Bangalore (home)",
+  "via": "direct"
  },
  "https://www.iimj.ac.in/": {
   "fails": 0,
@@ -5416,10 +5569,11 @@
    "https://www.iimj.ac.in/viksit-bharat2047.php": "Viksit Bharat@2047",
    "https://www.iimj.ac.in/web-advertisement-non-faculty-positions.php": "Web Advertisement for the Non-Faculty Positions Advertisement No. IIMJ/Advt/Non-Faculty-Rect/2026/03 dated 28 th August 2026 new"
   },
-  "name": "IIM Jammu (home)"
+  "name": "IIM Jammu (home)",
+  "via": "direct"
  },
  "https://www.iimk.ac.in/admission_announcements": {
-  "fails": 0,
+  "fails": 1,
   "hash": "6f7e97bc028738de448efe5d4da8ed8e717898f894facba2c50e040a742bbda6",
   "links": {
    "http://researchblog.iimk.ac.in/": "Research Blog",
@@ -5715,10 +5869,11 @@
    "https://www.iiml.ac.in/wmp": "Aug 01 2026 Admission Open PGPWE (MBA for Working Executives) Language: English",
    "https://www.iiml.ac.in/working-papers": "Working Papers"
   },
-  "name": "IIM Lucknow (home)"
+  "name": "IIM Lucknow (home)",
+  "via": "direct"
  },
  "https://www.iimrohtak.ac.in/ipm-important-date.php": {
-  "fails": 0,
+  "fails": 1,
   "hash": "6f663e3686a25d3978f6487e91a7944e5d27886dc9f86343d62c4412a660c7d1",
   "links": {
    "http://elixir.iimrohtak.ac.in/indam2022/": "",
@@ -6067,7 +6222,8 @@
    "https://www.iimshillong.ac.in/wp-content/uploads/2026/10/Reservation-Policy-IIMS.pdf": "Reservation Policy",
    "https://www.iimshillong.ac.in/wp-content/uploads/2026/11/Youth-for-Impact-Brochure.pdf": "Youth-for-Impact-Brochure.pdf"
   },
-  "name": "IIM Shillong (home)"
+  "name": "IIM Shillong (home)",
+  "via": "direct"
  },
  "https://www.iimshillong.ac.in/ipm/admission-process": {
   "fails": 0,
@@ -6146,7 +6302,8 @@
    "https://www.iimshillong.ac.in/wp-content/uploads/2026/04/IPM-2026-Admission-Policy-Document-2026.pdf": "IPM Admission Policy Document 2026",
    "https://www.iimshillong.ac.in/wp-content/uploads/2026/10/Reservation-Policy-IIMS.pdf": "Reservation Policy"
   },
-  "name": "IIM Shillong IPM"
+  "name": "IIM Shillong IPM",
+  "via": "direct"
  },
  "https://www.jagsom.edu.in/": {
   "fails": 0,
@@ -6213,7 +6370,8 @@
    "https://jagsom.edu.in/terms-conditions/": "Terms & Conditions",
    "https://jagsom.edu.in/wp-content/uploads/2025/07/JAGSoM-IFIM-Institution-Student-Code-of-Conduct-Policy-Vesion-2.0-July-2025.pdf": "Student Handbook"
   },
-  "name": "JAGSoM"
+  "name": "JAGSoM",
+  "via": "direct"
  },
  "https://www.nalsar.ac.in/": {
   "fails": 0,
@@ -6284,7 +6442,8 @@
    "https://nalsar.ac.in/website-credits/": "Website Credits",
    "https://nalsar.ac.in/wp-content/uploads/2026/10/Data-regarding-registered-Ph.D.-topics.pdf": "Data Regarding Registered Ph.D. Topics at NALSAR"
   },
-  "name": "NALSAR"
+  "name": "NALSAR",
+  "via": "direct"
  },
  "https://www.nfsu.ac.in/": {
   "fails": 0,
@@ -6406,7 +6565,8 @@
    "https://www.nfsu.ac.in/vision_mission": "Vision & Mission",
    "https://www.nfsu.ac.in/why_nfsu": "Why NFSU?"
   },
-  "name": "NFSU"
+  "name": "NFSU",
+  "via": "direct"
  },
  "https://www.nicmar.ac.in/": {
   "fails": 0,
@@ -6480,7 +6640,8 @@
    "https://www.nicmar.ac.in/statutory": "Statutory Disclosures",
    "https://www.nicmar.ac.in/trust/about": "About NICMAR"
   },
-  "name": "NICMAR University"
+  "name": "NICMAR University",
+  "via": "direct"
  },
  "https://www.niituniversity.in/": {
   "fails": 0,
@@ -6715,11 +6876,12 @@
    "https://nucleus.niituniversity.in/register.aspx": "Apply Now",
    "https://uat.niituniversity.in/academics": "academics"
   },
-  "name": "NIIT University"
+  "name": "NIIT University",
+  "via": "direct"
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "5f127bf23bc8aae15128df7943cee2d073b80c721e99172c6c5045bf9ff45320",
+  "hash": "8c108b369cbf05de1bd998d0d7c6bf270d1b47288ce15ad711115c9ffaebbdbf",
   "links": {
    "https://advertising.nmims.edu/": "Branding & Advertising",
    "https://aoa.nmims.edu/": "Aviation",
@@ -6848,7 +7010,8 @@
    "https://www.nmims.edu/under-graduate": "Undergraduate Programmes",
    "https://www.nmims.edu/vice-chancellor": "Vice Chancellor’s Message"
   },
-  "name": "NMIMS (home)"
+  "name": "NMIMS (home)",
+  "via": "direct"
  },
  "https://www.set-test.org/": {
   "fails": 0,
@@ -6888,7 +7051,8 @@
    "https://www.set-test.org/symbiosis-centre-for-management-studies": "SCMS, Pune Symbiosis Centre For Management Studies [SCMS],Pune B.B.A. - Honours / Honours with Research B.B.A. - Honours / Honours with Research - Global Dual Degree, in collaboration with Deakin Univ",
    "https://www.set-test.org/test-cities": "Test Cities"
   },
-  "name": "Symbiosis SET"
+  "name": "Symbiosis SET",
+  "via": "direct"
  },
  "https://www.srcc.edu/": {
   "fails": 0,
@@ -7012,7 +7176,8 @@
    "https://www.srcc.edu/website-policies": "Policies",
    "https://www.srcc.edu/womens-development-cell": "Women's Development Cell"
   },
-  "name": "SRCC Delhi"
+  "name": "SRCC Delhi",
+  "via": "direct"
  },
  "https://www.tapmi.edu.in/": {
   "fails": 0,
@@ -7062,6 +7227,7 @@
    "https://www.tapmi.edu.in/tapmi-manipal/": "Executive Education - TAPMI Manipal",
    "https://www.tapmi.edu.in/ug-course/": "Undergraduate Programs"
   },
-  "name": "TAPMI"
+  "name": "TAPMI",
+  "via": "direct"
  }
 }
