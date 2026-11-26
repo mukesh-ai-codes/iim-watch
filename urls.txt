@@ -32,6 +32,7 @@ IIM Jammu (home) | https://www.iimj.ac.in/
 
 # --- IIM Bangalore ---
 IIMB UG (UGAT/BSc) | https://ug.iimb.ac.in/
+IIMB UG admissions 2027 | https://ug.iimb.ac.in/ug-admissions-2027/ | text
 IIMB UG FAQ | https://ug.iimb.ac.in/faq/
 IIMB BBA DBE admissions | https://dbe.iimb.ac.in/admissions
 IIMB BBA DBE news | https://dbe.iimb.ac.in/category/news-and-announcements/

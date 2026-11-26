@@ -135,43 +135,103 @@ def fetch(url):
 NOISE_LINE = re.compile(r"last\s*updated|visitor|hit\s*count|copyright|©|all rights reserved", re.I)
 
 
-def snapshot(url):
-    """Return (links:dict url->text, text_hash, text_lines) for a page."""
-    r = fetch(url)
-    ctype = r.headers.get("Content-Type", "")
-    if "html" not in ctype and not r.text.lstrip().startswith("<"):
-        return {}, hashlib.sha256(r.content).hexdigest(), []
-    soup = BeautifulSoup(r.text, "html.parser")
+def parse_html(html, base_url, page_url):
+    """Return (links, text_hash, text_lines) from an HTML string."""
+    soup = BeautifulSoup(html, "html.parser")
     for tag in soup(["script", "style", "noscript"]):
         tag.decompose()
     links = {}
     for a in soup.find_all("a", href=True):
-        u = norm_url(r.url, a["href"])
-        if not u or not is_relevant(url, u):
+        u = norm_url(base_url, a["href"])
+        if not u or not is_relevant(page_url, u):
             continue
         text = clean(a.get_text(" ")) or clean(a.get("title")) or u.rsplit("/", 1)[-1]
         if u not in links or len(text) > len(links[u]):
             links[u] = text[:200]
-    # visible text, line by line (for "text" mode pages such as key-dates tables)
+    return links, text_hash(soup.get_text(" ")), text_lines(soup.get_text("\n"))
+
+
+def text_lines(raw):
+    """Visible text, line by line (for "text" mode pages such as key-dates tables)."""
     lines, seen = [], set()
-    for ln in soup.get_text("\n").split("\n"):
+    for ln in raw.split("\n"):
         ln = clean(ln)[:300]
         if ln and ln not in seen and not NOISE_LINE.search(ln):
             seen.add(ln)
             lines.append(ln)
-    # visible-text hash (numbers stripped so counters/clocks don't trigger)
-    body = clean(soup.get_text(" "))
-    body = re.sub(r"\d+", "", body)
-    return links, hashlib.sha256(body.encode()).hexdigest(), lines
+    return lines
+
+
+def text_hash(raw):
+    # numbers stripped so counters/clocks don't trigger
+    return hashlib.sha256(re.sub(r"\d+", "", clean(raw)).encode()).hexdigest()
+
+
+MD_LINK = re.compile(r"\[([^\]]*)\]\((https?://[^)\s]+)\)")
+
+
+def via_wordpress(url):
+    """WordPress sites: read the page through the site's own public JSON API."""
+    p = urllib.parse.urlsplit(url)
+    slug = [x for x in p.path.split("/") if x]
+    if not slug:
+        return None
+    api = f"{p.scheme}://{p.netloc}/wp-json/wp/v2/pages?slug={slug[-1]}&_fields=content,link"
+    r = requests.get(api, headers=HEADERS, timeout=45, verify=False)
+    r.raise_for_status()
+    data = r.json()
+    if not data:
+        return None
+    return parse_html(data[0]["content"]["rendered"], url, url)
+
+
+def via_reader(url):
+    """Last resort: a free page-reader service that opens the page like a real browser."""
+    r = requests.get("https://r.jina.ai/" + url, headers={"Accept": "text/plain"}, timeout=60)
+    r.raise_for_status()
+    md = r.text
+    links = {}
+    for text, href in MD_LINK.findall(md):
+        u = norm_url(url, href)
+        if u and is_relevant(url, u):
+            t = clean(re.sub(r"[!*_#>`]|\[|\]", " ", text)) or u.rsplit("/", 1)[-1]
+            if u not in links or len(t) > len(links[u]):
+                links[u] = t[:200]
+    plain = MD_LINK.sub(lambda m: m.group(1), md)
+    body = plain.split("Markdown Content:", 1)[-1]
+    return links, text_hash(body), text_lines(body)
+
+
+def snapshot(url):
+    """Return (links, text_hash, text_lines, via) for a page.
+    If the normal fetch shows no links (site blocking bots / JS-only page),
+    try other routes before giving up — and never report a blank page as OK."""
+    r = fetch(url)
+    ctype = r.headers.get("Content-Type", "")
+    if "html" not in ctype and not r.text.lstrip().startswith("<"):
+        return {}, hashlib.sha256(r.content).hexdigest(), [], "file"
+    links, h, lines = parse_html(r.text, r.url, url)
+    if links:
+        return links, h, lines, "direct"
+    title = clean(BeautifulSoup(r.text, "html.parser").title.get_text()
+                  if BeautifulSoup(r.text, "html.parser").title else "")[:60]
+    for label, route in (("wordpress", via_wordpress), ("reader", via_reader)):
+        try:
+            got = route(url)
+            if got and got[0]:
+                return got[0], got[1], got[2], label
+        except Exception as e:  # noqa: BLE001
+            print(f"  {label} route failed for {url}: {str(e)[:100]}")
+    raise RuntimeError(f"BLOCKED - page opens but shows no links (title: '{title or 'none'}')")
 
 
 def check(site):
     name, url, mode = site
     try:
-        links, h, lines = snapshot(url)
-        return name, url, mode, links, h, lines, None
+        links, h, lines, via = snapshot(url)
+        return name, url, mode, links, h, lines, via, None
     except Exception as e:  # noqa: BLE001
-        return name, url, mode, None, None, None, f"{type(e).__name__}: {str(e)[:120]}"
+        return name, url, mode, None, None, None, None, f"{type(e).__name__}: {str(e)[:120]}"
 
 
 # ---------------------------------------------------------------- notify
@@ -233,7 +293,7 @@ def main():
         results = list(pool.map(check, sites))
 
     updates, down, recovered, ok, failed = [], [], [], 0, []
-    for name, url, mode, links, h, lines, err in results:
+    for name, url, mode, links, h, lines, via, err in results:
         s = state.setdefault(url, {"name": name, "links": {}, "hash": None, "fails": 0})
         s["name"] = name
         if err:
@@ -246,6 +306,12 @@ def main():
         if s.get("fails", 0) >= FAIL_ALERT_AFTER:
             recovered.append(f"• {name}")
         s["fails"] = 0
+        if s.get("via") != via:
+            # read through a different route than last time: re-learn the page quietly
+            if s.get("via") is not None or via != "direct":
+                s["hash"] = None
+                s.pop("text", None)
+            s["via"] = via
         old_links = s.get("links", {})
         new = {u: t for u, t in links.items() if u not in old_links}
         # same link, new wording (e.g. "BMS AT 2025" -> "BMS AT 2027")
@@ -257,14 +323,14 @@ def main():
                 updates.append(f"🔄 {name}: page changed a lot ({len(new) + len(renamed)} "
                                f"links new/changed — possibly a redesign). Check: {url}")
             elif new or renamed:
-                lines = [f"📢 {name}"]
+                msg_lines = [f"📢 {name}"]
                 for u, t in list(new.items())[:MAX_LINKS_PER_SITE]:
-                    lines.append(f"  • {t}\n    {u}")
+                    msg_lines.append(f"  • {t}\n    {u}")
                 if len(new) > MAX_LINKS_PER_SITE:
-                    lines.append(f"  …and {len(new) - MAX_LINKS_PER_SITE} more: {url}")
+                    msg_lines.append(f"  …and {len(new) - MAX_LINKS_PER_SITE} more: {url}")
                 for u, (old_t, t) in list(renamed.items())[:MAX_LINKS_PER_SITE]:
-                    lines.append(f"  ✏️ {t}\n    (was: {old_t})\n    {u}")
-                updates.append("\n".join(lines))
+                    msg_lines.append(f"  ✏️ {t}\n    (was: {old_t})\n    {u}")
+                updates.append("\n".join(msg_lines))
             elif h != s.get("hash") and not links:
                 updates.append(f"📄 {name}: file/page content changed\n  {url}")
         if mode == "text":
