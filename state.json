@@ -400,7 +400,7 @@
  },
  "https://dbe.iimb.ac.in/admissions": {
   "fails": 0,
-  "hash": "a655e0ceceef50dc42d88b2e8b027c743bbda73acbe65e52437b8e821265d16f",
+  "hash": "1af1b06723b4410b673c9c6de6770bec26cce4a375d916a94e0f488cec3f0218",
   "links": {
    "https://admissions.dbe.iimb.ac.in/login": "Applicant Login",
    "https://dbe.iimb.ac.in/": "Home",
@@ -415,17 +415,20 @@
    "https://dbe.iimb.ac.in/learning-pods/": "Learning Pods",
    "https://dbe.iimb.ac.in/life-at-bba-dbe-iim-bangalore/": "Life at BBA(DBE)",
    "https://dbe.iimb.ac.in/testimonial/": "Testimonials",
+   "https://dbe.iimb.ac.in/wp-content/uploads/2025/12/1.svg": "Image 2",
+   "https://dbe.iimb.ac.in/wp-content/uploads/2025/12/2.svg": "Image 3",
+   "https://dbe.iimb.ac.in/wp-content/uploads/2025/12/3.svg": "Image 4",
    "https://dbe.iimb.ac.in/wp-content/uploads/2026/03/DBE-Entrance-Test-2024-10th-Aug-2024-QP-PDF.pdf": "Sample QP 1",
    "https://dbe.iimb.ac.in/wp-content/uploads/2026/03/DBE-Entrance-Test-2024-17th-Aug-2024-QP-PDF.pdf": "Sample QP 2",
    "https://dbe.iimb.ac.in/zonal-groups/": "Zonal Groups",
    "https://portal.dbe.iimb.ac.in/login": "Student Login"
   },
   "name": "IIMB BBA DBE admissions",
-  "via": "direct"
+  "via": "reader"
  },
  "https://dbe.iimb.ac.in/category/news-and-announcements/": {
   "fails": 0,
-  "hash": "ccd614bf43456af323890e3fb8f13b9dd2e800ea3c2989d66babe353aef3e9ad",
+  "hash": "0e093f093d80bb5023eba49b6e4cf92bc5546e0c425e71470464db2e5d21ad8b",
   "links": {
    "https://admissions.dbe.iimb.ac.in/login": "Applicant Login",
    "https://dbe.iimb.ac.in/": "Home",
@@ -442,7 +445,7 @@
    "https://dbe.iimb.ac.in/faqs/": "FAQ",
    "https://dbe.iimb.ac.in/iim-bangalore-to-host-inaugural-campus-immersion-for-bbadbe-students/": "IIM Bangalore to Host Inaugural Campus Immersion for BBA(DBE) students",
    "https://dbe.iimb.ac.in/jar-xchange-at-iim-bangalore-insights-into-the-bharat-ecosystem/": "Jar XCHANGE at IIM Bangalore: Insights into the Bharat Ecosystem",
-   "https://dbe.iimb.ac.in/join-our-exciting-wednesday-friday-webinars-for-the-iimb-bba-dbe-program/": "Join Our Exciting Wednesday and Friday Webinars for the IIMB BBA DBE Program!",
+   "https://dbe.iimb.ac.in/join-our-exciting-wednesday-friday-webinars-for-the-iimb-bba-dbe-program/": "Join Our Exciting Wednesday and Friday Webinars for the IIMB BBA DBE Program",
    "https://dbe.iimb.ac.in/learning-pods/": "Learning Pods",
    "https://dbe.iimb.ac.in/life-at-bba-dbe-iim-bangalore/": "Life at BBA(DBE)",
    "https://dbe.iimb.ac.in/nova-unplugged-2/": "Protected: NOVA Unplugged",
@@ -456,7 +459,7 @@
    "https://portal.dbe.iimb.ac.in/login": "Student Login"
   },
   "name": "IIMB BBA DBE news",
-  "via": "direct"
+  "via": "reader"
  },
  "https://exams.nta.nic.in/jipmat/": {
   "fails": 0,
@@ -2572,13 +2575,13 @@
  },
  "https://iimranchi.ac.in/": {
   "fails": 0,
-  "hash": "023ff9e5d5946c26ab6440e403104e686769b08944a6d9065d9ee6aa8d421d59",
+  "hash": "f18c63b4e7d76ea8437f66e92452dabcd7353c545846cd5198e2befc9de70024",
   "links": {
    "https://alumni.iimranchi.ac.in/": "Alumni Portal",
    "https://iimranchi.ac.in/": "© 2026 Indian Institute of Management Ranchi",
    "https://iimranchi.ac.in/?page_id=730": "Ph.D.",
    "https://iimranchi.ac.in/about": "About the Institute",
-   "https://iimranchi.ac.in/about/": "IIM Act, Rules & IIM Ranchi Regulations",
+   "https://iimranchi.ac.in/about/": "About",
    "https://iimranchi.ac.in/achievement/": "Achievements",
    "https://iimranchi.ac.in/achievement/2026/09/25649/": "Mohan Raina, Mohammad Tahir Khan and Ayush Sharma got selected as National Finalists for V-Guard’s Big Idea 2026",
    "https://iimranchi.ac.in/achievement/2026/09/25701/": "Ashish Malla was named a Major League Hacking (MLH) Top 50 honoree for his contributions to hackathons, hacker empowerment, and student tech communities.",
@@ -2603,7 +2606,7 @@
    "https://iimranchi.ac.in/eec/": "Executive Education Certificate Programmes",
    "https://iimranchi.ac.in/eecold/": "Executive Education & Consultancy",
    "https://iimranchi.ac.in/emba": "Executive MBA",
-   "https://iimranchi.ac.in/emba/": "MBA (Executive) Admissions for the 2027–29 Winter Batch are now OPEN!",
+   "https://iimranchi.ac.in/emba/": "MBA (Executive) Admissions for the 2027–29 Winter Batch are now OPEN",
    "https://iimranchi.ac.in/ephd": "Executive Ph.D",
    "https://iimranchi.ac.in/ephd-scholars/": "Our Executive Ph.D. Scholars",
    "https://iimranchi.ac.in/ephd/": "Executive Ph.D.",
@@ -2618,13 +2621,13 @@
    "https://iimranchi.ac.in/iip/": "Innovate & Impact Programme (IIP)",
    "https://iimranchi.ac.in/internal-committee-under-posh-act/": "IC(POSH)",
    "https://iimranchi.ac.in/internationalization": "About",
-   "https://iimranchi.ac.in/internationalization/": "Student Exchange Programme (STEP)",
+   "https://iimranchi.ac.in/internationalization/": "Internationalisation",
    "https://iimranchi.ac.in/ipm": "IPM",
    "https://iimranchi.ac.in/ipm/": "IPM",
    "https://iimranchi.ac.in/irjms": "IIM Ranchi Journal of Management Studies",
    "https://iimranchi.ac.in/irjms/": "IIM Ranchi Journal of Management Studies",
    "https://iimranchi.ac.in/library/": "Library",
-   "https://iimranchi.ac.in/life-iim-ranchi/": "Student Engagement & Development Activities",
+   "https://iimranchi.ac.in/life-iim-ranchi/": "Life@IIM Ranchi",
    "https://iimranchi.ac.in/mba": "MBA",
    "https://iimranchi.ac.in/mba-ba": "MBA-BA",
    "https://iimranchi.ac.in/mba-ba/": "MBA-BA",
@@ -2640,13 +2643,19 @@
    "https://iimranchi.ac.in/media-coverage/2026/11/26579/": "मैनेजमेंट की बारीकियों समझीं",
    "https://iimranchi.ac.in/media-coverage/2026/11/27090/": "IIM Ranchi Concludes MDP on Project Management and Execution Excellence",
    "https://iimranchi.ac.in/media-coverage/2026/11/27091/": "आईआईएम रांची में पीवीयुएनएल और एनटीपीसी के अधिकारियों के लिए पांच दिवसीय एमडीपी शुरू",
+   "https://iimranchi.ac.in/media/2025/06/Home-Page-Video-1.mp4": "Video 6",
+   "https://iimranchi.ac.in/media/2025/06/IIM-Ranchi-Logo-White-1024x714-1.png": "Image 9",
+   "https://iimranchi.ac.in/media/2025/11/AMBA-1024x301.webp": "Image 10",
+   "https://iimranchi.ac.in/media/2025/11/EdUniversal-1024x649.webp": "Image 12",
+   "https://iimranchi.ac.in/media/2025/11/iimr-landing-video.mp4": "Video 4",
    "https://iimranchi.ac.in/media/2026/02/NewsletterRaconteurV12N3.pdf": "Raconteur: Volume 12.3 (Q4 2025)",
    "https://iimranchi.ac.in/media/2026/04/Merit-Scholarship.pdf": "Merit-Scholarship.pdf",
    "https://iimranchi.ac.in/media/2026/04/Merit-cum-Means.pdf": "Merit-cum-Means.pdf",
-   "https://iimranchi.ac.in/media/2026/06/Newsletter-Raconteur-V13-N1.pdf": "Raconteur: Volume 13.1 (Q1 2026)",
+   "https://iimranchi.ac.in/media/2026/06/Newsletter-Raconteur-V13-N1.pdf": "Raconteur:Volume 13.1 (Q1 2026)",
+   "https://iimranchi.ac.in/media/2026/06/QS-EMBA-Rank-White-1024x398.webp": "Image 11",
    "https://iimranchi.ac.in/media/2026/07/IIM-Ranchi-Biodiversity-Report.pdf": "Bio-Diversity",
-   "https://iimranchi.ac.in/media/2026/08/Newsletter-Raconteur-V13-N2.pdf": "Raconteur: Volume 13.2 (Q2 2026)",
-   "https://iimranchi.ac.in/media/2026/10/Newsletter-Raconteur-V13-N3.pdf": "Raconteur: Volume 13.3 (Q3 2026)",
+   "https://iimranchi.ac.in/media/2026/08/Newsletter-Raconteur-V13-N2.pdf": "Raconteur:Volume 13.2 (Q2 2026)",
+   "https://iimranchi.ac.in/media/2026/10/Newsletter-Raconteur-V13-N3.pdf": "Raconteur:Volume 13.3 (Q3 2026)",
    "https://iimranchi.ac.in/media/2026/11/Concept_Note_IIMRanchi-Startup-Conclave_19-Dec-2026_FV-1.pdf": "Startup Conclave 2026",
    "https://iimranchi.ac.in/nad/": "NAD",
    "https://iimranchi.ac.in/newsletter/": "Newsletter",
@@ -2654,9 +2663,9 @@
    "https://iimranchi.ac.in/pay-online/": "Pay Online",
    "https://iimranchi.ac.in/phd": "Ph.D",
    "https://iimranchi.ac.in/phd-scholars/": "Our Scholars",
-   "https://iimranchi.ac.in/phd/": "Ph.D. Admissions for the 2027–31 Batch are now OPEN!",
+   "https://iimranchi.ac.in/phd/": "Ph.D. Admissions for the 2027–31 Batch are now OPEN",
    "https://iimranchi.ac.in/placements": "Corporate Relations",
-   "https://iimranchi.ac.in/placements/": "Summer Internship Placements",
+   "https://iimranchi.ac.in/placements/": "Placements",
    "https://iimranchi.ac.in/publication/": "Publications",
    "https://iimranchi.ac.in/publication/2026/08/25501/": "Priya Premi, Keyoor Purani (2026). Confiding in a maven or a charmer? Impression management behavior of artificially intelligent conversational agents and consumer self-disclosure. European Journal of",
    "https://iimranchi.ac.in/publication/2026/09/24404/": "Ponymythili Muralidharan, Deva Rangarajan, Arun Sharma, Rajeshwari Krishnamurthy & Shibashish Chakraborty (2026). Examining the antecedents and manifestations of customer advocacy by salespeople. Jour",
@@ -2677,7 +2686,7 @@
    "https://iimranchi.ac.in/rti/": "RTI",
    "https://iimranchi.ac.in/screen-reader-access/": "Screen Reader Access",
    "https://iimranchi.ac.in/sitemap.xml": "Sitemap",
-   "https://iimranchi.ac.in/social-impact/": "Young Changemakers Programme",
+   "https://iimranchi.ac.in/social-impact/": "Social Impact",
    "https://iimranchi.ac.in/space-conclave-2026/": "",
    "https://iimranchi.ac.in/sscv/": "Student Services",
    "https://iimranchi.ac.in/sslp/": "SSLP-Cohort 02",
@@ -2692,11 +2701,11 @@
    "https://smf2026.iimranchi.ac.in/": "SMF Conference – 2026"
   },
   "name": "IIM Ranchi (home)",
-  "via": "direct"
+  "via": "reader"
  },
  "https://iimranchi.ac.in/p/ipm": {
   "fails": 0,
-  "hash": "023ff9e5d5946c26ab6440e403104e686769b08944a6d9065d9ee6aa8d421d59",
+  "hash": "fca1b0813a8c01ddb85b75ce945e4820d56b9376c0c098e4077e2d880613b3b2",
   "links": {
    "https://alumni.iimranchi.ac.in/": "Alumni Portal",
    "https://iimranchi.ac.in/": "© 2026 Indian Institute of Management Ranchi",
@@ -2727,7 +2736,7 @@
    "https://iimranchi.ac.in/eec/": "Executive Education Certificate Programmes",
    "https://iimranchi.ac.in/eecold/": "Executive Education & Consultancy",
    "https://iimranchi.ac.in/emba": "Executive MBA",
-   "https://iimranchi.ac.in/emba/": "MBA (Executive) Admissions for the 2027–29 Winter Batch are now OPEN!",
+   "https://iimranchi.ac.in/emba/": "MBA (Executive) Admissions for the 2027–29 Winter Batch are now OPEN",
    "https://iimranchi.ac.in/ephd": "Executive Ph.D",
    "https://iimranchi.ac.in/ephd-scholars/": "Our Executive Ph.D. Scholars",
    "https://iimranchi.ac.in/ephd/": "Executive Ph.D.",
@@ -2764,13 +2773,17 @@
    "https://iimranchi.ac.in/media-coverage/2026/11/26579/": "मैनेजमेंट की बारीकियों समझीं",
    "https://iimranchi.ac.in/media-coverage/2026/11/27090/": "IIM Ranchi Concludes MDP on Project Management and Execution Excellence",
    "https://iimranchi.ac.in/media-coverage/2026/11/27091/": "आईआईएम रांची में पीवीयुएनएल और एनटीपीसी के अधिकारियों के लिए पांच दिवसीय एमडीपी शुरू",
+   "https://iimranchi.ac.in/media/2025/06/IIM-Ranchi-Logo-White-1024x714-1.png": "Image 11",
+   "https://iimranchi.ac.in/media/2025/11/AMBA-1024x301.webp": "Image 12",
+   "https://iimranchi.ac.in/media/2025/11/EdUniversal-1024x649.webp": "Image 14",
    "https://iimranchi.ac.in/media/2026/02/NewsletterRaconteurV12N3.pdf": "Raconteur: Volume 12.3 (Q4 2025)",
    "https://iimranchi.ac.in/media/2026/04/Merit-Scholarship.pdf": "Merit-Scholarship.pdf",
    "https://iimranchi.ac.in/media/2026/04/Merit-cum-Means.pdf": "Merit-cum-Means.pdf",
-   "https://iimranchi.ac.in/media/2026/06/Newsletter-Raconteur-V13-N1.pdf": "Raconteur: Volume 13.1 (Q1 2026)",
+   "https://iimranchi.ac.in/media/2026/06/Newsletter-Raconteur-V13-N1.pdf": "Raconteur:Volume 13.1 (Q1 2026)",
+   "https://iimranchi.ac.in/media/2026/06/QS-EMBA-Rank-White-1024x398.webp": "Image 13",
    "https://iimranchi.ac.in/media/2026/07/IIM-Ranchi-Biodiversity-Report.pdf": "Bio-Diversity",
-   "https://iimranchi.ac.in/media/2026/08/Newsletter-Raconteur-V13-N2.pdf": "Raconteur: Volume 13.2 (Q2 2026)",
-   "https://iimranchi.ac.in/media/2026/10/Newsletter-Raconteur-V13-N3.pdf": "Raconteur: Volume 13.3 (Q3 2026)",
+   "https://iimranchi.ac.in/media/2026/08/Newsletter-Raconteur-V13-N2.pdf": "Raconteur:Volume 13.2 (Q2 2026)",
+   "https://iimranchi.ac.in/media/2026/10/Newsletter-Raconteur-V13-N3.pdf": "Raconteur:Volume 13.3 (Q3 2026)",
    "https://iimranchi.ac.in/media/2026/11/Concept_Note_IIMRanchi-Startup-Conclave_19-Dec-2026_FV-1.pdf": "Startup Conclave 2026",
    "https://iimranchi.ac.in/nad/": "NAD",
    "https://iimranchi.ac.in/newsletter/": "Newsletter",
@@ -2778,7 +2791,7 @@
    "https://iimranchi.ac.in/pay-online/": "Pay Online",
    "https://iimranchi.ac.in/phd": "Ph.D",
    "https://iimranchi.ac.in/phd-scholars/": "Our Scholars",
-   "https://iimranchi.ac.in/phd/": "Ph.D. Admissions for the 2027–31 Batch are now OPEN!",
+   "https://iimranchi.ac.in/phd/": "Ph.D. Admissions for the 2027–31 Batch are now OPEN",
    "https://iimranchi.ac.in/placements": "Corporate Relations",
    "https://iimranchi.ac.in/placements/": "Summer Internship Placements",
    "https://iimranchi.ac.in/publication/": "Publications",
@@ -2816,7 +2829,7 @@
    "https://smf2026.iimranchi.ac.in/": "SMF Conference – 2026"
   },
   "name": "IIM Ranchi IPM",
-  "via": "direct"
+  "via": "reader"
  },
  "https://iimrohtak.ac.in/ipm-admission.php": {
   "fails": 0,
@@ -3219,7 +3232,7 @@
  },
  "https://krea.edu.in/": {
   "fails": 0,
-  "hash": "0045a447cf7568cd19839c405c562ce45a43170ae6cdc0cfc7aa26005083edeb",
+  "hash": "b02751d9ac5a7614dbf18eafc4be0b04377991ae77a6aec33bc1504c13a0e92b",
   "links": {
    "https://ifmrgsbadmissions.krea.edu.in/ifmr-bba-programme-applynow": "BBA | BBA (Hons) | Integrated MBA",
    "https://ifmrgsbadmissions.krea.edu.in/ifmr-mba-programme-applynow": "MBA",
@@ -3295,15 +3308,19 @@
    "https://krea.edu.in/spotlight/?category=faculty": "View more",
    "https://krea.edu.in/spotlight/?category=research": "KNOW MORE",
    "https://krea.edu.in/spotlight/?category=student": "View more",
+   "https://krea.edu.in/spotlight/abhayraj-naik-organised-and-moderated-whats-happening-at-cop31-in-turkey/": "November 27, 2026 SIAS Abhayraj Naik organised and moderated ‘What’s Happening at COP31 in Turkey?’ Abhayraj Naik, Visiting Associate Professor of Practice, Environmental Studies, SIAS, organised and ",
    "https://krea.edu.in/spotlight/dr-aritra-guptas-article-in-the-european-physical-journal-c/": "November 13, 2026 SIAS Dr Aritra Gupta’s article in The European Physical Journal C Dr Aritra Gupta, Assistant Professor, Physics, SIAS, has published an article titled Dark matter capture in supernov",
+   "https://krea.edu.in/spotlight/dr-brijesh-kumar-mishra-co-authors-paper-published-in-chempluschem/": "November 27, 2026 SIAS Dr Brijesh Kumar Mishra co-authors paper published in ChemPlusChem Dr Brijesh Kumar Mishra, Associate Professor, Chemistry, SIAS, has co-authored a research paper titled The Nat",
    "https://krea.edu.in/spotlight/dr-chirag-dharas-article-in-down-to-earth/": "November 17, 2026 SIAS Dr Chirag Dhara’s article in Down to Earth An article by Dr Chirag Dhara, Associate Professor, Environmental Studies, SIAS, co-authored with Shrutee Jalan, Research Scholar at I",
    "https://krea.edu.in/spotlight/dr-krishna-kumar-balaramans-chapter-in-uttarakhand-at-25-a-himalayan-state-with-infinite-possibilities/": "November 17, 2026 IFMR GSB Dr Krishna Kumar Balaraman’s chapter in Uttarakhand at 25: A Himalayan State with Infinite Possibilities Dr Krishna Kumar Balaraman, Associate Professor, Strategic Managemen",
    "https://krea.edu.in/spotlight/dr-srajana-kaikinis-session-for-lecture-on-the-rocks/": "November 17, 2026 SIAS Dr Srajana Kaikini’s session for Lecture on the Rocks Dr Srajana Kaikini, Assistant Professor, Philosophy, SIAS gave a lecture titled ‘Things Come Apart: A Philosophical Excursi",
+   "https://krea.edu.in/spotlight/dr-suresh-g-presents-a-working-paper-at-energy-summit-2026-iit-madras/": "November 27, 2026 IFMR GSB Dr Suresh G presents a working paper at Energy Summit 2026, IIT-Madras Dr Suresh G, Assistant Professor, Economics, IFMR GSB, presented a working paper titled ‘Rooftop Solar",
    "https://krea.edu.in/spotlight/ifmr-gsb-mba-team-shortlisted-for-cfa-institute-equity-research-challenge-zonal-finals-2026-27/": "November 12, 2026 IFMR GSB IFMR GSB MBA Team Shortlisted for CFA Institute Equity Research Challenge Zonal Finals 2026–27 aurav Patil, Mahir Mehta, Mohammed Saqlein, Pruthvirajsinh Gadhavi and Sparsh ",
    "https://krea.edu.in/spotlight/neural-signalling-labs-developed-by-dr-rakesh-sengupta-now-a-pedagogical-preprint-and-open-educational-resource/": "November 20, 2026 SIAS ‘Neural Signalling Labs’ developed by Dr Rakesh Sengupta now a pedagogical preprint and open educational resource Dr Rakesh Sengupta, Assistant Professor, Psychology, has develo",
    "https://krea.edu.in/spotlight/sias-faculty-and-alum-co-author-an-article-in-forest-policy-and-economics-journal/": "November 13, 2026 SIAS SIAS Faculty and Alum co-author an article in Forest Policy and Economics journal Dr Bharath Sundaram, Associate Professor, Environmental Studies, SIAS, and Dhriti Hariharan and",
    "https://krea.edu.in/spotlight/sias-phd-scholar-co-authors-paper-published-in-cambridge-journal-of-economics/": "November 3, 2026 SIAS SIAS PhD Scholar Co-authors Paper Published in Cambridge Journal of Economics Pranav Vinod, SIAS PhD Scholar in Sociology and Social Anthropology, co-authored a paper titled Prof",
    "https://krea.edu.in/spotlight/sias-phd-scholar-presents-paper-at-international-symposium-on-intersectionality-and-social-justice/": "November 6, 2026 SIAS SIAS PhD Scholar Presents Paper at International Symposium on Intersectionality and Social Justice Aravind R, PhD Scholar, Sociology and Social Anthropology, SIAS, presented his ",
+   "https://krea.edu.in/spotlight/varuvaaiy-nominated-at-the-grammy-awards/": "November 27, 2026 SIAS Varuvaaiy nominated at the Grammy Awards Varuvaaiy, by Devan Ekambaram and Subhiksha Rangarajan, has been nominated for Best Global Music Performance at the 69th Annual Grammy…",
    "https://krea.edu.in/tag/blogs/": "Blogs",
    "https://krea.edu.in/working-papers": "Working papers and Case Studies",
    "https://siasadmissions.krea.edu.in/applynow": "BA | BA (Hons) | BSc | BSc (Hons)"
@@ -3358,7 +3375,7 @@
  },
  "https://mithibai.ac.in/": {
   "fails": 0,
-  "hash": "6dcd1e40dd2c3ab1a3de81244ceba8ae91380dc41a2b669016cfa6a2717f6266",
+  "hash": "1c857679f1b203fa36599f5c991fb5bd07112e349c94c22d7446c21142f7ee52",
   "links": {
    "http://www.mithibai.ac.in/naac/Website/Degree%20College_Prospectus_2023-24.pdf": "Prospectus",
    "https://mithibai.ac.in/academic-calendar/": "Academic Calendar",
@@ -3549,6 +3566,7 @@
    "https://www.mithibai.ac.in/wp-content/uploads/2026/11/Mumbai-Book-Festival-Poster.pdf": "Mumbai Book Festival Poster",
    "https://www.mithibai.ac.in/wp-content/uploads/2026/11/Mumbai-Book-Festival.pdf": "Mumbai Book Festival 2026",
    "https://www.mithibai.ac.in/wp-content/uploads/2026/11/Mumbai-University-Book-Festival-2026.pdf": "Mumbai University Book Festival 2026",
+   "https://www.mithibai.ac.in/wp-content/uploads/2026/11/NOTICE-FOR-TENTATIVE-SCHEDULE-OF-INTERNAL-CLASS-TESTS.pdf": "NOTICE FOR TENTATIVE SCHEDULE OF INTERNAL CLASS TESTS",
    "https://www.mithibai.ac.in/wp-content/uploads/2026/11/Revised-Academic-Calendar_261118_095211.pdf": "Degree College Academic Calender 2026",
    "https://www.mithibai.ac.in/wp-content/uploads/2026/11/SVKMs-Physiotherapy-Clinic-Notice.pdf": "SVKM’s Physiotherapy Clinic Notice",
    "https://www.mithibai.ac.in/wp-content/uploads/2026/11/Time-Table-of-Regular-Practical-Examination-Bachelor-of-Arts-Sem-VII-November-2026.pdf": "Time Table of Regular Practical Examination Bachelor of Arts Sem – VII November, 2026.",
@@ -3900,7 +3918,7 @@
  },
  "https://nta.ac.in/": {
   "fails": 0,
-  "hash": "5e9c0afadb5d1af5015d0e842b057d42215b96724a1524a644e104ab223d7309",
+  "hash": "6e5c1798986b677080a83e66e7d16cfd58484e547ae02f4f3d6f1902e3514fb4",
   "links": {
    "http://cbtc.nta.ac.in/observer": "Registration for observers of NTA is open. All eligible observer are requested to register themselves.",
    "http://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/202610161905649093.pdf": "Public Notice Corrigendum to the Information Bulletin of UGC-NET December 2026 Examination",
@@ -4763,6 +4781,7 @@
    "https://nta.ac.in/Download/Notice/Notice_20261125231704.pdf": "Read More",
    "https://nta.ac.in/Download/Notice/Notice_20261126182327.pdf": "Read More",
    "https://nta.ac.in/Download/Notice/Notice_20261126205025.pdf": "Read More",
+   "https://nta.ac.in/Download/Notice/Notice_20261127125048.pdf": "Read More",
    "https://nta.ac.in/Downloads": "Downloads",
    "https://nta.ac.in/Engineeringexam": "Engineering Joint Entrance Examination - (Main)",
    "https://nta.ac.in/Home": "Home",
@@ -4798,7 +4817,7 @@
   "via": "direct"
  },
  "https://ug.iimb.ac.in/": {
-  "fails": 0,
+  "fails": 1,
   "hash": "f1a81df2ba2334f080afbacfc76cd338fdc7caa0a4d58d50b5cb8fee3dcfae54",
   "links": {
    "https://ug.iimb.ac.in/wp-content/uploads/2025/09/home-111-1-scaled.webp": "Image 1",
@@ -4812,7 +4831,7 @@
   "via": "reader"
  },
  "https://ug.iimb.ac.in/faq/": {
-  "fails": 0,
+  "fails": 1,
   "hash": "c6914123eb3a9f3299f198946b12b9788868dbbaaf72ae218010d27536c61abd",
   "links": {
    "https://ug.iimb.ac.in/copyright-policy/": "Copyright Policy",
@@ -4840,7 +4859,7 @@
   "via": "reader"
  },
  "https://ug.iimb.ac.in/ug-admissions-2027/": {
-  "fails": 0,
+  "fails": 1,
   "hash": "d01f89d158ddeef7595a1e8800637c46d063e443d4cce26d51ee3cfbf8087158",
   "links": {
    "https://campus.iimb.ac.in/psp/cssisprd/?cmd=login&languageCd=ENG": "Overseas/international Online application",
@@ -4933,7 +4952,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "2d29a1f2c0e7c4772920eb30ff80ffacb3e3df90be8c7e35ec7465d5f3fc1d02",
+  "hash": "4dc9a2cf4868fab45145ca5722601920fd8738bc2ca7f88c5eca8abb0f8aa700",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -5237,7 +5256,7 @@
  },
  "https://www.iimb.ac.in/": {
   "fails": 0,
-  "hash": "49734ed0145bbc92fe1670adc1532bab0adc14f09f1552e4c8d296910ee0f8be",
+  "hash": "282a2be36d23f6f22f2cd5dfd4ea1980ed07ef217a7f218cb067f7c0c2422e22",
   "links": {
    "https://blog.iimb.ac.in/": "Blog",
    "https://dbe.iimb.ac.in/": "BBA in Digital Business and Entrepreneurship (BBA DBE)",
@@ -5273,7 +5292,7 @@
    "https://www.iimb.ac.in/campus_tour": "Campus Tour",
    "https://www.iimb.ac.in/ccgs-conference-corporate-governance-sustainability-2026": "“Will this company still be here, still be trusted, 20 years from now?”: Kris Gopalakrishnan on why governance must look beyond compliance",
    "https://www.iimb.ac.in/ccgs/": "Corporate Governance & Sustainability",
-   "https://www.iimb.ac.in/ccmrm-national-student-case-challenge-2026": "28 th Nov GIFT Finance Olympiad: National Student Case Challenge 2026 Read More",
+   "https://www.iimb.ac.in/ccmrm-national-student-case-challenge-2026": "5 th Dec GIFT Finance Olympiad: National Student Case Challenge 2026 Read More",
    "https://www.iimb.ac.in/ccmrm/": "Capital Markets & Risk Management",
    "https://www.iimb.ac.in/cdpg/": "Digital Public Goods",
    "https://www.iimb.ac.in/cencomm/index.php": "Management Communication",
@@ -6185,7 +6204,7 @@
  },
  "https://www.iimshillong.ac.in/": {
   "fails": 0,
-  "hash": "c30a60c31c63ce62725964063ee26b232bd2f5c7a2ab9a5d797c505918bd01f0",
+  "hash": "6e11e1667555cfce09c52c05128b7a1b04c36dc6f45f111427023796858b4eff",
   "links": {
    "http://lms.iimshillong.ac.in/": "LMS",
    "https://alumni.iimshillong.ac.in/": "Alumni Portal",
@@ -6924,7 +6943,7 @@
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "a2ee45c753d5002d9ffee0233afaa986c7884d7f2d4307b6401e985e0094065f",
+  "hash": "6257676e6aa5f4b9095b8f9d10dc17aeeaceb5793201b992cb52e4bc22780694",
   "links": {
    "https://advertising.nmims.edu/": "Branding & Advertising",
    "https://aoa.nmims.edu/": "Aviation",
@@ -7099,7 +7118,7 @@
  },
  "https://www.srcc.edu/": {
   "fails": 0,
-  "hash": "a8882dccc9155475bb4d06c2db6739be86572d4b9b8562be7fbbef3f5d8e52d8",
+  "hash": "752b18f3ec9140d1a58aa44605716dd38ad8d5b73eba5aa1a0a49a875ad7f3d5",
   "links": {
    "http://online.srcc.edu/": "Faculty",
    "https://srcc.edu/sites/default/files/AbridgedStrategicPlan_DeploymentDocument.pdf": "Strategic Plan Deployment",
@@ -7161,6 +7180,7 @@
    "https://www.srcc.edu/nirf": "NIRF",
    "https://www.srcc.edu/notice-practical-examination-schedule-brm-mcom-sem-1": "Notice-Practical Examination Schedule for BRM M.COM SEM 1",
    "https://www.srcc.edu/notice-practical-examination-schedule-numerical-methods-bch-sem-v": "Notice-Practical Examination Schedule for Numerical Methods BCH Sem-V",
+   "https://www.srcc.edu/notice-screening-applications-post-assistant-professor-department-commerce-2": "Notice-Screening of Applications for the post of Assistant Professor in the Department of Commerce",
    "https://www.srcc.edu/office-international-programmes-oip": "OFFICE OF INTERNATIONAL PROGRAMMES (OIP)",
    "https://www.srcc.edu/organogram": "Organogram",
    "https://www.srcc.edu/placement": "Placement",
