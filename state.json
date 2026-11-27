@@ -42,7 +42,7 @@
   "via": "direct"
  },
  "https://admissions.nirmauni.ac.in/ibbamba.html": {
-  "fails": 1,
+  "fails": 0,
   "hash": "ed40e3f614567693eb9f72447968db3dcfdb999d703144b15c0db18468c7bd60",
   "links": {
    "https://admissions-im.nirmauni.ac.in/Student/": "Apply Now / Login",
@@ -4798,14 +4798,22 @@
   "via": "direct"
  },
  "https://ug.iimb.ac.in/": {
-  "fails": 2,
-  "hash": "7643b16f7602b15ef1bdb6aefe02768647b52f3e08dbcc6c6f81462941d09693",
-  "links": {},
-  "name": "IIMB UG (UGAT/BSc)"
+  "fails": 0,
+  "hash": "f1a81df2ba2334f080afbacfc76cd338fdc7caa0a4d58d50b5cb8fee3dcfae54",
+  "links": {
+   "https://ug.iimb.ac.in/wp-content/uploads/2025/09/home-111-1-scaled.webp": "Image 1",
+   "https://ug.iimb.ac.in/wp-content/uploads/2026/06/4U4A3063-copy.jpg": "Image 4",
+   "https://ug.iimb.ac.in/wp-content/uploads/2026/08/inaugurates-first-batch-undergraduate-studies-2026.jpg": "Image 6",
+   "https://ug.iimb.ac.in/wp-content/uploads/2026/09/UG-3-copy.jpg": "Image 2",
+   "https://ug.iimb.ac.in/wp-content/uploads/2026/09/UG-4-copy.jpg": "Image 3",
+   "https://ug.iimb.ac.in/wp-content/uploads/2026/11/Axis-Bank.jpg": "Image 5"
+  },
+  "name": "IIMB UG (UGAT/BSc)",
+  "via": "reader"
  },
  "https://ug.iimb.ac.in/faq/": {
-  "fails": 1,
-  "hash": "b1efb825624a533a6a9c98bc372ed57960d0785870460605f37619a3c06484a6",
+  "fails": 0,
+  "hash": "c6914123eb3a9f3299f198946b12b9788868dbbaaf72ae218010d27536c61abd",
   "links": {
    "https://ug.iimb.ac.in/copyright-policy/": "Copyright Policy",
    "https://ug.iimb.ac.in/faculty-recruitments": "Faculty Recruitments",
@@ -4832,7 +4840,7 @@
   "via": "reader"
  },
  "https://ug.iimb.ac.in/ug-admissions-2027/": {
-  "fails": 1,
+  "fails": 0,
   "hash": "d01f89d158ddeef7595a1e8800637c46d063e443d4cce26d51ee3cfbf8087158",
   "links": {
    "https://campus.iimb.ac.in/psp/cssisprd/?cmd=login&languageCd=ENG": "Overseas/international Online application",
@@ -4925,7 +4933,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "cc860e98b8c1f2f5b4439677605bb6e4e5bb983c5503eb6ac62d86c274595fcf",
+  "hash": "2d29a1f2c0e7c4772920eb30ff80ffacb3e3df90be8c7e35ec7465d5f3fc1d02",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -5229,7 +5237,7 @@
  },
  "https://www.iimb.ac.in/": {
   "fails": 0,
-  "hash": "528ef2e9a2f8a1f4e1c2f28c90ef7fb419e51b34592d8b1053a7397f7fbb9e71",
+  "hash": "49734ed0145bbc92fe1670adc1532bab0adc14f09f1552e4c8d296910ee0f8be",
   "links": {
    "https://blog.iimb.ac.in/": "Blog",
    "https://dbe.iimb.ac.in/": "BBA in Digital Business and Entrepreneurship (BBA DBE)",
@@ -5246,8 +5254,8 @@
    "https://www.iimb.ac.in/about-institute": "About IIMB",
    "https://www.iimb.ac.in/about-institute/board": "Board",
    "https://www.iimb.ac.in/about-institute/equal-opportunity": "Office of Diversity and Inclusion",
-   "https://www.iimb.ac.in/about-institute/iimb-policy": "IIMB Policies",
-   "https://www.iimb.ac.in/about-institute/life-iimb": "life-iimb",
+   "https://www.iimb.ac.in/about-institute/iimb-policy": "Internal Committee",
+   "https://www.iimb.ac.in/about-institute/life-iimb": "Life @IIMB",
    "https://www.iimb.ac.in/about-institute/life-iimb/student-life": "student-life",
    "https://www.iimb.ac.in/about-institute/life-iimb/swo": "Student Welfare Office",
    "https://www.iimb.ac.in/about-institute/sustainability-iimb": "Sustainability",
@@ -5310,7 +5318,7 @@
    "https://www.iimb.ac.in/iimb-host-india-strategy-conference-2026": "13 th Dec IIM Bangalore to host 2026 edition of India Strategy Conference from 13-15 December Read More",
    "https://www.iimb.ac.in/iimb-igbc-green-campus-rating-system": "IIM Bangalore sets a new benchmark in green campus excellence",
    "https://www.iimb.ac.in/iimb-joins-cobs": "Council on Business & Society (CoBS)",
-   "https://www.iimb.ac.in/iimb-research": "View all",
+   "https://www.iimb.ac.in/iimb-research": "Research",
    "https://www.iimb.ac.in/iimb-research/about-irb": "IIMB Institutional Review Board (IRB)",
    "https://www.iimb.ac.in/iimb-research/iimb-institutional-review-board": "IIMB Institutional Review Board (IRB)",
    "https://www.iimb.ac.in/iimb_conferences": "UPCOMING EVENTS",
@@ -5420,7 +5428,7 @@
    "https://www.iimb.ac.in/production-operations": "Production & Operations Management",
    "https://www.iimb.ac.in/programmes": "View all programmes",
    "https://www.iimb.ac.in/programmes/": "MBA & Masters Programmes",
-   "https://www.iimb.ac.in/programmes/doctoral-programme": "Doctoral Programme",
+   "https://www.iimb.ac.in/programmes/doctoral-programme": "Doctor of Philosophy (PhD), Five-year fulltime programme",
    "https://www.iimb.ac.in/programmes/epgp": "Master of Business Administration (MBA), One-year fulltime residential programme for Experienced Professionals (EPGP)",
    "https://www.iimb.ac.in/programmes/nsrpredoc": "N. S. Ramaswamy Pre-doctoral Fellowship (NSR Pre-doc)",
    "https://www.iimb.ac.in/programmes/pgp": "Master of Business Administration (MBA), Two-year fulltime programme (PGP)",
@@ -6482,7 +6490,7 @@
  },
  "https://www.nfsu.ac.in/": {
   "fails": 0,
-  "hash": "c94be436cdfd911fb4602a30fcc9bccb014d7e2554fb80707412eb27c8e633b0",
+  "hash": "c32a250774c9ec32ce4b4dbded2f2e626c3cd764115e942ee50b411ff828dab3",
   "links": {
    "https://alumni.nfsu.ac.in/": "Alumni Read More",
    "https://beta.nfsu.ac.in/Uploads/Academic Calender 2022 - 2023.pdf": "Academic Calendar",
