@@ -2705,7 +2705,7 @@
  },
  "https://iimranchi.ac.in/p/ipm": {
   "fails": 0,
-  "hash": "91411b3f1a6b2e4ddc1fb5c8f30aa6031f68fa956f9443770897a5bd370ab166",
+  "hash": "f18c63b4e7d76ea8437f66e92452dabcd7353c545846cd5198e2befc9de70024",
   "links": {
    "https://alumni.iimranchi.ac.in/": "Alumni Portal",
    "https://iimranchi.ac.in/": "© 2026 Indian Institute of Management Ranchi",
@@ -4821,7 +4821,7 @@
   "via": "direct"
  },
  "https://ug.iimb.ac.in/": {
-  "fails": 3,
+  "fails": 4,
   "hash": "f1a81df2ba2334f080afbacfc76cd338fdc7caa0a4d58d50b5cb8fee3dcfae54",
   "links": {
    "https://ug.iimb.ac.in/wp-content/uploads/2025/09/home-111-1-scaled.webp": "Image 1",
@@ -4835,7 +4835,7 @@
   "via": "reader"
  },
  "https://ug.iimb.ac.in/faq/": {
-  "fails": 3,
+  "fails": 4,
   "hash": "c6914123eb3a9f3299f198946b12b9788868dbbaaf72ae218010d27536c61abd",
   "links": {
    "https://ug.iimb.ac.in/copyright-policy/": "Copyright Policy",
@@ -4863,7 +4863,7 @@
   "via": "reader"
  },
  "https://ug.iimb.ac.in/ug-admissions-2027/": {
-  "fails": 3,
+  "fails": 4,
   "hash": "d01f89d158ddeef7595a1e8800637c46d063e443d4cce26d51ee3cfbf8087158",
   "links": {
    "https://campus.iimb.ac.in/psp/cssisprd/?cmd=login&languageCd=ENG": "Overseas/international Online application",
@@ -4956,7 +4956,7 @@
  },
  "https://www.alliance.edu.in/": {
   "fails": 0,
-  "hash": "33ae2bbeeba9c30dea03585f02619f4b9d769b66f6236602ac3cbc4a0c5965b1",
+  "hash": "6ad6245526be0546ea52579a3a9d0399686d0dfc2999b26b5ea226ce39e0ea0b",
   "links": {
    "http://quasar.alliance.edu.in": "Learn More",
    "https://alliance.edu.in/": "",
@@ -6955,7 +6955,7 @@
  },
  "https://www.nmims.edu/": {
   "fails": 0,
-  "hash": "21cf511f2a927330ddc0c48518db82530e1d4bcb775ec9092525726d86e7b310",
+  "hash": "672ab241f90e7456d71ed6197f01c31c59a8dd4fb5064c4cd9e36ed6f7767419",
   "links": {
    "https://advertising.nmims.edu/": "Branding & Advertising",
    "https://aoa.nmims.edu/": "Aviation",
